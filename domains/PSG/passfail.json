@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Passed",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Failed at RC",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Failed - study not sent",
+    "description": ""
+  }
+]

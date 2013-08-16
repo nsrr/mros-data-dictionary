@@ -1,0 +1,57 @@
+[
+  {
+    "value": "1",
+    "display_name": "Oximetry",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "EEG",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Short Recording",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "No Data on Card",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Participant",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Multiple",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Equipment - unknown",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Disconnect",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Respiratory",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "Corrupted file on CD - no back up",
+    "description": ""
+  }
+]
