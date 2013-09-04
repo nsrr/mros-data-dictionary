@@ -1,0 +1,7 @@
+{
+  "id": "e1dur",
+  "display_name": "Hours of usable E1 (previously labeled eogldur)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

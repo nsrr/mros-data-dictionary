@@ -1,0 +1,7 @@
+{
+  "id": "o2use",
+  "display_name": "Oxygen in use during study",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "status",
+  "display_name": "Pass Fail Status",
+  "description": "",
+  "type": "choices",
+  "domain":"passfail"
+}

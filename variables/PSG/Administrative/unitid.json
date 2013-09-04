@@ -1,0 +1,7 @@
+{
+  "id": "unitid",
+  "display_name": "Unit ID - unit on which data were collected",
+  "description": "",
+  "type": "choices",
+  "domain":"unitid"
+}

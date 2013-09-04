@@ -1,0 +1,6 @@
+{
+  "id": "pfcomm",
+  "display_name": "Pass Fail comments",
+  "description": "",
+  "type": "string"
+}

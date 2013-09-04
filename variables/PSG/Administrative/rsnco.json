@@ -1,0 +1,7 @@
+{
+  "id": "rsnco",
+  "display_name": "Reason for study failure",
+  "description": "",
+  "type": "choices",
+  "domain":"reasonfail"
+}
