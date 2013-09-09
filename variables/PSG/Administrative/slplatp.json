@@ -1,0 +1,7 @@
+{
+  "id": "slplatp",
+  "display_name":"(Raw Data) use slp_lat for Sleep Latency (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

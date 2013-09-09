@@ -1,0 +1,7 @@
+{
+  "id": "remarunrel",
+  "display_name":"Scoring arousals in REM (only) unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "maxresou",
+  "display_name":"Max length respratory event >150s verified",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

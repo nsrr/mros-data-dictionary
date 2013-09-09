@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Abnormalities not clinically significant",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "A-fib/flutter within limits",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Urgent Afib/flutter",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "UrgentHR",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Urgent both 3 & 4",
+    "description": ""
+  }
+]

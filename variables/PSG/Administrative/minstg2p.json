@@ -1,0 +1,7 @@
+{
+  "id": "minstg2p",
+  "display_name":"(Raw Data) use timest from time in stage 2 sleep (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "mxcanop",
+  "display_name": "Max. Cent. Apnea length (NREM, Other, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

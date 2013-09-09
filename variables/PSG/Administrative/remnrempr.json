@@ -1,0 +1,7 @@
+{
+  "id": "remnrempr",
+  "display_name":"REM/NREM Scoring unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

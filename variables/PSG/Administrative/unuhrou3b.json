@@ -1,0 +1,7 @@
+{
+  "id": "unuhrou3b",
+  "display_name":"Urgent HR: Afib out of range >120 or <50",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

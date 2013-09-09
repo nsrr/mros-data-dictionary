@@ -1,0 +1,7 @@
+{
+  "id": "stg1stg2pr",
+  "display_name":"Stage 1/Stage 2 Scoring unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

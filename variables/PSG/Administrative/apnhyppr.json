@@ -1,0 +1,7 @@
+{
+  "id": "apnhyppr",
+  "display_name":"Apnea/Hypopnea scoring problems",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "stonsetp",
+  "display_name":"Sleep onset time (hh:mm:ss) 3 epochs stg 1 or 1 epoch any other stage",
+  "description": "",
+  "type": "time"
+}

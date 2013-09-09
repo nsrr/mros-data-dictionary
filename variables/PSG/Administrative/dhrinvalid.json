@@ -1,0 +1,7 @@
+{
+  "id": "dhrinvalid",
+  "display_name":"DHR data invalid (N/A on report)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

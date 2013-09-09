@@ -1,0 +1,7 @@
+{
+  "id": "unuhrou4d",
+  "display_name":"Urgent HR above 150 bpm for >=2 min",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

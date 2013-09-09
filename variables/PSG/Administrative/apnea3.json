@@ -1,0 +1,7 @@
+{
+  "id": "apnea3",
+  "display_name": "# of Apnea [CA + OA] events with >=3% desat",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

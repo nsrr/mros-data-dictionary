@@ -1,0 +1,7 @@
+{
+  "id": "unuhrou4e",
+  "display_name":"Urgent HR <30 bpm for >=2 min",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

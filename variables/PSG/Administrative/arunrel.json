@@ -1,0 +1,7 @@
+{
+  "id": "arunrel",
+  "display_name":"Scoring arousals unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

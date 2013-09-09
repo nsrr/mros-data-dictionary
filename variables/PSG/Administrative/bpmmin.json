@@ -1,0 +1,7 @@
+{
+  "id": "bpmmin",
+  "display_name":"Lowest Heart rate (bpm)",
+  "description": "",
+  "type": "numeric",
+  "units": "bpm"
+}

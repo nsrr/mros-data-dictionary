@@ -1,0 +1,7 @@
+{
+  "id": "otherou",
+  "display_name":"Other Outlier",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

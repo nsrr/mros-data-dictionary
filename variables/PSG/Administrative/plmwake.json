@@ -1,0 +1,7 @@
+{
+  "id": "plmwake",
+  "display_name":"Leg movementsat least 75% present in 10 minutes minimum wake",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "mncanop",
+  "display_name": "Min. Cent. Apnea length (NREM, Other, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

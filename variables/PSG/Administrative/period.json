@@ -1,0 +1,7 @@
+{
+  "id": "period",
+  "display_name":"Periodic breathing >=10 min",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

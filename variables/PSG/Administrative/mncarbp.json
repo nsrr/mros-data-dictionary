@@ -1,0 +1,7 @@
+{
+  "id": "mncarbp",
+  "display_name": "Min. Cent. Apnea length (REM, Back, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

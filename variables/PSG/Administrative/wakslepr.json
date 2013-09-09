@@ -1,0 +1,7 @@
+{
+  "id": "wakslepr",
+  "display_name":"Wake/Sleep Scoring unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

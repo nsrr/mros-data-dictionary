@@ -1,0 +1,7 @@
+{
+  "id": "slpeffp",
+  "display_name":"(Raw Data) use slp_eff for Sleep Efficiency (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

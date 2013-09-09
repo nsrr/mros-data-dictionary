@@ -1,0 +1,7 @@
+{
+  "id": "posn",
+  "display_name":"Position signal problems",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}
