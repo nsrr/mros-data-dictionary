@@ -1,0 +1,7 @@
+{
+  "id": "c4dur",
+  "display_name": "Hours of usable C4 (EEG)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

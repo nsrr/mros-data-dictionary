@@ -1,0 +1,7 @@
+{
+  "id": "quabdo",
+  "display_name": "Quality of Abdominal Effort",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqual"
+}

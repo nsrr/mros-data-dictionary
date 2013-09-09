@@ -1,0 +1,7 @@
+{
+  "id": "quxflow",
+  "display_name": "Quality of Cannula Flow (previously qucan)",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqual"
+}

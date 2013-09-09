@@ -1,0 +1,7 @@
+{
+  "id": "ecgdur",
+  "display_name": "Hours of usable ECG (previously labeled hrdur)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

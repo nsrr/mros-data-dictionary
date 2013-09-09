@@ -1,0 +1,7 @@
+{
+  "id": "quc4",
+  "display_name": "Quality of C4 (previously queeg2)",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqual"
+}

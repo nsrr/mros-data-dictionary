@@ -1,0 +1,7 @@
+{
+  "id": "sumdur",
+  "display_name": "Hours of usable SUM signal",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

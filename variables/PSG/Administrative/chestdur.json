@@ -1,0 +1,7 @@
+{
+  "id": "chestdur",
+  "display_name": "Hours of usable signal: Thoracic Effort",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

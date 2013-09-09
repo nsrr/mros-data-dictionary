@@ -1,0 +1,7 @@
+{
+  "id": "legldur",
+  "display_name": "Hours of usable signal: Left Leg",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}
