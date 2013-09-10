@@ -1,0 +1,7 @@
+{
+  "id": "mndrba",
+  "display_name": "Min. SaO2 w/ arousals (REM, Back, all desats) (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

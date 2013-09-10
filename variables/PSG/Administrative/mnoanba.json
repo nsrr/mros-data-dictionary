@@ -1,0 +1,7 @@
+{
+  "id": "mnoanba",
+  "display_name": "Min. Obs. Apnea length w/ arousals (NREM, Back, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

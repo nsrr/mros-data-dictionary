@@ -1,0 +1,7 @@
+{
+  "id": "avoaroa",
+  "display_name": "Avg. Obs. Apnea length w/ arousals (REM, Other, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}
