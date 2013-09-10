@@ -1,0 +1,7 @@
+{
+  "id": "avhrba2",
+  "display_name": "Avg. Hypopnea length w/ arousals (REM, Back, 2% desat) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

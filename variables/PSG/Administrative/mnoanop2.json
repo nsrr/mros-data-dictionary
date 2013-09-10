@@ -1,0 +1,7 @@
+{
+  "id": "mnoanop2",
+  "display_name": "Min. Obs. Apnea length (NREM, Other, 2% desat) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}
