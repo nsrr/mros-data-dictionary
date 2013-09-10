@@ -1,0 +1,7 @@
+{
+  "id": "avcanba",
+  "display_name": "Avg. Cent. Apnea length w/ arousals (NREM, Back, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "avdrop",
+  "display_name": "Avg. Desat (REM, Other, all desats)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

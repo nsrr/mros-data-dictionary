@@ -1,0 +1,7 @@
+{
+  "id": "mncaroa",
+  "display_name": "Min. Cent. Apnea length w/ arousals (REM, Other, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}
