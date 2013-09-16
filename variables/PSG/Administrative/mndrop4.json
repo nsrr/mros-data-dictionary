@@ -1,0 +1,7 @@
+{
+  "id": "mndrop4",
+  "display_name": "Min. SaO2 (REM, Other, 4% desat) (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

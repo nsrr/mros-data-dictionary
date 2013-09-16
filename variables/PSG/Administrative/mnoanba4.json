@@ -1,0 +1,7 @@
+{
+  "id": "mnoanba4",
+  "display_name": "Min. Obs. Apnea length w/ arousals (NREM, Back, 4% desat) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}
