@@ -1,0 +1,7 @@
+{
+  "id":"pctstapn",
+  "display_name": "(Raw data - use pcoslp)  % Sleep time in Apnea [CA+OA]",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

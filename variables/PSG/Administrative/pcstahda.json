@@ -1,0 +1,7 @@
+{
+  "id":"pcstahda",
+  "display_name": "(Raw data - use pcohb3waslp) % Sleep time in Apnea [CA+OA]+Hypopnea with > 3% desat or arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

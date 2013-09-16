@@ -1,0 +1,7 @@
+{
+  "id":"smnbnoh",
+  "display_name": "Min. Heart Rate (NREM, Other, all desats) (bpm)",
+  "description": "",
+  "type": "numeric",
+  "units": "bpm"
+}

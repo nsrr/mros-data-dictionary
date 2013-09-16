@@ -1,0 +1,7 @@
+{
+  "id":"avsao2rh",
+  "display_name": "Avg. SaO2 % during REM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

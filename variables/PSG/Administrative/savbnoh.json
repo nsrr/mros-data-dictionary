@@ -1,0 +1,7 @@
+{
+  "id":"savbnoh",
+  "display_name": "Avg. Heart Rate (NREM, Other, all desats) (bpm)",
+  "description": "",
+  "type": "numeric",
+  "units": "bpm"
+}

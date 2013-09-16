@@ -1,0 +1,7 @@
+{
+  "id":"aavbroh",
+  "display_name": "Avg. Heart Rate with arousal (REM, Other, all desats) (bpm)",
+  "description": "",
+  "type": "numeric",
+  "units": "bpm"
+}

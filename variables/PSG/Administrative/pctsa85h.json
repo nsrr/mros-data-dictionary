@@ -1,0 +1,7 @@
+{
+  "id":"pctsa85h",
+  "display_name": "% sleep time SaO2 is < 85%",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}
