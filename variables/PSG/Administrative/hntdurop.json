@@ -1,0 +1,7 @@
+{
+  "id":"hntdurop",
+  "display_name": "Total Hypopnea Length (NREM, Other) (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

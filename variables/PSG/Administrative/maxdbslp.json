@@ -1,0 +1,7 @@
+{
+  "id":"maxdbslp",
+  "display_name": "Max. Snore level during sleep (dB)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

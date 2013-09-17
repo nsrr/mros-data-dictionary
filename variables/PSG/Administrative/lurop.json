@@ -1,0 +1,7 @@
+{
+  "id":"lurop",
+  "display_name": "Max. AASM Hypopnea length (REM, Other, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

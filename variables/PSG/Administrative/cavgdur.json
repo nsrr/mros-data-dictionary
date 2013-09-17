@@ -1,0 +1,7 @@
+{
+  "id":"cavgdur",
+  "display_name": "Avg. Cent. Apnea Length (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

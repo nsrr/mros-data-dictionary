@@ -1,0 +1,7 @@
+{
+  "id":"surbp",
+  "display_name": "Min. AASM Hypopnea length (REM, Back, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

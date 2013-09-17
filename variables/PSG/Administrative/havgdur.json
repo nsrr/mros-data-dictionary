@@ -1,0 +1,7 @@
+{
+  "id":"havgdur",
+  "display_name": "Avg. Hypopnea Length (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

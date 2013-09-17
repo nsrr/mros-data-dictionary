@@ -1,0 +1,7 @@
+{
+  "id":"avurbp",
+  "display_name": "Avg. AASM Hypopnea length (REM, Back, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

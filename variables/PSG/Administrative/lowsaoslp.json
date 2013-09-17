@@ -1,0 +1,7 @@
+{
+  "id":"lowsaoslp",
+  "display_name": "Min. SaO2 % (Sleep time) (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

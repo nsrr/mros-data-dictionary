@@ -1,0 +1,7 @@
+{
+  "id":"nordball",
+  "display_name": "# of Snore in REM (dB level 1 - 5)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

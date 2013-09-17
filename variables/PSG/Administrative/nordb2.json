@@ -1,0 +1,7 @@
+{
+  "id":"nordb2",
+  "display_name": "# of Snore in REM (dB level 2)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

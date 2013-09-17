@@ -1,0 +1,7 @@
+{
+  "id":"nremepbp",
+  "display_name": "Sleep time (NREM, Back) (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

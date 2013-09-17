@@ -1,0 +1,7 @@
+{
+  "id":"saorem",
+  "display_name": "Avg. SaO2% (REM)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

@@ -1,0 +1,7 @@
+{
+  "id":"avgsaominslp",
+  "display_name": "Avg. SaO2% minimum (Sleep time) (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

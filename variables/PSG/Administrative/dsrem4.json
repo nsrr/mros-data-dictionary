@@ -1,0 +1,7 @@
+{
+  "id":"dsrem4",
+  "display_name": "# of desats per hour (REM, >= 4%)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

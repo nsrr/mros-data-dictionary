@@ -1,0 +1,7 @@
+{
+  "id":"lowsaor",
+  "display_name": "Min. SaO2 % (REM) (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

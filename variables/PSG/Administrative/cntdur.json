@@ -1,0 +1,7 @@
+{
+  "id":"cntdur",
+  "display_name": "Total Cent. Apnea Length (NREM) (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

@@ -1,0 +1,7 @@
+{
+  "id":"otdur",
+  "display_name": "Total Obs. Apnea Length (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

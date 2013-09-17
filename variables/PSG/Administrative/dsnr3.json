@@ -1,0 +1,7 @@
+{
+  "id":"dsnr3",
+  "display_name": "# of desats per hour (NREM, >= 3%)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

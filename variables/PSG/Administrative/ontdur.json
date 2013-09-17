@@ -1,0 +1,7 @@
+{
+  "id":"ontdur",
+  "display_name": "Total Obs. Apnea Length (NREM) (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

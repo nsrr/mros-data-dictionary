@@ -1,0 +1,7 @@
+{
+  "id":"ortdurop",
+  "display_name": "Total Obs. Apnea Length (REM, Other) (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

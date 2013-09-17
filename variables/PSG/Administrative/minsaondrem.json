@@ -1,0 +1,7 @@
+{
+  "id":"minsaondrem",
+  "display_name": "Min. SaO2% Nadir  (REM)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

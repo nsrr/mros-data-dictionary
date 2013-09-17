@@ -1,0 +1,7 @@
+{
+  "id":"avgsaominrpt",
+  "display_name": "Avg. SaO2% minimum (Report time) (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}
