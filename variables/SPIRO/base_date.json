@@ -1,0 +1,6 @@
+{
+  "id":"base_date",
+  "display_name": "base_date",
+  "description": "",
+  "type": "datetime"
+}

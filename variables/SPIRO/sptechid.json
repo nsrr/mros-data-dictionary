@@ -1,0 +1,7 @@
+{
+  "id":"sptechid",
+  "display_name": "Spirometry Technician ID",
+  "description": "",
+  "type": "choices",
+  "domain": "techid"
+}

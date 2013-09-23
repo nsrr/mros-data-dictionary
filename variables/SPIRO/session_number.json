@@ -1,0 +1,7 @@
+{
+  "id":"session_number",
+  "display_name": "session_number",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

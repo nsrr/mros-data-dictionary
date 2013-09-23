@@ -1,0 +1,7 @@
+{
+  "id":"spscorerid",
+  "display_name": "Spirometry Scorer ID",
+  "description": "",
+  "type": "choices",
+  "domain": "scorersid"
+}

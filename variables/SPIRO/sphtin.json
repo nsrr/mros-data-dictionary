@@ -1,0 +1,7 @@
+{
+  "id":"sphtin",
+  "display_name": "Spirometry Height (in) - taken from main VS2 dataset",
+  "description": "",
+  "type": "numeric",
+  "units": "inches"
+}

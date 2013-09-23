@@ -1,0 +1,7 @@
+{
+  "id":"temperature",
+  "display_name": "temperature",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

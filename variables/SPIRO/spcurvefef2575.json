@@ -1,0 +1,7 @@
+{
+  "id":"spcurvefef2575",
+  "display_name": "Spirometry: curve to be used for reporting FEF 25/75",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

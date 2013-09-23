@@ -1,0 +1,6 @@
+{
+  "id":"race",
+  "display_name": "RACE - taken from main VS2 dataset (Asians recoded as Caucasian for analysis)",
+  "description": "",
+  "type": "string"
+}

@@ -1,0 +1,6 @@
+{
+  "id":"spcomm",
+  "display_name": "Spirometry: Scorer comments",
+  "description": "",
+  "type": "string"
+}

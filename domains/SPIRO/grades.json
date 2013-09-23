@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Grade A",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Grade B",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Grade C",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Grade D",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Grade F",
+    "description": ""
+  }
+]

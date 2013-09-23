@@ -1,0 +1,7 @@
+{
+  "id":"spcurvefvc",
+  "display_name": "Spirometry: curve to be used for reporting FVC",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

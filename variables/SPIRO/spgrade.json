@@ -1,0 +1,7 @@
+{
+  "id":"spgrade",
+  "display_name": "Spirometry: Curve Grade",
+  "description": "",
+  "type": "choices",
+  "domains": "grades"
+}

@@ -1,0 +1,7 @@
+{
+  "id":"spcurvefev1",
+  "display_name": "Spirometry: curve to be used for reporting FEV1",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

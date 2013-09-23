@@ -1,0 +1,7 @@
+{
+  "id":"spncurve",
+  "display_name": "Spirometry: Total number of collected curves",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

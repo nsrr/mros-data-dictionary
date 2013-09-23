@@ -1,0 +1,7 @@
+{
+  "id":"spbest2end",
+  "display_name": "Spirometry: 3 best curves: 2 - Acceptable End?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}
