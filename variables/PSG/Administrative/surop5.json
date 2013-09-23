@@ -1,0 +1,7 @@
+{
+  "id":"surop5",
+  "display_name": "Min. AASM Hypopnea length (REM, Other, 5% desat) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

@@ -1,0 +1,7 @@
+{
+  "id":"sunrbp3",
+  "display_name": "Min. AASM Hypopnea length (NREM, Back, 3% desat) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

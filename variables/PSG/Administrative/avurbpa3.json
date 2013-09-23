@@ -1,0 +1,7 @@
+{
+  "id":"avurbpa3",
+  "display_name": "Avg. AASM Hypopnea with arousal length (REM, Back, 3% desat) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

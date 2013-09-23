@@ -1,0 +1,7 @@
+{
+  "id":"avuropa3",
+  "display_name": "Avg. AASM Hypopnea with arousal length (REM, Other, 3% desat) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

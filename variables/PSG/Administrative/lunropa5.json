@@ -1,0 +1,7 @@
+{
+  "id":"lunropa5",
+  "display_name": "Max. AASM Hypopnea with arousal length (NREM, Other, 5% desat) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

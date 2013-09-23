@@ -1,0 +1,7 @@
+{
+  "id":"lunrbp4",
+  "display_name": "Max. AASM Hypopnea length (NREM, Back, 4% desat) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

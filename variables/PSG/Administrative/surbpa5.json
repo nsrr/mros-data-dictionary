@@ -1,0 +1,7 @@
+{
+  "id":"surbpa5",
+  "display_name": "Min. AASM Hypopnea with arousal length (REM, Back, 5% desat) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}
