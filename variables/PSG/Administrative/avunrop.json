@@ -1,0 +1,7 @@
+{
+  "id":"avunrop",
+  "display_name": "Avg. AASM Hypopnea length (NREM, Other, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

@@ -1,0 +1,7 @@
+{
+  "id":"sunrbpa",
+  "display_name": "Min. AASM Hypopnea with arousal length (NREM, Back, all desats) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

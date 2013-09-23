@@ -1,0 +1,7 @@
+{
+  "id":"hunrbpa",
+  "display_name": "# AASM Hypopnea with arousal per hour (NREM, Back, all desats)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}
