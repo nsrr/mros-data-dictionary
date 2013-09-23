@@ -1,0 +1,7 @@
+{
+  "id":"timeremp",
+  "display_name": "Filtered - pct time REM",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

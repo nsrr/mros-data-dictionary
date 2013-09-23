@@ -1,0 +1,7 @@
+{
+  "id":"time_bed",
+  "display_name": "Filtered - Wake after sleep onset (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

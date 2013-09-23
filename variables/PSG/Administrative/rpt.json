@@ -1,0 +1,6 @@
+{
+  "id":"rpt",
+  "display_name": "Compumedics Report Version",
+  "description": "",
+  "type": "string"
+}

@@ -1,0 +1,7 @@
+{
+  "id":"minsat",
+  "display_name": "Filtered - min SaO2 in sleep",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

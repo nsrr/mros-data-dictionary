@@ -1,0 +1,7 @@
+{
+  "id":"timest2",
+  "display_name": "Filtered - time stage 2 minutes",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

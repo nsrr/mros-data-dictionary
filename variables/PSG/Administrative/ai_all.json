@@ -1,0 +1,7 @@
+{
+  "id":"ai_all",
+  "display_name": "Filtered - Overall arousal index",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

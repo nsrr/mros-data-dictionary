@@ -1,0 +1,7 @@
+{
+  "id":"longhypb",
+  "display_name": "Filtered - Longest Hypopnea (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

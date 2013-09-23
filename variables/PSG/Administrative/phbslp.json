@@ -1,0 +1,7 @@
+{
+  "id":"phbslp",
+  "display_name": "Filtered - % Sleep time in Hypopnea",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

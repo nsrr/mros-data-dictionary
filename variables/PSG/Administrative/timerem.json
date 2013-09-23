@@ -1,0 +1,7 @@
+{
+  "id":"timerem",
+  "display_name": "Filtered - time rem minutes",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

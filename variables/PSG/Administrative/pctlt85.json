@@ -1,0 +1,7 @@
+{
+  "id":"pctlt85",
+  "display_name": "Filtered - pct time < 85% desat",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

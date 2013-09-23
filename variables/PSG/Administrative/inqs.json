@@ -1,0 +1,7 @@
+{
+  "id":"inqs",
+  "display_name": "Has PSG QS Form Entered",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id":"avgsat",
+  "display_name": "Filtered - avg SaO2 in sleep",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}
