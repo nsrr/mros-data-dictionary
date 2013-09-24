@@ -1,0 +1,7 @@
+{
+  "id":"fev6_obs",
+  "display_name": "Observed FEV6 - Volume (Liters)",
+  "description": "",
+  "type": "numeric",
+  "units": "Liters"
+}

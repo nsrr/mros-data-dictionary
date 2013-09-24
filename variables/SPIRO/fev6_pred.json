@@ -1,0 +1,7 @@
+{
+  "id":"fev6_pred",
+  "display_name": "Predicted FEV6 - Volume (Liters)",
+  "description": "",
+  "type": "numeric",
+  "units": "Liters"
+}

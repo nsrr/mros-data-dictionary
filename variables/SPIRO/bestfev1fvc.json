@@ -1,0 +1,7 @@
+{
+  "id":"bestfev1fvc",
+  "display_name": "FEV1 / FVC (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

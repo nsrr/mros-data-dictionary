@@ -1,0 +1,6 @@
+{
+  "id":"racemachine",
+  "display_name": "Race from spirometry machine (some are incorrect)",
+  "description": "",
+  "type": "string"
+}

@@ -1,0 +1,7 @@
+{
+  "id":"pef_obs",
+  "display_name": "Observed PEF - Liters/second",
+  "description": "",
+  "type": "numeric",
+  "units": "Liters/second"
+}

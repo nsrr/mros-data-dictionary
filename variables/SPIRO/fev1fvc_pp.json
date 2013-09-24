@@ -1,0 +1,7 @@
+{
+  "id":"fev1fvc_pp",
+  "display_name": "% Predicted FEV1/FVC (fev1fvc_obs/fev1fvc_pred)",
+  "description": "",
+  "type": "numeric",
+  "units": "%"
+}

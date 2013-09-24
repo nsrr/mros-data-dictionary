@@ -1,0 +1,7 @@
+{
+  "id":"htcm",
+  "display_name": "Height (cm) converted from inches (sphtin * 2.54)",
+  "description": "",
+  "type": "numeric",
+  "units": "cm"
+}

@@ -1,0 +1,7 @@
+{
+  "id":"fvc_pred",
+  "display_name": "Predicted FVC (Breathing Capacity) - Volume (Liters)",
+  "description": "",
+  "type": "numeric",
+  "units": "Liters"
+}

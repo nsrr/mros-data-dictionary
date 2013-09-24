@@ -1,0 +1,7 @@
+{
+  "id":"pef_pred",
+  "display_name": "Predicted PEF - Liters/second",
+  "description": "",
+  "type": "numeric",
+  "units": "Liters/second"
+}

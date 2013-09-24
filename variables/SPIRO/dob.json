@@ -1,0 +1,6 @@
+{
+  "id":"dob",
+  "display_name": "Date of birth as input into spirometry device",
+  "description": "",
+  "type": "date"
+}
