@@ -13,8 +13,10 @@ data mros1_psg;
   visit = 1;
   gender = 2;
 
+  if envrmtou = -1 then envrmtou = 1;
+
   *drop unncessary / identifying variables;
-  *drop scorerid stdatep scoredt StdyDt ScorDt ScorID CDLabel Comm EnterDt dateadd datechange notes nobrslp nobrap nobrc nobro nobrh notca notco notch minmaxhrou pdb5slp prdb5slp nordb2 nordb3 nordb4slp nordb4 nordb5slp nordb5 nordball maxdbslp avgdbslp chinrdur quchinr notcc;
+  drop cdlabel comm count f2r maltoth maltothdesc;
 run;
 
 data mros2_psg;
@@ -23,9 +25,10 @@ data mros2_psg;
 
   visit = 2;
   gender = 2;
+  if status ne 1 then delete;
 
   *drop unncessary / identifying variables;
-  *drop scorerid stdatep scoredt StdyDt ScorDt ScorID CDLabel Comm EnterDt dateadd datechange notes nobrslp nobrap nobrc nobro nobrh notca notco notch minmaxhrou pdb5slp prdb5slp nordb2 nordb3 nordb4slp nordb4 nordb5slp nordb5 nordball maxdbslp avgdbslp chinrdur quchinr notcc;
+  drop scorid cdlabel count;
 run;
 
 *export dataset;
