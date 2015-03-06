@@ -1,0 +1,8 @@
+{
+  "id": "pdrid",
+  "display_name": "Public Data Release ID",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "commonly_used": true
+}

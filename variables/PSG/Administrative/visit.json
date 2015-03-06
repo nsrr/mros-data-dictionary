@@ -1,0 +1,7 @@
+{
+  "id": "visit",
+  "display_name": "Visit Number",
+  "description": "The MrOS Visit where the data were collected/derived.",
+  "type": "choices",
+  "domain": "visit"
+}

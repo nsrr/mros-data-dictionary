@@ -1,0 +1,7 @@
+{
+  "id": "candur",
+  "display_name": "Hours of usable canula based on TRT",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

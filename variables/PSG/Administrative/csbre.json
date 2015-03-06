@@ -1,0 +1,11 @@
+{
+  "id": "csbre",
+  "display_name": "PSG Quality Assessment: Periodic breathing (10 min)",
+  "description": "Scorer observed periodic breathing for a period of at least 10 minutes during study.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "csbre",
+    "cheyne stokes"
+  ]
+}

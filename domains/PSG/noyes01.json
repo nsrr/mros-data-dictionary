@@ -5,8 +5,13 @@
     "description": ""
   },
   {
-    "value": "2",
+    "value": "0",
     "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Not applicable",
     "description": ""
   }
 ]

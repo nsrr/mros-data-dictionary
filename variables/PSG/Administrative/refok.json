@@ -1,0 +1,7 @@
+{
+  "id": "refok",
+  "display_name": "Reference and ground electrodes working?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}
