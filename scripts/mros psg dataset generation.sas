@@ -28,7 +28,7 @@ data mros2_psg;
   if status ne 1 then delete;
 
   *drop unncessary / identifying variables;
-  drop scorid cdlabel count;
+  drop scorid cdlabel count rsnco unuhrou4g unuhrou4h unuhrou4i unuhrou4j prio;
 run;
 
 *export dataset;

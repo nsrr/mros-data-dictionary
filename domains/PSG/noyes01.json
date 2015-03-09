@@ -13,5 +13,10 @@
     "value": "8",
     "display_name": "Not applicable",
     "description": ""
+  },
+  {
+    "value": "-9",
+    "display_name": "Missing",
+    "description": ""
   }
 ]

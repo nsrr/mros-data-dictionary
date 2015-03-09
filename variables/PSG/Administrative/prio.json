@@ -1,7 +1,0 @@
-{
-  "id": "prio",
-  "display_name": "Flagged for priority scoring",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes01"
-}
