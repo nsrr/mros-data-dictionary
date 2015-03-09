@@ -1,7 +1,0 @@
-{
-  "id":"bestvext",
-  "display_name": "Extrapolated Volume (mL)",
-  "description": "",
-  "type": "numeric",
-  "units": "mL"
-}

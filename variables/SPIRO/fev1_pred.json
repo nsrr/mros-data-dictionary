@@ -1,7 +1,0 @@
-{
-  "id":"fev1_pred",
-  "display_name": "Predicted FEV1 (Expiratory Flow) - Volume (Liters)",
-  "description": "",
-  "type": "numeric",
-  "units": "Liters"
-}

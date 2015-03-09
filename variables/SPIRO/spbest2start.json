@@ -1,7 +1,0 @@
-{
-  "id":"spbest2start",
-  "display_name": "Spirometry: 3 best curves: 2 - Acceptable Start?",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

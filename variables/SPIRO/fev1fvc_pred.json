@@ -1,7 +1,0 @@
-{
-  "id":"fev1fvc_pred",
-  "display_name": "Predicted FEV1/FVC - %",
-  "description": "",
-  "type": "numeric",
-  "units": "%"
-}

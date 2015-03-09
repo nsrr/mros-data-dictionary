@@ -1,7 +1,0 @@
-{
-  "id":"bestfet",
-  "display_name": "Forced Expiratory Time (FET) (s)",
-  "description": "",
-  "type": "numeric",
-  "units": "seconds"
-}

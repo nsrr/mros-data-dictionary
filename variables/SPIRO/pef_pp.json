@@ -1,7 +1,0 @@
-{
-  "id":"pef_pp",
-  "display_name": "% Predicted PEF (pef_obs/pef_pred)",
-  "description": "",
-  "type": "numeric",
-  "units": "%"
-}

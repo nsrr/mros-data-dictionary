@@ -1,7 +1,0 @@
-{
-  "id":"spcurvepef",
-  "display_name": "Spirometry: curve to be used for reporting PEF",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

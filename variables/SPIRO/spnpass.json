@@ -1,7 +1,0 @@
-{
-  "id":"spnpass",
-  "display_name": "Spirometry: Total number of acceptable curves",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

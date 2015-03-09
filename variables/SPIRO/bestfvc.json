@@ -1,7 +1,0 @@
-{
-  "id":"bestfvc",
-  "display_name": "Forced vital capacity (FVC) (mL)",
-  "description": "",
-  "type": "numeric",
-  "units": "mL"
-}

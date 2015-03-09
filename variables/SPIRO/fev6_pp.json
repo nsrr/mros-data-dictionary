@@ -1,7 +1,0 @@
-{
-  "id":"fev6_pp",
-  "display_name": "% Predicted FEV6 (fev6_obs/fev6_pred)",
-  "description": "",
-  "type": "numeric",
-  "units": "%"
-}

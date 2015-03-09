@@ -1,7 +1,0 @@
-{
-  "id":"bestpef",
-  "display_name": "Peak Expiratory Flow (PEF) (mL/s)",
-  "description": "",
-  "type": "numeric",
-  "units": "mL/s"
-}

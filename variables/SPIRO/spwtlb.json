@@ -1,7 +1,0 @@
-{
-  "id":"spwtlb",
-  "display_name": "Spirometry Weight (lb) - taken from main VS2 dataset",
-  "description": "",
-  "type": "numeric",
-  "units": "lbs"
-}

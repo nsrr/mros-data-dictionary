@@ -1,7 +1,0 @@
-{
-  "id":"fef2575_obs",
-  "display_name": "Observed FEF 25-75% - Liters/second",
-  "description": "",
-  "type": "numeric",
-  "units": "Liters/second"
-}

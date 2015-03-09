@@ -1,7 +1,0 @@
-{
-  "id":"fev1_obs",
-  "display_name": "Observed FEV1 (Expiratory Flow) - Volume (Liters)",
-  "description": "",
-  "type": "numeric",
-  "units": "Liters"
-}

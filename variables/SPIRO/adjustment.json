@@ -1,7 +1,0 @@
-{
-  "id":"adjustment",
-  "display_name": "Adjustment factor for predicted values",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

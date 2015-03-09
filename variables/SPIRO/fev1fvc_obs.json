@@ -1,7 +1,0 @@
-{
-  "id":"fev1fvc_obs",
-  "display_name": "Observed FEV1/FVC - %",
-  "description": "",
-  "type": "numeric",
-  "units": "%"
-}

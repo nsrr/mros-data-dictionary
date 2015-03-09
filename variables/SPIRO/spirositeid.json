@@ -1,7 +1,0 @@
-{
-  "id":"spirositeid",
-  "display_name": "Spirometry Site ID",
-  "description": "",
-  "type": "choices",
-  "domain": "siteid"
-}

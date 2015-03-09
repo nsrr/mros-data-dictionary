@@ -1,7 +1,0 @@
-{
-  "id":"fvc_obs",
-  "display_name": "Observed FVC (Breathing Capacity) - Volume (Liters)",
-  "description": "",
-  "type": "numeric",
-  "units": "Liters"
-}
