@@ -1,8 +1,7 @@
 ---
 slug: mros
-
 visit: visit
-charts: []
+charts:
 # - chart: age
 #   title: Age
 - chart: gender
