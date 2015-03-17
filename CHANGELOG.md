@@ -7,4 +7,4 @@
     - `mros2-psg-dataset-0.1.0.beta2.csv`
 - **Gem Changes**
   - Use of Ruby 2.1.2 is now recommended
-  - Updated to spout 0.8.0.rc2
+  - Updated to spout 0.10.2
