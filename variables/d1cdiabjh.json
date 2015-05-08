@@ -1,0 +1,7 @@
+{
+  "id": "d1cdiabjh",
+  "display_name": "Categorical calculated variable for diabetes",
+  "description": "",
+  "type": "choices",
+  "domain": "cat"
+}

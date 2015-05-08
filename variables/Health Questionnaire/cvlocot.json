@@ -1,0 +1,7 @@
+{
+  "id": "cvlocot",
+  "display_name": "Q3. CHEST PAIN: Location other",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "cvchd",
+  "display_name": "Had previous Dx of CHD?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

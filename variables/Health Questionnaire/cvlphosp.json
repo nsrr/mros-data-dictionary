@@ -1,0 +1,7 @@
+{
+  "id": "cvlphosp",
+  "display_name": "Q4.LEG PAIN: hospitalized for?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

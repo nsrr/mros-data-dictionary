@@ -1,0 +1,7 @@
+{
+  "id": "bpbpsysm",
+  "display_name": "Average systolic BP mmHg",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

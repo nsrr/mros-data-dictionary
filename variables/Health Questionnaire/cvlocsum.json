@@ -1,0 +1,7 @@
+{
+  "id": "cvlocsum",
+  "display_name": "Q3. CHEST PAIN: Location upper middle",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

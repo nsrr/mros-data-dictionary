@@ -1,0 +1,7 @@
+{
+  "id": "cvpace",
+  "display_name": "Q2.Ever had pacemaker implant?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

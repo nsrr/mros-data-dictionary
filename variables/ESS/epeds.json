@@ -1,0 +1,7 @@
+{
+  "id": "epeds",
+  "display_name": "Excessive daytime sleepiness (ESS>10)",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

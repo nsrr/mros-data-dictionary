@@ -1,0 +1,7 @@
+{
+  "id": "cvchpain",
+  "display_name": "Q3. Have you ever had chest pain?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}
