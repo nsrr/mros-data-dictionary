@@ -1,0 +1,47 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "D",
+    "display_name": "Don't Know",
+    "description": ""
+  },
+  {
+    "value": "K",
+    "display_name": "DK/UN",
+    "description": ""
+  },
+  {
+    "value": "M",
+    "display_name": "Not Applicable",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Rarely",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Sometimes",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Often / Frequently",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Almost always / Always",
+    "description": ""
+  }
+]

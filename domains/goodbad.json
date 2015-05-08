@@ -1,0 +1,27 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Very good",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Fairly good",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Fairly bad",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Very bad",
+    "description": ""
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "No problem at all",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Only a slight problem",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Somewhat of a problem",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "A very big problem",
+    "description": ""
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Score 0",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Score 1-9",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Score 10-18",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Score 19-27",
+    "description": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Don't do this activity for other reasons",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Yes, extreme difficulty",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes, moderate difficulty",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Yes, a little difficulty",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "No difficulty",
+    "description": ""
+  }
+]

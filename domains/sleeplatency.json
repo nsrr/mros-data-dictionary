@@ -1,0 +1,27 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Fall asleep quickly",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Fall asleep fairly quickly",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Do not fall asleep quickly",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Fall asleep slowly",
+    "description": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Past",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Current",
+    "description": ""
+  }
+]

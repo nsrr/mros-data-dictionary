@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Abnormalities not clinical significance",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Fib/flutter, HR within limits, no action",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Fib/flutter, HR > limits, referral to site",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Urgent HR",
+    "description": ""
+  }
+]

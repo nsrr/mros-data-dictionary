@@ -1,0 +1,27 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "K",
+    "display_name": "DK/UN",
+    "description": ""
+  },
+  {
+    "value": "M",
+    "display_name": "Not Applicable",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Not checked",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Checked",
+    "description": ""
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "<=15 minutes",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "16-30 minutes",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "31-60 minutes",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": ">60 minutes",
+    "description": ""
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": ">7 hours",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": ">=6 to <=7 hours",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": ">=5 to <6 hours",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "<5 hours",
+    "description": ""
+  }
+]

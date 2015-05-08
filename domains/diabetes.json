@@ -1,0 +1,22 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Normoglycemic",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Impaired Fasting Glucose (IFG)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Diabetes",
+    "description": ""
+  }
+]

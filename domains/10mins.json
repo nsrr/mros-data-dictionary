@@ -1,0 +1,32 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "D",
+    "display_name": "Don't Know",
+    "description": ""
+  },
+  {
+    "value": "K",
+    "display_name": "DK/UN",
+    "description": ""
+  },
+  {
+    "value": "M",
+    "display_name": "Not Applicable",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "10 minutes or less",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "More than 10 minutes",
+    "description": ""
+  }
+]

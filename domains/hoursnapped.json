@@ -1,0 +1,27 @@
+[
+  {
+    "value": "K",
+    "display_name": "DK/UN",
+    "description": ""
+  },
+  {
+    "value": "M",
+    "display_name": "Not Applicable",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Less than 1",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "At least 1, no more than 2",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "More than 2",
+    "description": ""
+  }
+]

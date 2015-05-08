@@ -1,0 +1,27 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": ">85% Efficiency",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": ">=75% to <=85% Efficiency",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": ">=65% to <75% Efficiency",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "<65% Efficiency",
+    "description": ""
+  }
+]
