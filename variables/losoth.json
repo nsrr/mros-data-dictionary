@@ -1,7 +1,0 @@
-{
-  "id": "losoth",
-  "display_name":"Data Lost - Other",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

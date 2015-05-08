@@ -1,7 +1,0 @@
-{
-  "id":"avurop",
-  "display_name": "Avg. AASM Hypopnea length (REM, Other, all desats) (seconds)",
-  "description": "",
-  "type": "numeric",
-  "units": "seconds"
-}

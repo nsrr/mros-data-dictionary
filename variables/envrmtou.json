@@ -1,7 +1,0 @@
-{
-  "id": "envrmtou",
-  "display_name": "Environment outlier 1=not done in home",
-  "description": "",
-  "type": "choices",
-  "domain":"check"
-}

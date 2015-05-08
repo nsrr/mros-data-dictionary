@@ -1,7 +1,0 @@
-{
-  "id": "ahiov50",
-  "display_name":"Urgent Referral RDI > 50",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

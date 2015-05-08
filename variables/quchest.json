@@ -1,7 +1,0 @@
-{
-  "id": "quchest",
-  "display_name": "Quality of Thoracic Effort",
-  "description": "",
-  "type": "choices",
-  "domain": "sigqual"
-}

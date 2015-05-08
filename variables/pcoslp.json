@@ -1,7 +1,0 @@
-{
-  "id":"pcoslp",
-  "display_name": "Filtered - % Sleep time in Apnea [CA+OA]",
-  "description": "",
-  "type": "numeric",
-  "units": "%"
-}

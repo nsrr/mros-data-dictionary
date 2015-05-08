@@ -1,7 +1,0 @@
-{
-  "id": "qusum",
-  "display_name": "Quality of SUM channel",
-  "description": "",
-  "type": "choices",
-  "domain": "sigqual"
-}

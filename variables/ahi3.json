@@ -1,7 +1,0 @@
-{
-  "id": "ahi3",
-  "display_name": "Apnea [CA+OA] / Hypopnea events with >= 3% percent desat per hour of sleep (does not include AASM Hypopneas)",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

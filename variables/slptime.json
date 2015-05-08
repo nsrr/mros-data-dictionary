@@ -1,7 +1,0 @@
-{
-  "id": "slptime",
-  "display_name": "Sleep time (minutes)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

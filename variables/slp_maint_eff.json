@@ -1,7 +1,0 @@
-{
-  "id":"slp_maint_eff",
-  "display_name": "Filtered - sleep maintenance efficiency %",
-  "description": "",
-  "type": "numeric",
-  "units": "%"
-}

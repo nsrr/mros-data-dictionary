@@ -1,7 +1,0 @@
-{
-  "id": "techid",
-  "display_name": "Tech ID - Tech performing hookup",
-  "description": "",
-  "type": "choices",
-  "domain":"techid"
-}

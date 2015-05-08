@@ -1,7 +1,0 @@
-{
-  "id": "avoarba",
-  "display_name": "Avg. Obs. Apnea length w/ arousals (REM, Back, all desats) (seconds)",
-  "description": "",
-  "type": "numeric",
-  "units": "seconds"
-}

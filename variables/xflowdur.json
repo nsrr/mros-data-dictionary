@@ -1,7 +1,0 @@
-{
-  "id": "xflowdur",
-  "display_name": "Hours of usable signal: Cannula Flow (previously labeled candur)",
-  "description": "",
-  "type": "numeric",
-  "units": "hours"
-}

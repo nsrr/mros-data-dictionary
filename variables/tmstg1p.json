@@ -1,7 +1,0 @@
-{
-  "id": "tmstg1p",
-  "display_name":"(Raw Data) use timest1p for Pct. sleep time in stage 1 sleep (%)",
-  "description": "",
-  "type": "numeric",
-  "units": "%"
-}

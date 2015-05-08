@@ -1,7 +1,0 @@
-{
-  "id": "slpprdp",
-  "display_name":"Total time from lights out to lights on that is scored as sleep (rounded to nearest minute)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

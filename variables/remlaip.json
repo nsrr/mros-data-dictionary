@@ -1,7 +1,0 @@
-{
-  "id": "remlaip",
-  "display_name":"(Raw Data) use rem_lat1 for REM Latency I",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

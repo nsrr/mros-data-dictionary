@@ -1,7 +1,0 @@
-{
-  "id":"dssao90",
-  "display_name": "# of desats with SaO2 drops below 90% in sleep",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

@@ -1,7 +1,0 @@
-{
-  "id": "losbeg",
-  "display_name":"Data Lost at beginning of study",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

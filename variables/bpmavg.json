@@ -1,7 +1,0 @@
-{
-  "id": "bpmavg",
-  "display_name":"Average Heart rate (bpm)",
-  "description": "",
-  "type": "numeric",
-  "units": "bpm"
-}

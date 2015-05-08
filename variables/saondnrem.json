@@ -1,7 +1,0 @@
-{
-  "id": "saondnrem",
-  "display_name": "Average oxygen saturation nadir (NREM)",
-  "description": "Mean oxygen saturation nadir in nonREM",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation"
-}

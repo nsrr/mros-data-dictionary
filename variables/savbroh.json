@@ -1,7 +1,0 @@
-{
-  "id":"savbroh",
-  "display_name": "Avg. Heart Rate (REM, Other, all desats) (bpm)",
-  "description": "",
-  "type": "numeric",
-  "units": "bpm"
-}

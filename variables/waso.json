@@ -1,7 +1,0 @@
-{
-  "id":"waso",
-  "display_name": "Filtered - Wake after sleep onset (minutes)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

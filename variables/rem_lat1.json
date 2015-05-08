@@ -1,7 +1,0 @@
-{
-  "id":"rem_lat1",
-  "display_name": "Filtered - rem latency I in minutes slp onset to first rem",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

@@ -1,7 +1,0 @@
-{
-  "id":"sunropa",
-  "display_name": "Min. AASM Hypopnea with arousal length (NREM, Other, all desats) (seconds)",
-  "description": "",
-  "type": "numeric",
-  "units": "seconds"
-}

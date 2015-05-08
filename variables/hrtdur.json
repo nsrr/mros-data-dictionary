@@ -1,7 +1,0 @@
-{
-  "id":"hrtdur",
-  "display_name": "Total Apnea [CA+OA] and Hypopnea Length (REM) (minutes)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

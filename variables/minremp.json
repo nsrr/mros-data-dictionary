@@ -1,7 +1,0 @@
-{
-  "id": "minremp",
-  "display_name":"(Raw Data) use timerem for time in REM sleep (minutes)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

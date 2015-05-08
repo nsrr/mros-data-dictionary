@@ -1,7 +1,0 @@
-{
-  "id": "slpprdm",
-  "display_name":"Sleep Period (min) includes time awake after lights on which is not correct & not in final dataset. Use time_bed for time from Lights Out to Light On",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

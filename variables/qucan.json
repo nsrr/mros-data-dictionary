@@ -1,7 +1,0 @@
-{
-  "id": "qucan",
-  "display_name": "Quality of cannula",
-  "description": "Quality of cannula",
-  "type": "choices",
-  "domain": "sigqual"
-}

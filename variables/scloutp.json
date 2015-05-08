@@ -1,6 +1,0 @@
-{
-  "id": "scloutp",
-  "display_name":"Lights out set by scorer (hh:mm:ss)",
-  "description": "",
-  "type": "time"
-}

@@ -1,6 +1,0 @@
-{
-  "id": "stonset1",
-  "display_name":"Sleep onset (start of sleep - hh:mm:ss) - scorer",
-  "description": "",
-  "type": "time"
-}

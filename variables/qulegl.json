@@ -1,7 +1,0 @@
-{
-  "id": "qulegl",
-  "display_name": "Quality of LeftLeg signal",
-  "description": "",
-  "type": "choices",
-  "domain": "sigqual"
-}

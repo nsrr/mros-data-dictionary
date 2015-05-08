@@ -1,7 +1,0 @@
-{
-  "id": "quecg",
-  "display_name": "Quality of ECG (previously quhr)",
-  "description": "",
-  "type": "choices",
-  "domain": "sigqual"
-}

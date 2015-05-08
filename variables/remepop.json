@@ -1,7 +1,0 @@
-{
-  "id":"remepop",
-  "display_name": "Sleep time (REM, Other) (minutes)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

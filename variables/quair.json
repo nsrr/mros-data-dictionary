@@ -1,7 +1,0 @@
-{
-  "id": "quair",
-  "display_name": "Quality of Airflow",
-  "description": "",
-  "type": "choices",
-  "domain": "sigqual"
-}

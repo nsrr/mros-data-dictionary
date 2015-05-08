@@ -1,7 +1,0 @@
-{
-  "id": "respevpr",
-  "display_name":"Scoring Respiratory events (RDI) unreliable",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

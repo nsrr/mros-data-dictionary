@@ -1,7 +1,0 @@
-{
-  "id": "slplatm",
-  "display_name":"(Raw Data) use slp_lat for Sleeo Latency (minutes .5)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

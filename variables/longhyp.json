@@ -1,7 +1,0 @@
-{
-  "id":"longhyp",
-  "display_name": "(Raw data - use longhypb) Longest Hypopnea (seconds)",
-  "description": "",
-  "type": "numeric",
-  "units": "seconds"
-}

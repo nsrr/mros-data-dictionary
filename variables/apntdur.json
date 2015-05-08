@@ -1,7 +1,0 @@
-{
-  "id":"apntdur",
-  "display_name": "Total Apnea [CA+OA] Length (NREM) (minutes)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

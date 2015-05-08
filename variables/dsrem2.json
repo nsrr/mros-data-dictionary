@@ -1,7 +1,0 @@
-{
-  "id":"dsrem2",
-  "display_name": "# of desats per hour (REM, >= 2%)",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

@@ -1,7 +1,0 @@
-{
-  "id": "npflow",
-  "display_name": "Flow limitation",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}
