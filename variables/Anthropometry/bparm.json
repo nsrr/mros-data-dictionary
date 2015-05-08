@@ -1,0 +1,7 @@
+{
+  "id": "bparm",
+  "display_name": "Q4. Blood Pressure: Arm Used",
+  "description": "",
+  "type": "choices",
+  "domain": "lrb1x"
+}
