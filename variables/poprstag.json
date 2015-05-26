@@ -1,0 +1,7 @@
+{
+  "id": "poprstag",
+  "display_name": "No staging available",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

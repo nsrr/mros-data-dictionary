@@ -1,0 +1,7 @@
+{
+  "id": "poqueeg1",
+  "display_name": "Acceptable EEG signal quality during sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

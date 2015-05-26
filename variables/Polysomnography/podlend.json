@@ -1,0 +1,7 @@
+{
+  "id": "podlend",
+  "display_name": "Data lost at end of study",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

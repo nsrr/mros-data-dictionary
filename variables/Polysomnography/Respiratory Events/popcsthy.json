@@ -1,0 +1,7 @@
+{
+  "id": "popcsthy",
+  "display_name": "% sleep time in hypopnea",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

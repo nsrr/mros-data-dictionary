@@ -1,0 +1,7 @@
+{
+  "id": "poai_all",
+  "display_name": "Calculated - overall arousal index",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

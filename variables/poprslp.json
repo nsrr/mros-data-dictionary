@@ -1,0 +1,7 @@
+{
+  "id": "poprslp",
+  "display_name": "Scoring wake/sleep unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

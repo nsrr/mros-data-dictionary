@@ -1,0 +1,7 @@
+{
+  "id": "pobpmmax",
+  "display_name": "Highest heart rate (BPM)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute"
+}

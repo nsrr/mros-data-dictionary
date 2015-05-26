@@ -1,0 +1,7 @@
+{
+  "id": "poahio50",
+  "display_name": "QS-Medical alert - AHI>50",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "popcstap",
+  "display_name": "% sleep time in apnea [CA+OA]",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

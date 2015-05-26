@@ -1,0 +1,7 @@
+{
+  "id": "poquchin",
+  "display_name": "Acceptable EMG signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

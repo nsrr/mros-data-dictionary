@@ -1,0 +1,7 @@
+{
+  "id": "poquches",
+  "display_name": "Acceptable thoracic signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

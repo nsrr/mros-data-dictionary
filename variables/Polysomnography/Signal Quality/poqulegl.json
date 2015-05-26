@@ -1,0 +1,7 @@
+{
+  "id": "poqulegl",
+  "display_name": "Acceptable left leg signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

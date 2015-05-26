@@ -1,0 +1,7 @@
+{
+  "id": "poprrem",
+  "display_name": "Scoring REM/NREM unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

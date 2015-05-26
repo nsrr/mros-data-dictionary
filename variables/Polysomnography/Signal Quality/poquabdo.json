@@ -1,0 +1,7 @@
+{
+  "id": "poquabdo",
+  "display_name": "Acceptable abdomen signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

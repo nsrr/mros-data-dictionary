@@ -1,0 +1,7 @@
+{
+  "id": "poqueogl",
+  "display_name": "Acceptable EOG-L signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

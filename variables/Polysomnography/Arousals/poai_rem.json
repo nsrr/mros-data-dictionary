@@ -1,0 +1,7 @@
+{
+  "id": "poai_rem",
+  "display_name": "Calculated - arousal index REM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

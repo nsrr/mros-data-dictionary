@@ -1,0 +1,7 @@
+{
+  "id": "polongap",
+  "display_name": "Longest apnea (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

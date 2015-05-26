@@ -1,0 +1,7 @@
+{
+  "id": "pooveral",
+  "display_name": "Overall PSG quality grade",
+  "description": "",
+  "type": "choices",
+  "domain": "psgoqg"
+}

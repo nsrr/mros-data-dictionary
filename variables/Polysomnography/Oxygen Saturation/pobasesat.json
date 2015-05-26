@@ -1,0 +1,7 @@
+{
+  "id": "pobasesat",
+  "display_name": "Baseline SaO2 per tech per observation (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

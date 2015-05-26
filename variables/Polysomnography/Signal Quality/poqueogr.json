@@ -1,0 +1,7 @@
+{
+  "id": "poqueogr",
+  "display_name": "Acceptable EOG-R signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "poquoxim",
+  "display_name": "Acceptable oximetry signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

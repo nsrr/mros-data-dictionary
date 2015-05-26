@@ -1,0 +1,7 @@
+{
+  "id": "popcsa85",
+  "display_name": "% sleep time SaO2 is below < 85%",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "podsnr4",
+  "display_name": "# of desats per hour (NREM, >=4%)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

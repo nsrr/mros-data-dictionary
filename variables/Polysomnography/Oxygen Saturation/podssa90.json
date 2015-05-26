@@ -1,0 +1,7 @@
+{
+  "id": "podssa90",
+  "display_name": "# of desats with SaO2 drops <90% in sleep",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

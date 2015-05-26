@@ -1,0 +1,7 @@
+{
+  "id": "poapavgd",
+  "display_name": "Average apnea length (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

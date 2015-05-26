@@ -1,0 +1,7 @@
+{
+  "id": "podsslp2",
+  "display_name": "# of desats per hours (total sleep >=2%)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

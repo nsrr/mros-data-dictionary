@@ -1,0 +1,7 @@
+{
+  "id": "poqueeg2",
+  "display_name": "Acceptable EEG (secondary) signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

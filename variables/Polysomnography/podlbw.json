@@ -1,0 +1,7 @@
+{
+  "id": "podlbw",
+  "display_name": "Data lost - recording ended before wake",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

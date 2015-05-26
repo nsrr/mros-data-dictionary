@@ -1,0 +1,7 @@
+{
+  "id": "poqucan",
+  "display_name": "Acceptable cannula signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

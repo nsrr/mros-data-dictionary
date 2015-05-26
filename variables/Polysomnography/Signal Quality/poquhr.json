@@ -1,0 +1,7 @@
+{
+  "id": "poquhr",
+  "display_name": "Acceptable ECG signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

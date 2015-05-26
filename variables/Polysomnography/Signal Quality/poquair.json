@@ -1,0 +1,7 @@
+{
+  "id": "poquair",
+  "display_name": "Acceptable airflow signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "psgqual"
+}

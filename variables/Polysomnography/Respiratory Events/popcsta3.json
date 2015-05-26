@@ -1,0 +1,7 @@
+{
+  "id": "popcsta3",
+  "display_name": "% sleep time in ap + hypop with > 3% desat",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "polonghy",
+  "display_name": "Longest hypopnea (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

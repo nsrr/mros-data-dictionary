@@ -1,0 +1,7 @@
+{
+  "id": "pobasehrt",
+  "display_name": "Baseline heart rate per tech observation (BPM)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute"
+}
