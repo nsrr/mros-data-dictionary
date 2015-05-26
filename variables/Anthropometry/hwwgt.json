@@ -1,0 +1,7 @@
+{
+  "id": "hwwgt",
+  "display_name": "Q2. Weight (kg)",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms"
+}

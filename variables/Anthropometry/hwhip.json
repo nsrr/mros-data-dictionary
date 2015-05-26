@@ -1,0 +1,7 @@
+{
+  "id": "hwhip",
+  "display_name": "Average hip circumference cm",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters"
+}

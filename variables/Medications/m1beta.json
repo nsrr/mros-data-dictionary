@@ -1,0 +1,7 @@
+{
+  "id": "m1beta",
+  "display_name": "Beta blockers, nonopthamalic use",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

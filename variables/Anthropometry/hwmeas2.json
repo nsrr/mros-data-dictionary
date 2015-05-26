@@ -1,0 +1,7 @@
+{
+  "id": "hwmeas2",
+  "display_name": "Q1. Standing height (mm), measurement 2",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "m1alpha",
+  "display_name": "Alpha-adrenergic blocker use",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

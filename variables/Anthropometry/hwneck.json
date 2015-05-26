@@ -1,0 +1,7 @@
+{
+  "id": "hwneck",
+  "display_name": "Average neck circumference cm",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters"
+}

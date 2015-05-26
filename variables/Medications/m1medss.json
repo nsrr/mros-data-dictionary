@@ -1,0 +1,7 @@
+{
+  "id": "m1medss",
+  "display_name": "Any meds(RX, OTC, VIT) in last 30 days",
+  "description": "",
+  "type": "choices",
+  "domain": "meds"
+}

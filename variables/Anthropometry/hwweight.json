@@ -1,0 +1,7 @@
+{
+  "id": "hwweight",
+  "display_name": "Q2. Was weight measured?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}
