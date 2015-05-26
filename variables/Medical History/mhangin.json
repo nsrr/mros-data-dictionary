@@ -1,0 +1,7 @@
+{
+  "id": "mhangin",
+  "display_name": "Q1. Have you ever had angina (chest pain)?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

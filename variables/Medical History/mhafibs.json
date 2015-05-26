@@ -1,0 +1,7 @@
+{
+  "id": "mhafibs",
+  "display_name": "Source of data for mhafib variable",
+  "description": "",
+  "type": "choices",
+  "domain": "afibs"
+}

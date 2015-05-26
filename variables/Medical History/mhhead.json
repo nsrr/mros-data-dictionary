@@ -1,0 +1,7 @@
+{
+  "id": "mhhead",
+  "display_name": "Q7. Which..injury - hit/injured head?",
+  "description": "",
+  "type": "choices",
+  "domain": "check"
+}

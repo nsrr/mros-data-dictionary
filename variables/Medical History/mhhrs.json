@@ -1,0 +1,7 @@
+{
+  "id": "mhhrs",
+  "display_name": "Source of data for mhhr variable",
+  "description": "",
+  "type": "choices",
+  "domain": "afibs"
+}
