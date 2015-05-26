@@ -1,0 +1,7 @@
+{
+  "id": "poxusual",
+  "display_name": "Q6. Compared to usual, how well slept last",
+  "description": "",
+  "type": "choices",
+  "domain": "slprate"
+}

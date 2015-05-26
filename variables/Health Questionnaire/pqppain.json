@@ -1,0 +1,7 @@
+{
+  "id": "pqppain",
+  "display_name": "Q5i. Have pain?",
+  "description": "",
+  "type": "choices",
+  "domain": "psqi"
+}

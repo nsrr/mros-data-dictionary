@@ -1,0 +1,7 @@
+{
+  "id": "powaso",
+  "display_name": "Wake after sleep onset (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

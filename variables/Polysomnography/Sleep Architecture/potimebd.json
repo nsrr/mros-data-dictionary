@@ -1,0 +1,7 @@
+{
+  "id": "potimebd",
+  "display_name": "Calculated - Time in bed (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

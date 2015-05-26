@@ -1,0 +1,7 @@
+{
+  "id": "tudramt",
+  "display_name": "Q6. How many alcoholic drinks per week?",
+  "description": "",
+  "type": "choices",
+  "domain": "alcoholc"
+}

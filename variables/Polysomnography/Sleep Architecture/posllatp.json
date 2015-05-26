@@ -1,0 +1,7 @@
+{
+  "id": "posllatp",
+  "display_name": "Sleep latency (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

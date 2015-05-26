@@ -1,0 +1,7 @@
+{
+  "id": "poscorid",
+  "display_name": "Scorer ID",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

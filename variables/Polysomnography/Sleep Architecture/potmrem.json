@@ -1,0 +1,7 @@
+{
+  "id": "potmrem",
+  "display_name": "Calculated - Time REM minutes",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

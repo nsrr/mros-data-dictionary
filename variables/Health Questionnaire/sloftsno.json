@@ -1,0 +1,7 @@
+{
+  "id": "sloftsno",
+  "display_name": "Q1. How often do you snore now?",
+  "description": "",
+  "type": "choices",
+  "domain": "time3x"
+}

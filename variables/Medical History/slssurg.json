@@ -1,0 +1,7 @@
+{
+  "id": "slssurg",
+  "display_name": "Q3b. Surgery for tx of sleep apnea?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

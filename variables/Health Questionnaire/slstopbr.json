@@ -1,0 +1,7 @@
+{
+  "id": "slstopbr",
+  "display_name": "Q2. Do you stop breathing during sleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

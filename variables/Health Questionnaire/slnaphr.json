@@ -1,0 +1,7 @@
+{
+  "id": "slnaphr",
+  "display_name": "Q3. How many hours nap each time?",
+  "description": "",
+  "type": "choices",
+  "domain": "timeslpx"
+}

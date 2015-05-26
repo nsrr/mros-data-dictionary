@@ -1,0 +1,7 @@
+{
+  "id": "slsbtims",
+  "display_name": "Q2. How often do you stop breathing?",
+  "description": "",
+  "type": "choices",
+  "domain": "time3x"
+}

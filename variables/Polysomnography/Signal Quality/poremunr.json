@@ -1,0 +1,7 @@
+{
+  "id": "poremunr",
+  "display_name": "Scoring arousals in REM (only) unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

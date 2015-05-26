@@ -1,0 +1,7 @@
+{
+  "id": "poxslpmn",
+  "display_name": "Time you thought you slept last night (min)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

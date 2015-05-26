@@ -1,0 +1,7 @@
+{
+  "id": "poxfall",
+  "display_name": "Time took to fall asleep last night (min)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

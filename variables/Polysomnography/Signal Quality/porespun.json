@@ -1,0 +1,7 @@
+{
+  "id": "porespun",
+  "display_name": "Scoring respiratory events (RDI) unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

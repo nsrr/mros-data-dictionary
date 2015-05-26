@@ -1,0 +1,7 @@
+{
+  "id": "tursmoke",
+  "display_name": "Cigarette smoking status",
+  "description": "",
+  "type": "choices",
+  "domain": "smkf"
+}

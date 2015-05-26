@@ -1,0 +1,7 @@
+{
+  "id": "poremlii",
+  "display_name": "REM latency I exclude wake (in minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}
