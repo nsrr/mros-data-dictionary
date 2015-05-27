@@ -1,0 +1,7 @@
+{
+  "id": "hwpulse",
+  "display_name": "Q6. Was pulse obtained?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

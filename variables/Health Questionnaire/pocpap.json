@@ -1,0 +1,7 @@
+{
+  "id": "pocpap",
+  "display_name": "CPAP/BIPAP use during study",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

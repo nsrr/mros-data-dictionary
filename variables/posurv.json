@@ -1,0 +1,7 @@
+{
+  "id": "posurv",
+  "display_name": "Q8. PSG morning survey completed?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "slisicat",
+  "display_name": "Insomnia severity index categories",
+  "description": "",
+  "type": "choices",
+  "domain": "isicat"
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "D",
+    "display_name": "Don't Know",
+    "description": ""
+  },
+  {
+    "value": "K",
+    "display_name": "DK/UN",
+    "description": ""
+  },
+  {
+    "value": "M",
+    "display_name": "Not Applicable",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "All of the time",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Most of the time",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Some of the time",
+    "description": ""
+  }
+]

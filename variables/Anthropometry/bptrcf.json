@@ -1,0 +1,7 @@
+{
+  "id": "bptrcf",
+  "display_name": "Q3. Cuff size for BpTru",
+  "description": "",
+  "type": "choices",
+  "domain": "size8x"
+}

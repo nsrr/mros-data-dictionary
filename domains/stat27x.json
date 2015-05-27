@@ -1,0 +1,37 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "M",
+    "display_name": "Not Applicable",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Doesn't apply",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Complete/almost complete relief",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Moderate relief",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Mild relief",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "No relief",
+    "description": ""
+  }
+]

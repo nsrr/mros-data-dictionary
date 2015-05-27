@@ -1,0 +1,7 @@
+{
+  "id": "hwpulsem",
+  "display_name": "Mean pulse (avg beats per min)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute"
+}
