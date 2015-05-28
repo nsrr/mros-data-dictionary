@@ -1,4 +1,4 @@
-libname mros "\\rfa01\bwh-sleepepi-mros\nsrr-prep\_source";
+libname mros "\\rfa01\bwh-sleepepi-mros\nsrr-prep\_source\from_mros_cc\datasets";
 libname obf "\\rfa01\bwh-sleepepi-mros\nsrr-prep\_ids";
 options nofmterr fmtsearch=(mros);
 
@@ -6,42 +6,35 @@ options nofmterr fmtsearch=(mros);
 %let version = 0.1.0.rc;
 
 *import dataset sent by MrOS Coordinating Center;
-data mros1_psg;
-  length pdrid visit 8.;
-  set mros.Mros1psg_20121019;
+data mros1;
+  length nsrrid $6. visit 8.;
+  set mros.vs1;
 
   visit = 1;
   gender = 2;
 
-  if envrmtou = -1 then envrmtou = 1;
-
-  *drop unncessary / identifying variables;
-  drop cdlabel comm count f2r maltoth maltothdesc;
 run;
 
-data mros2_psg;
-  length pdrid visit 8.;
-  set mros.Mros2psg_20121005;
+data mros2;
+  length nsrrid $6. visit 8.;
+  set mros.vs2;
 
   visit = 2;
   gender = 2;
-  if status ne 1 then delete;
 
-  *drop unncessary / identifying variables;
-  drop scorid cdlabel count rsnco unuhrou4g unuhrou4h unuhrou4i unuhrou4j prio;
 run;
 
 *export dataset;
 proc export
-	data = mros1_psg
-	outfile="\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros1-psg-dataset-&version..csv"
+	data = mros1
+	outfile="\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros1-dataset-&version..csv"
 	dbms = csv
 	replace;
 run;
 
 proc export
-	data = mros2_psg
-	outfile="\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros2-psg-dataset-&version..csv"
+	data = mros2
+	outfile="\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros2-dataset-&version..csv"
 	dbms = csv
 	replace;
 run;
