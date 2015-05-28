@@ -13,5 +13,10 @@
     "value": "3",
     "display_name": "Alone in room",
     "description": ""
+  },
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
   }
 ]

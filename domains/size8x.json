@@ -23,5 +23,10 @@
     "value": "4",
     "display_name": "Thigh",
     "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Child",
+    "description": ""
   }
 ]

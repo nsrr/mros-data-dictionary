@@ -28,5 +28,10 @@
     "value": "4",
     "display_name": "Very severe",
     "description": ""
+  },
+  {
+    "value": "M",
+    "display_name": "Not Applicable",
+    "description": ""
   }
 ]
