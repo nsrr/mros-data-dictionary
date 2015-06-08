@@ -1,6 +1,6 @@
 {
   "id": "hwdsht",
-  "display_name": "Change in average height(cm), VD to sleep",
+  "display_name": "Change in average height, VD to sleep",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

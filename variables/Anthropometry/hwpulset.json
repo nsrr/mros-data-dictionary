@@ -1,6 +1,6 @@
 {
   "id": "hwpulset",
-  "display_name": "Pulse 1 (beats/min) + pulse 2 (beats/min)",
+  "display_name": "Pulse 1 + pulse 2",
   "description": "",
   "type": "numeric",
   "units": "beats per minute"

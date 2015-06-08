@@ -1,6 +1,6 @@
 {
   "id": "hwgt4",
-  "display_name": "Q1B. Is stand height diff. >= 4mm?",
+  "display_name": "Do measurement 1 and measurement 2 differ by 4 or more millimeters?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

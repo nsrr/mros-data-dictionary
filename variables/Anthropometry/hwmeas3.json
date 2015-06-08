@@ -1,6 +1,6 @@
 {
   "id": "hwmeas3",
-  "display_name": "Q1. Standing height (mm), measurement 3",
+  "display_name": "Standing height, measurement 3",
   "description": "",
   "type": "numeric",
   "units": "millimeters"

@@ -1,6 +1,6 @@
 {
   "id": "bpbpsysm",
-  "display_name": "Average systolic BP mmHg",
+  "display_name": "Average systolic blood pressure",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

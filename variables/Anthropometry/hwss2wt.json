@@ -1,6 +1,6 @@
 {
   "id": "hwss2wt",
-  "display_name": "Change in average weight(kg), sleep to VS2",
+  "display_name": "Change in average weight, sleep to VS2",
   "description": "",
   "type": "numeric",
   "units": "kilograms"

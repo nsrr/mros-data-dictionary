@@ -1,6 +1,6 @@
 {
   "id": "bpcuff",
-  "display_name": "Q3. Cuff size",
+  "display_name": "Cuff size",
   "description": "",
   "type": "choices",
   "domain": "size8x"

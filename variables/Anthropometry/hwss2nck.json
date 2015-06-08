@@ -1,6 +1,6 @@
 {
   "id": "hwss2nck",
-  "display_name": "Change in average neck circumference(cm), sleep to VS2",
+  "display_name": "Change in average neck circumference, sleep to VS2",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

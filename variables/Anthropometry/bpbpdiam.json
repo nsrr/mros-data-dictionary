@@ -1,6 +1,6 @@
 {
   "id": "bpbpdiam",
-  "display_name": "Average diastolic BP mmHg",
+  "display_name": "Average diastolic blood pressure",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

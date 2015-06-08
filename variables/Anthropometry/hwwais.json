@@ -1,6 +1,6 @@
 {
   "id": "hwwais",
-  "display_name": "Average waist circumference cm",
+  "display_name": "Average waist circumference",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

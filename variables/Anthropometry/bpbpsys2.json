@@ -1,6 +1,6 @@
 {
   "id": "bpbpsys2",
-  "display_name": "Q2.Sitting Measurement 2: SYSTOLIC mmHg",
+  "display_name": "Sitting measurement 2: Systolic",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

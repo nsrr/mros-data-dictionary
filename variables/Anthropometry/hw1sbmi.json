@@ -1,6 +1,6 @@
 {
   "id": "hw1sbmi",
-  "display_name": "Body mass index (kg/m^2), V1 to sleep",
+  "display_name": "Body mass index, V1 to sleep",
   "description": "",
   "type": "numeric",
   "units": "kilograms per meter squared"

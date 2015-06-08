@@ -1,6 +1,6 @@
 {
   "id": "bpbpdia",
-  "display_name": "Q1.Sitting Measurement 1: DIASTOLIC mmHg",
+  "display_name": "Sitting measurement 1: Diastolic",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

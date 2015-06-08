@@ -1,6 +1,6 @@
 {
   "id": "hwss2wst",
-  "display_name": "Change in average waist circumference(cm), sleep to VS2",
+  "display_name": "Change in average waist circumference, sleep to VS2",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

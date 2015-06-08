@@ -1,6 +1,6 @@
 {
   "id": "hwpulse2",
-  "display_name": "Q6. Pulse measurement 2: per minute",
+  "display_name": "Pulse measurement 2",
   "description": "",
   "type": "numeric",
   "units": "beats per minute"

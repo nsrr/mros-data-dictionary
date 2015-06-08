@@ -1,6 +1,6 @@
 {
   "id": "hwhgt",
-  "display_name": "Average height, standing(cm)",
+  "display_name": "Average height, standing",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

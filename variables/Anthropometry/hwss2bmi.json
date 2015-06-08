@@ -1,6 +1,6 @@
 {
   "id": "hwss2bmi",
-  "display_name": "Body mass index (kg/m^2), SL to VS2",
+  "display_name": "Body mass index, SL to VS2",
   "description": "",
   "type": "numeric",
   "units": "kilograms per meter squared"

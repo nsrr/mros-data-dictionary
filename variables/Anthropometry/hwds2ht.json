@@ -1,6 +1,6 @@
 {
   "id": "hwds2ht",
-  "display_name": "Change in average height(cm), VD to VS2",
+  "display_name": "Change in average height, VD to VS2",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

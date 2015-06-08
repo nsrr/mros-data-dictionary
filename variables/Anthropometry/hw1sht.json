@@ -1,6 +1,6 @@
 {
   "id": "hw1sht",
-  "display_name": "Change in average height(cm), V1 to sleep",
+  "display_name": "Change in average height, V1 to sleep",
   "description": "",
   "type": "numeric",
   "units": "centimeters"
