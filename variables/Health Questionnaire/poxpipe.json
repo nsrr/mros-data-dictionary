@@ -1,6 +1,6 @@
 {
   "id": "poxpipe",
-  "display_name": "Q11. Number pipe bowls.. 4 hours before bed",
+  "display_name": "How many pipe bowls did you smoke during the 4 hours before you went to sleep last night?",
   "description": "",
   "type": "numeric",
   "units": "pipe bowls"

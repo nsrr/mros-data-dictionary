@@ -1,6 +1,6 @@
 {
   "id": "cvcpdoc",
-  "display_name": "Q3. See a doctor b/c of chest pain?",
+  "display_name": "Did you see a doctor because of this pain?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

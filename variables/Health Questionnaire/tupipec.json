@@ -1,6 +1,6 @@
 {
   "id": "tupipec",
-  "display_name": "Q5. Currently smoke pipe/cigars regularly",
+  "display_name": "Do you currently smoke a pipe or cigars regularly?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

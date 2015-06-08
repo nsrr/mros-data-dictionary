@@ -1,6 +1,6 @@
 {
   "id": "slsatpat",
-  "display_name": "Q4. Last mon.. satisfy/dissatisfy w/ slp",
+  "display_name": "How satisfied/dissatisfied are you with your current sleep pattern?",
   "description": "",
   "type": "choices",
   "domain": "feel6x"

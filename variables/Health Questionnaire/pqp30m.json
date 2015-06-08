@@ -1,6 +1,6 @@
 {
   "id": "pqp30m",
-  "display_name": "Q5a. Cannot get to sleep within 30 minutes",
+  "display_name": "During the past month, how often have you had trouble sleeping because you cannot get to sleep within 30 minutes?",
   "description": "",
   "type": "choices",
   "domain": "psqi"

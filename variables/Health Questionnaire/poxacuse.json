@@ -1,6 +1,6 @@
 {
   "id": "poxacuse",
-  "display_name": "Q14a. Air conditioning.. used last night?",
+  "display_name": "Last night, were your windows open?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

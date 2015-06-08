@@ -1,6 +1,6 @@
 {
   "id": "slslphnd",
-  "display_name": "Q2. How many hrs sleep need to feel rest",
+  "display_name": "How many hours of sleep do you need each night to feel rested?",
   "description": "",
   "type": "numeric",
   "units": "hours"

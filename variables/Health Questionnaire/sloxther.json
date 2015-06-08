@@ -1,6 +1,6 @@
 {
   "id": "sloxther",
-  "display_name": "Q5. Usually use oxygen therapy during sl",
+  "display_name": "QDo you usually use oxygen therapy (oxygen delivered by a tube or face mask)?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

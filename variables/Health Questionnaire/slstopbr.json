@@ -1,6 +1,6 @@
 {
   "id": "slstopbr",
-  "display_name": "Q2. Do you stop breathing during sleep?",
+  "display_name": "Are there times when you stop breathing during your sleep?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

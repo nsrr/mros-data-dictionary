@@ -1,6 +1,6 @@
 {
   "id": "cvlocsl",
-  "display_name": "Q3. CHEST PAIN: Location sternum lower",
+  "display_name": "Where do you get this pain or discomfort? Location sternum lower",
   "description": "",
   "type": "choices",
   "domain": "check"

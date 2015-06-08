@@ -1,6 +1,6 @@
 {
   "id": "poxusual",
-  "display_name": "Q6. Compared to usual, how well slept last",
+  "display_name": "Compared to your usual night's sleep, how well did you sleep last night?",
   "description": "",
   "type": "choices",
   "domain": "slprate"

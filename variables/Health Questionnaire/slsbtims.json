@@ -1,6 +1,6 @@
 {
   "id": "slsbtims",
-  "display_name": "Q2. How often do you stop breathing?",
+  "display_name": "How often do you have times when you stop breathing during your sleep?",
   "description": "",
   "type": "choices",
   "domain": "time3x"

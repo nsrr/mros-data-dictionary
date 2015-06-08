@@ -1,6 +1,6 @@
 {
   "id": "cvcpdsay",
-  "display_name": "Q3. What did doctor say chest pain was?",
+  "display_name": "What did your doctor say this was?",
   "description": "",
   "type": "choices",
   "domain": "chestpnb"

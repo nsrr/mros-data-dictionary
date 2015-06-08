@@ -1,6 +1,6 @@
 {
   "id": "cvchpain",
-  "display_name": "Q3. Have you ever had chest pain?",
+  "display_name": "Have you ever had any pain or discomfort in your chest?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

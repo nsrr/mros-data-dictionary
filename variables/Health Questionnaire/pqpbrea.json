@@ -1,6 +1,6 @@
 {
   "id": "pqpbrea",
-  "display_name": "Q5d. Cannot breathe comfortably?",
+  "display_name": "During the past month, how often have you had trouble sleeping because you cannot breathe comfortably?",
   "description": "",
   "type": "choices",
   "domain": "psqi"

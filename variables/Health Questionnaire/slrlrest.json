@@ -1,6 +1,6 @@
 {
   "id": "slrlrest",
-  "display_name": "Q2b. Symptoms get worse.. at rest?",
+  "display_name": "Are these symptoms worse when you are at rest (i.e., sitting quietly), with at least temporary relief by activity?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

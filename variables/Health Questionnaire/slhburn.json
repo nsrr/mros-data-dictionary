@@ -1,6 +1,6 @@
 {
   "id": "slhburn",
-  "display_name": "Q5k. Have heartburn?",
+  "display_name": "During the past month, how often have you had trouble sleeping because you have heartburn?",
   "description": "",
   "type": "choices",
   "domain": "psqi"

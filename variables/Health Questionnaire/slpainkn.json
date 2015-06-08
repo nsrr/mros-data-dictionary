@@ -1,6 +1,6 @@
 {
   "id": "slpainkn",
-  "display_name": "Q8a. Pain located.. knee",
+  "display_name": "Where is the pain located? Location: knee",
   "description": "",
   "type": "choices",
   "domain": "check"

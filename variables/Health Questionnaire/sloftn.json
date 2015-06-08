@@ -1,6 +1,6 @@
 {
   "id": "sloftn",
-  "display_name": "Q1. Past mon.. freq of unusually tired?",
+  "display_name": "Have you been feeling unusually tired?",
   "description": "",
   "type": "choices",
   "domain": "time23x"

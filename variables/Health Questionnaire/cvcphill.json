@@ -1,6 +1,6 @@
 {
   "id": "cvcphill",
-  "display_name": "Q3. CHEST PAIN: walk up a hill/hurry?",
+  "display_name": "Do you get it when you walk up a hill or hurry?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

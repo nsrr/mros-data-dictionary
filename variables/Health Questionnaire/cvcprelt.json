@@ -1,6 +1,6 @@
 {
   "id": "cvcprelt",
-  "display_name": "Q3.CHEST PAIN: how soon relieved?",
+  "display_name": "How soon is it relieved?",
   "description": "",
   "type": "choices",
   "domain": "walk4x"

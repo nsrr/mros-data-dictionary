@@ -1,6 +1,6 @@
 {
   "id": "pqppain",
-  "display_name": "Q5i. Have pain?",
+  "display_name": "During the past month, how often have you had trouble sleeping because you have pain?",
   "description": "",
   "type": "choices",
   "domain": "psqi"

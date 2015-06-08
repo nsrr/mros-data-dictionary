@@ -1,6 +1,6 @@
 {
   "id": "slsnore",
-  "display_name": "Q1. Have you ever snored?",
+  "display_name": "Have you ever snored (now or at anytime in the past)?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

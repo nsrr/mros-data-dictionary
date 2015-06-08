@@ -1,6 +1,6 @@
 {
   "id": "sloxwak",
-  "display_name": "Q7b. Use oxygen therapy during wake?",
+  "display_name": "Do you use it during wake?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

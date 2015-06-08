@@ -1,6 +1,6 @@
 {
   "id": "poxqual2",
-  "display_name": "Q5. Self-rate quality..short/long?",
+  "display_name": "My sleep last night was short or long?",
   "description": "",
   "type": "choices",
   "domain": "numb3x"

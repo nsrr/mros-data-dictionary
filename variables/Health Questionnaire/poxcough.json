@@ -1,6 +1,6 @@
 {
   "id": "poxcough",
-  "display_name": "Q13. Trouble sleeping last mo..coughing?",
+  "display_name": "During the past month, how often have you had trouble sleeping because of coughing?",
   "description": "",
   "type": "choices",
   "domain": "psqi"

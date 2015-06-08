@@ -1,6 +1,6 @@
 {
   "id": "slscap",
-  "display_name": "Q3a. Sleep with CPAP for sleep apnea?",
+  "display_name": "Do you sleep with either a pressure mask ('CPAP') or a mouthpiece as treatment for your sleep apnea?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

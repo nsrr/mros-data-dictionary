@@ -1,6 +1,6 @@
 {
   "id": "poxqual1",
-  "display_name": "Q5. Self-rate quality..light/deep?",
+  "display_name": "My sleep last night was light or deep?",
   "description": "",
   "type": "choices",
   "domain": "numb3x"

@@ -1,6 +1,6 @@
 {
   "id": "slpainbk",
-  "display_name": "Q8a. Pain located.. back",
+  "display_name": "Where is teh pain located? Location: back",
   "description": "",
   "type": "choices",
   "domain": "check"

@@ -1,6 +1,6 @@
 {
   "id": "poxfall",
-  "display_name": "Time took to fall asleep last night (min)",
+  "display_name": "How long did it take you to fall asleep at bedtime last night?",
   "description": "",
   "type": "numeric",
   "units": "minutes"

@@ -1,6 +1,6 @@
 {
   "id": "cvcp30m",
-  "display_name": "Q3. Ever had severe pain..chest..>30min?",
+  "display_name": "Have you ever had a severe pain across the front of your chest lasting for half an hour or more?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

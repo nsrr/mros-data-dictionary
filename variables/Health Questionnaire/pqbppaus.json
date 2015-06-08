@@ -1,6 +1,6 @@
 {
   "id": "pqbppaus",
-  "display_name": "Q10b. Past month long pauses between breaths",
+  "display_name": "Please ask your bed partner or roommate how often in the past month you have had long pauses between breaths while asleep",
   "description": "",
   "type": "choices",
   "domain": "psqi"

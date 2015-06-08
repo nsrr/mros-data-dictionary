@@ -1,6 +1,6 @@
 {
   "id": "slrlsymp",
-  "display_name": "Q6. Past mon.. sever RLS as a whole?",
+  "display_name": "In the past month, how severe was your RLS as a whole?",
   "description": "",
   "type": "choices",
   "domain": "stat26x"

@@ -1,6 +1,6 @@
 {
   "id": "poxwine",
-  "display_name": "Q10. Glasses of wine..4 hours before bed?",
+  "display_name": "How many glasses of wine did you have during the 4 hours before you went to sleep last night?",
   "description": "",
   "type": "numeric",
   "units": "drinks"

@@ -1,6 +1,6 @@
 {
   "id": "tucpiamt",
-  "display_name": "Q5. How many pipes/cigars per week?",
+  "display_name": "How many pipes or cigars do you smoke per week?",
   "description": "",
   "type": "numeric",
   "units": "pipes/cigars"

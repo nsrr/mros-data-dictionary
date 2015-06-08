@@ -1,6 +1,6 @@
 {
   "id": "pqptrbsa",
-  "display_name": "Q7. How often had trouble staying awake",
+  "display_name": "During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",
   "description": "",
   "type": "choices",
   "domain": "psqi"

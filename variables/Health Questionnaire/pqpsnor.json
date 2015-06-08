@@ -1,6 +1,6 @@
 {
   "id": "pqpsnor",
-  "display_name": "Q5e. Cough or snore loudly?",
+  "display_name": "During the past month, how often have you had trouble sleeping because you cough or snore loudly?",
   "description": "",
   "type": "choices",
   "domain": "psqi"

@@ -1,6 +1,6 @@
 {
   "id": "slpainrl",
-  "display_name": "Q8a. Feel pain.. roll from back to side?",
+  "display_name": "Do you experience pain when you roll over from your back to your side during sleep?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

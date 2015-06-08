@@ -1,6 +1,6 @@
 {
   "id": "tu12drin",
-  "display_name": "Q6. Past 12 mo, had 12 drinks of alcohol",
+  "display_name": "In the past 12 months, have you had at least 12 drinks of any kind of alcoholic beverage?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

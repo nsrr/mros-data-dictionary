@@ -1,6 +1,6 @@
 {
   "id": "cvlpcalf",
-  "display_name": "Q4.LEG PAIN: get pain in calves?",
+  "display_name": "Do you get this pain in your calf (or calves)?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

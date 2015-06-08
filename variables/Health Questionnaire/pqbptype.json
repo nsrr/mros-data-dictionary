@@ -1,6 +1,6 @@
 {
   "id": "pqbptype",
-  "display_name": "Q10. Describe bed partner/roommate?",
+  "display_name": "Please describe your bed partner or roommate",
   "description": "",
   "type": "choices",
   "domain": "bptype"

@@ -1,6 +1,6 @@
 {
   "id": "sltire",
-  "display_name": "Q1. Past mon.. unusually tired?",
+  "display_name": "In the past month, on the average, have you been feeling unusually tired during the day?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

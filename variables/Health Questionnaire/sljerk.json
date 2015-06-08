@@ -1,6 +1,6 @@
 {
   "id": "sljerk",
-  "display_name": "Q5j. Have leg jerks or cramps?",
+  "display_name": "During the past month, how often have you had trouble sleeping because you have leg jerks or leg cramps?",
   "description": "",
   "type": "choices",
   "domain": "psqi"

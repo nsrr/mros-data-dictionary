@@ -1,6 +1,6 @@
 {
   "id": "poxnasal",
-  "display_name": "Q12. Nasal stuffiness..last night?",
+  "display_name": "Did you have nasal stuffiness, obstruction, or discharge last night?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

@@ -1,6 +1,6 @@
 {
   "id": "sloxslpo",
-  "display_name": "Q7a. How often use oxygen therapy.. slp?",
+  "display_name": "How often do you use it during sleep?",
   "description": "",
   "type": "choices",
   "domain": "time3x"

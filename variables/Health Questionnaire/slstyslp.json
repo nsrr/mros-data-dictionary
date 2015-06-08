@@ -1,6 +1,6 @@
 {
   "id": "slstyslp",
-  "display_name": "Q2. Last mon.. difficulty staying asleep",
+  "display_name": "Difficulty staying sleep in the last month?",
   "description": "",
   "type": "choices",
   "domain": "stat30x"

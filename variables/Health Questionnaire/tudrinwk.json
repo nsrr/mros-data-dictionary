@@ -1,6 +1,6 @@
 {
   "id": "tudrinwk",
-  "display_name": "Q5. How many alcoholic drinks per week?",
+  "display_name": "One average, how many alcoholic drinks do you consume per week?",
   "description": "",
   "type": "choices",
   "domain": "alcoholc"

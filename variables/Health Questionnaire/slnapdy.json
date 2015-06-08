@@ -1,6 +1,6 @@
 {
   "id": "slnapdy",
-  "display_name": "Q3. How many days per week do you nap?",
+  "display_name": "How many days per week do you usually nap?",
   "description": "",
   "type": "numeric",
   "units": "days"

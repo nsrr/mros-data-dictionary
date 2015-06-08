@@ -1,6 +1,6 @@
 {
   "id": "sloxslp",
-  "display_name": "Q7a. Use oxygen therapy during slp?",
+  "display_name": "Do you use it during sleep?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

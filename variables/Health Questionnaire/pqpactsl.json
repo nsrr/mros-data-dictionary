@@ -1,6 +1,6 @@
 {
   "id": "pqpactsl",
-  "display_name": "Q4. Past month, how many hours of sleep",
+  "display_name": "During the past month, how many hours of actual sleep did you get each night?",
   "description": "",
   "type": "numeric",
   "units": "hours"

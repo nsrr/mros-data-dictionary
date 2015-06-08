@@ -1,6 +1,6 @@
 {
   "id": "slslplev",
-  "display_name": "Q3. Past mon.. how sleepy?",
+  "display_name": "During the past month, how sleepy did you feel during the day?",
   "description": "",
   "type": "choices",
   "domain": "feel5x"

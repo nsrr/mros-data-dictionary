@@ -1,6 +1,6 @@
 {
   "id": "tursmoke",
-  "display_name": "Cigarette smoking status",
+  "display_name": "Do you smoke cigarettes now?",
   "description": "",
   "type": "choices",
   "domain": "smkf"

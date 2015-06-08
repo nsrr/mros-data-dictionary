@@ -1,6 +1,6 @@
 {
   "id": "pqpwake",
-  "display_name": "Q5b. Wake up in the middle of the night?",
+  "display_name": "During the past month, how often have you had trouble sleeping because you wake up in middle of the night or early morning?",
   "description": "",
   "type": "choices",
   "domain": "psqi"

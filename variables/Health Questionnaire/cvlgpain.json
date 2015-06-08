@@ -1,6 +1,6 @@
 {
   "id": "cvlgpain",
-  "display_name": "Q4.Do you get a pain..legs..walk?",
+  "display_name": "Do you get a pain or discomfort in your legs when you walk?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

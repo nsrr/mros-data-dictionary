@@ -1,6 +1,6 @@
 {
   "id": "cvlocot",
-  "display_name": "Q3. CHEST PAIN: Location other",
+  "display_name": "Where do you get this pain or discomfort? Location other",
   "description": "",
   "type": "choices",
   "domain": "check"

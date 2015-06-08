@@ -1,6 +1,6 @@
 {
   "id": "poxsnort",
-  "display_name": "Q13. Trouble sleeping last mo..snorting?",
+  "display_name": "During the past month, how often have you had trouble sleeping because of snorting or gasping?",
   "description": "",
   "type": "choices",
   "domain": "psqi"

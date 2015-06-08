@@ -1,6 +1,6 @@
 {
   "id": "cvlphosp",
-  "display_name": "Q4.LEG PAIN: hospitalized for?",
+  "display_name": "Were you hospitalized for this problem in your legs?",
   "description": "",
   "type": "choices",
   "domain": "yndk"
