@@ -1,6 +1,6 @@
 {
   "id": "eptraf",
-  "display_name": "Q4. How likely doze..stopped in traffic?",
+  "display_name": "How likely are you to doze off or fall asleep in a car, while stopped for a few minutes in traffic?",
   "description": "",
   "type": "choices",
   "domain": "epwort"

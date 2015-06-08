@@ -1,6 +1,6 @@
 {
   "id": "epcar",
-  "display_name": "Q4. How likely doze..as passenger in car",
+  "display_name": "How likely are you to doze off or fall asleep as a passenger in a car for an hours without a break?",
   "description": "",
   "type": "choices",
   "domain": "epwort"

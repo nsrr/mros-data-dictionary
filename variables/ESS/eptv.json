@@ -1,6 +1,6 @@
 {
   "id": "eptv",
-  "display_name": "Q4. How likely doze..watching tv?",
+  "display_name": "How likely are you to doze off or fall asleep watching TV?",
   "description": "",
   "type": "choices",
   "domain": "epwort"

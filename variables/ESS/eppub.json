@@ -1,6 +1,6 @@
 {
   "id": "eppub",
-  "display_name": "Q4. How likely doze..inactive in public",
+  "display_name": "How likely are you to doze off or fall asleep sitting inactive in a public place (e.g. a theater or a meeting)?",
   "description": "",
   "type": "choices",
   "domain": "epwort"

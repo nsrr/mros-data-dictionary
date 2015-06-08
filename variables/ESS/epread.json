@@ -1,6 +1,6 @@
 {
   "id": "epread",
-  "display_name": "Q4. How likely doze..sitting/reading?",
+  "display_name": "How likely are you to doze off or fall asleep sitting and reading?",
   "description": "",
   "type": "choices",
   "domain": "epwort"
