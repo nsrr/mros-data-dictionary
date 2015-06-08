@@ -1,6 +1,6 @@
 {
   "id": "fosowork",
-  "display_name": "Q10. Difficulty performing employed/volunteer",
+  "display_name": "Do you have difficulty performing employed or volunteer work because you are sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq"

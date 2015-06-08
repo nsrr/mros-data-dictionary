@@ -1,6 +1,6 @@
 {
   "id": "fosomot1",
-  "display_name": "Q6. Difficulty operating a vehicle short",
+  "display_name": "Do you have difficulty operating a motor vehicle for short distances (less than 100 miles) because you are sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq"
