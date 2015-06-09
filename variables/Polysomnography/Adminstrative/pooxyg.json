@@ -1,6 +1,6 @@
 {
   "id": "pooxyg",
-  "display_name": "Oxygen in use during study",
+  "display_name": "Did the participant use oxygen the night of the psg study?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

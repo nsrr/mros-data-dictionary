@@ -1,6 +1,6 @@
 {
   "id": "polsao2n",
-  "display_name": "Min SaO2% during NREM sleep",
+  "display_name": "Minimum oxygen saturation during NREM sleep",
   "description": "",
   "type": "numeric",
   "units": ""

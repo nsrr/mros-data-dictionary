@@ -1,6 +1,6 @@
 {
   "id": "m1antisp",
-  "display_name": "Urinary antispasmodic med use",
+  "display_name": "Urinary antispasmodic medication use",
   "description": "",
   "type": "choices",
   "domain": "yndk"

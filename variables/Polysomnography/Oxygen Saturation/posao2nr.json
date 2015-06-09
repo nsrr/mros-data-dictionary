@@ -1,7 +1,7 @@
 {
   "id": "posao2nr",
-  "display_name": "Calculated - average SaO2 NREM",
+  "display_name": "Average oxygen saturation (NREM)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

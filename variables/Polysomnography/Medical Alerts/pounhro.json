@@ -1,6 +1,6 @@
 {
   "id": "pounhro",
-  "display_name": "QS- Medical alert- urgent/unusual heart rate",
+  "display_name": "PSG Quality Assessment: Medical Alert - Urgent/Unusual heart rate",
   "description": "",
   "type": "choices",
   "domain": "psgunhrn"

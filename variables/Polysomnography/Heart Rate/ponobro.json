@@ -1,6 +1,6 @@
 {
   "id": "ponobro",
-  "display_name": "# of bradycardia related to obstr apnea",
+  "display_name": "Number of bradycardia related to obstructive apnea",
   "description": "",
   "type": "numeric",
   "units": ""

@@ -1,6 +1,6 @@
 {
   "id": "pomaoth",
-  "display_name": "QS - Medical alert - other",
+  "display_name": "PSG Quality Assessment: Medical Alert - Other",
   "description": "",
   "type": "choices",
   "domain": "yndk"

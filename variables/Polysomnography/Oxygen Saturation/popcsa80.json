@@ -1,6 +1,6 @@
 {
   "id": "popcsa80",
-  "display_name": "% sleep time SaO2 is below < 80%",
+  "display_name": "Percentage of sleep time oxygen saturation is below 80%",
   "description": "",
   "type": "numeric",
   "units": "percent"

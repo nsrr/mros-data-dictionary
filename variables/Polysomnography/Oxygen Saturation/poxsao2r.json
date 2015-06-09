@@ -1,6 +1,6 @@
 {
   "id": "poxsao2r",
-  "display_name": "Max SaO2% during REM sleep",
+  "display_name": "Maximum oxygen saturation during REM sleep",
   "description": "",
   "type": "numeric",
   "units": ""

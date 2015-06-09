@@ -1,7 +1,7 @@
 {
   "id": "podssa90",
-  "display_name": "# of desats with SaO2 drops <90% in sleep",
+  "display_name": "Number of desaturations with oxygen saturation drops below 90% in sleep",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events"
 }

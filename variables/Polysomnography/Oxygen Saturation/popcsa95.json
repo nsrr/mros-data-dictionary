@@ -1,6 +1,6 @@
 {
   "id": "popcsa95",
-  "display_name": "% sleep time SaO2 is below < 95%",
+  "display_name": "Percentage of sleep time oxygen saturation is below 95%",
   "description": "",
   "type": "numeric",
   "units": "percent"

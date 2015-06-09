@@ -1,7 +1,7 @@
 {
   "id": "podsslp4",
-  "display_name": "# of desats per hours (total sleep >=4%)",
+  "display_name": "Number of desaturations per hours (total sleep >= 4%)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

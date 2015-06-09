@@ -1,7 +1,7 @@
 {
   "id": "poahio50",
-  "display_name": "QS-Medical alert - AHI>50",
-  "description": "",
+  "display_name": "PSG Quality Assessment: Medical Alert - AHI > 50",
+  "description": "Medical Alert for AHI over 50",
   "type": "choices",
   "domain": "yndk"
 }
