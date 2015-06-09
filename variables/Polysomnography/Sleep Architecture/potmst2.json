@@ -1,6 +1,6 @@
 {
   "id": "potmst2",
-  "display_name": "Calculated - time stage 2 minutes",
+  "display_name": "Time stage 2",
   "description": "",
   "type": "numeric",
   "units": "minutes"

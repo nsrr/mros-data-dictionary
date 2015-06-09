@@ -1,7 +1,7 @@
 {
   "id": "ponotca",
-  "display_name": "# of tachycardia (sleep time)",
+  "display_name": "Number of tachycardia (sleep time)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }

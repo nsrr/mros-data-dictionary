@@ -1,7 +1,7 @@
 {
   "id": "ponotcc",
-  "display_name": "# of tachycardia related to cent apnea",
+  "display_name": "Number of tachycardia related to central apnea",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }

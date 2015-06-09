@@ -1,6 +1,6 @@
 {
   "id": "pocavgdu",
-  "display_name": "Average central apnea length (seconds)",
+  "display_name": "Average central apnea length",
   "description": "",
   "type": "numeric",
   "units": "seconds"

@@ -1,7 +1,7 @@
 {
   "id": "pohstawp",
-  "display_name": "# of sleep awake shifts per hour",
+  "display_name": "Number of sleep awake shifts per hour",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

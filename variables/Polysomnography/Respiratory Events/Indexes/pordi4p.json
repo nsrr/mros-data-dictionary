@@ -1,7 +1,7 @@
 {
   "id": "pordi4p",
-  "display_name": "Calculated - overall RDI at 4% desat",
+  "display_name": "Overall RDI at 4% desaturation",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

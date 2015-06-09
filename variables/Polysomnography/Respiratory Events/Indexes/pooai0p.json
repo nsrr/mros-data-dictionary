@@ -1,7 +1,7 @@
 {
   "id": "pooai0p",
-  "display_name": "Obstructive apnea index all desats",
+  "display_name": "Obstructive apnea index all desaturations",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

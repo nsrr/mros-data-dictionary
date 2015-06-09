@@ -1,6 +1,6 @@
 {
   "id": "pocsbre",
-  "display_name": "Unusual occur - periodic breathing >10 mins",
+  "display_name": "Unusual occur - periodic breathing > 10 minutes",
   "description": "",
   "type": "choices",
   "domain": "yndk"

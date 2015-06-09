@@ -1,7 +1,7 @@
 {
   "id": "poavgplm",
-  "display_name": "# Plm/Hr of sleep",
+  "display_name": "Number of PLMs per hour of sleep",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements per hour"
 }

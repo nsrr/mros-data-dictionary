@@ -1,6 +1,6 @@
 {
   "id": "poslprdp",
-  "display_name": "Time light off to light on scored as sleep (mins)",
+  "display_name": "Time light off to light on scored as sleep",
   "description": "",
   "type": "numeric",
   "units": "minutes"

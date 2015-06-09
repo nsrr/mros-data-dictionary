@@ -1,7 +1,7 @@
 {
   "id": "poplmcas",
-  "display_name": "# plms clusters with arousal in all sleep",
+  "display_name": "Number of PLMs clusters with arousal in all sleep",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

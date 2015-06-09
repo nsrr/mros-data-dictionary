@@ -1,7 +1,7 @@
 {
   "id": "poplmcad",
-  "display_name": "# plms clusters with arousal in delta sleep",
+  "display_name": "Number of PLM clusters with arousal in delta sleep",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

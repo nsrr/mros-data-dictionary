@@ -1,7 +1,7 @@
 {
   "id": "pqpeffcy",
-  "display_name": "Sleep efficiency (continuous var)",
+  "display_name": "Sleep efficiency (continuous variable)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "percent"
 }

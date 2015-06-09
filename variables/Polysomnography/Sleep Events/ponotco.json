@@ -1,7 +1,7 @@
 {
   "id": "ponotco",
-  "display_name": "# of tachycardia related to obstr apnea",
+  "display_name": "Number of tachycardia related to obstructive apnea",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }

@@ -1,7 +1,7 @@
 {
   "id": "ponbrslp",
-  "display_name": "# of bradycardia (sleep time)",
+  "display_name": "Number of bradycardia (sleep time)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }

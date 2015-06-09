@@ -1,6 +1,6 @@
 {
   "id": "popcstad",
-  "display_name": "% sleep time in ap + hypop with > 3% desat/arou",
+  "display_name": "Percentage of sleep time in apnea + hypopnea with > 3% desaturation/arousal",
   "description": "",
   "type": "numeric",
   "units": "percent"

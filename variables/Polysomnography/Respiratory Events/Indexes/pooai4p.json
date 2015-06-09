@@ -1,7 +1,7 @@
 {
   "id": "pooai4p",
-  "display_name": "Obstructive apnea index 4% desats",
+  "display_name": "Obstructive apnea index 4% desaturations",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

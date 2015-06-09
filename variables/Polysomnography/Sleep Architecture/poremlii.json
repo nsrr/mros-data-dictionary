@@ -1,6 +1,6 @@
 {
   "id": "poremlii",
-  "display_name": "REM latency I exclude wake (in minutes)",
+  "display_name": "REM latency I exclude wake",
   "description": "",
   "type": "numeric",
   "units": "minutes"

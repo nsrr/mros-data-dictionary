@@ -1,6 +1,6 @@
 {
   "id": "pooavgdu",
-  "display_name": "Average obs apnea length (seconds)",
+  "display_name": "Average obstructive apnea length",
   "description": "",
   "type": "numeric",
   "units": "seconds"

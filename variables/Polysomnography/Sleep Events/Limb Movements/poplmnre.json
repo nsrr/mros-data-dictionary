@@ -1,7 +1,7 @@
 {
   "id": "poplmnre",
-  "display_name": "# plms in NREM",
+  "display_name": "Number of PLMs in NREM",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

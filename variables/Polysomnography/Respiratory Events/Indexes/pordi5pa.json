@@ -1,7 +1,7 @@
 {
   "id": "pordi5pa",
-  "display_name": "Overall RDI at 5% desat or arousal",
+  "display_name": "Overall RDI at 5% desaturation or arousal",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

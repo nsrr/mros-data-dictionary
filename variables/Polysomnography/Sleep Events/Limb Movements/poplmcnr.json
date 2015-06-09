@@ -1,7 +1,7 @@
 {
   "id": "poplmcnr",
-  "display_name": "# plms clusters in NREM",
+  "display_name": "Number of PLMs clusters in NREM",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

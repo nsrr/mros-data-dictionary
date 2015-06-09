@@ -1,6 +1,6 @@
 {
   "id": "powaso",
-  "display_name": "Wake after sleep onset (minutes)",
+  "display_name": "Wake after sleep onset",
   "description": "",
   "type": "numeric",
   "units": "minutes"

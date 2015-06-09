@@ -1,7 +1,7 @@
 {
   "id": "poplmslp",
-  "display_name": "# plms in all sleep",
+  "display_name": "Number of PLMs in all sleep",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

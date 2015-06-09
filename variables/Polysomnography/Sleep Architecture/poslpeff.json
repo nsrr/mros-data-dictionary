@@ -1,6 +1,6 @@
 {
   "id": "poslpeff",
-  "display_name": "Sleep efficiency (%)",
+  "display_name": "Sleep efficiency",
   "description": "",
   "type": "numeric",
   "units": "percent"

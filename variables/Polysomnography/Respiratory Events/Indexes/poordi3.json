@@ -1,7 +1,7 @@
 {
   "id": "poordi3",
-  "display_name": "Obstructive apnea (all desats) hypopnea (3% desat) index",
+  "display_name": "Obstructive apnea (all desaturations) hypopnea (3% desaturation) index",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

@@ -1,7 +1,7 @@
 {
   "id": "pohs342p",
-  "display_name": "# of stage 3/4 to 1/2 shifts per hour",
+  "display_name": "Number of stage 3/4 to 1/2 shifts per hour",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }
