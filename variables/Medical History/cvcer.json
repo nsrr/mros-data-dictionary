@@ -1,6 +1,6 @@
 {
   "id": "cvcer",
-  "display_name": "Had previous Dx of cerebrovascular?",
+  "display_name": "Had previous history of cerebrovascular?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

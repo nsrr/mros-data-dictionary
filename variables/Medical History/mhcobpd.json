@@ -1,6 +1,6 @@
 {
   "id": "mhcobpd",
-  "display_name": "Q9. Have you ever had COPD/emphysema?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had COPD, chronic obstructive lung disease, or emphysema?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

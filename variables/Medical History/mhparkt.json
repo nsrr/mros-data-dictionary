@@ -1,6 +1,6 @@
 {
   "id": "mhparkt",
-  "display_name": "Q9. Parkinson's..treated..by a doctor?",
+  "display_name": "Are you currently being treated for Parkinson's disease by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

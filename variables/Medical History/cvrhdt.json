@@ -1,6 +1,6 @@
 {
   "id": "cvrhdt",
-  "display_name": "Q1.Rheumatic heart dis..treated by a doc?",
+  "display_name": "Are you currently being treated for rheumatic heart disease or valvular heart disease by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

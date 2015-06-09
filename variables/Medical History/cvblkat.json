@@ -1,6 +1,6 @@
 {
   "id": "cvblkat",
-  "display_name": "Q1.Int claudication..treated by a doctor",
+  "display_name": "Are you currently being treated for intermittent claudication of pain in your legs from a blockage of the arteries by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

@@ -1,6 +1,6 @@
 {
   "id": "mhangint",
-  "display_name": "Q1. Angina..being treated..by a doctor?",
+  "display_name": "Are you currently being treated for angina (chest pain) by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

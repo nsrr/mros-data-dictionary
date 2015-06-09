@@ -1,6 +1,6 @@
 {
   "id": "mhfract",
-  "display_name": "Q7. Which..injury - broke/fractured bone",
+  "display_name": "During the past 12 months, have you broke or fractured a bone?",
   "description": "",
   "type": "choices",
   "domain": "check"

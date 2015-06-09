@@ -1,6 +1,6 @@
 {
   "id": "cvvalve",
-  "display_name": "Q2.Ever had replacement of heart valve?",
+  "display_name": "Have you ever had any medical or surgical procedure in your heart, neck or blood vessels, such as a replacement of a heart valve?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

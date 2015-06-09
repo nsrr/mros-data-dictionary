@@ -1,6 +1,6 @@
 {
   "id": "slsa",
-  "display_name": "Q3. Doctor ever told..sleep apnea?",
+  "display_name": "Has a doctor or health care provider ever told you that you have sleep apnea (a condition in which breathing stops briefly during sleep)?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

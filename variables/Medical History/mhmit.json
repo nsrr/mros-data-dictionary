@@ -1,6 +1,6 @@
 {
   "id": "mhmit",
-  "display_name": "Q1. Heart attack treated..by a doctor?",
+  "display_name": "Are you currently being treated for a heart attack, coronary or myocardial infarction by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

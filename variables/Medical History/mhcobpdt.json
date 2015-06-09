@@ -1,6 +1,6 @@
 {
   "id": "mhcobpdt",
-  "display_name": "Q9. COPD/emphysema..treated by a doctor?",
+  "display_name": "Are you currently being treated for COPD, chronic obstructive lung disease, or emphysema?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

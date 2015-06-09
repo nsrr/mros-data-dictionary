@@ -1,6 +1,6 @@
 {
   "id": "mhstrkt",
-  "display_name": "Q1. Stroke treated by a doctor?",
+  "display_name": "Are you currently being treated for a stroke, blood clot in the brain or bleeding in the brain, by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

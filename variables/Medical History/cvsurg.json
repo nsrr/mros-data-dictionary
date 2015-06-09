@@ -1,6 +1,6 @@
 {
   "id": "cvsurg",
-  "display_name": "Q2. Have you ever..surgery..heart?",
+  "display_name": "Have you ever had any medical or surgical procedure in your heart, neck or blood vessels, such as angioplasty or bypass surgery?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

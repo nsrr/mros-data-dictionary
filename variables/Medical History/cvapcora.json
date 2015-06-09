@@ -1,6 +1,6 @@
 {
   "id": "cvapcora",
-  "display_name": "Q2.Ever had angioplasty..cor arteries?",
+  "display_name": "Have you ever had any medical or surgical procedure in your heart, neck, or blood vessels, such as angioplasty of coronary arteries, which is a dilation of arteries of the heart with a balloon?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

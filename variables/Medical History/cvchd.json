@@ -1,6 +1,6 @@
 {
   "id": "cvchd",
-  "display_name": "Had previous Dx of CHD?",
+  "display_name": "Had previous history of coronary heart disease?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

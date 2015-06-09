@@ -1,6 +1,6 @@
 {
   "id": "mhwdiet",
-  "display_name": "Q10. How lost weight.. diet",
+  "display_name": "During the past 12 months, were you trying to lose weight through a diet?",
   "description": "",
   "type": "choices",
   "domain": "check"

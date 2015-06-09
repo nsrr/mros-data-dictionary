@@ -1,6 +1,6 @@
 {
   "id": "cvpvd",
-  "display_name": "Had previous Dx of peripheral arterial?",
+  "display_name": "Had previous history of peripheral arterial?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

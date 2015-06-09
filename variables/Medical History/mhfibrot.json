@@ -1,6 +1,6 @@
 {
   "id": "mhfibrot",
-  "display_name": "Q11p. Fibromyalgia.. treated.. by a doctor?",
+  "display_name": "Are you currently being treated for fibromyalgia by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

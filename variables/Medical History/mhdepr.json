@@ -1,6 +1,6 @@
 {
   "id": "mhdepr",
-  "display_name": "Q11i. Have you ever had depression?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had depression?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

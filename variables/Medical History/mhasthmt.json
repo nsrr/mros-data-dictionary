@@ -1,6 +1,6 @@
 {
   "id": "mhasthmt",
-  "display_name": "Q9. Asthma treated by a doctor?",
+  "display_name": "Are you currently being treated for asthma by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

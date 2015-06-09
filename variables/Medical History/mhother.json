@@ -1,6 +1,6 @@
 {
   "id": "mhother",
-  "display_name": "Q7. Which..injury - other kind of injury",
+  "display_name": "During the past 12 months, have you had some other kind of injury?",
   "description": "",
   "type": "choices",
   "domain": "check"

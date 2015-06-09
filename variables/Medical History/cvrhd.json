@@ -1,6 +1,6 @@
 {
   "id": "cvrhd",
-  "display_name": "Q1.Ever had rheumatic heart disease?",
+  "display_name": "QHas a doctor or other health care provider ever told you that you had rheumatic heart disease or valvular heart disease?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

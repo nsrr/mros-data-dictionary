@@ -1,6 +1,6 @@
 {
   "id": "mhliver",
-  "display_name": "Q9. Have you ever had liver disease?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had liver disease?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

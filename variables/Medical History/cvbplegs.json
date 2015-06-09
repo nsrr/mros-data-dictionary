@@ -1,6 +1,6 @@
 {
   "id": "cvbplegs",
-  "display_name": "Q2.Ever had bypass proc..arteries..legs?",
+  "display_name": "Have you ever had any medical or surgical procedure in your heart, neck or blood vessels, such as a bypass procedure on the arteries of your legs?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

@@ -1,6 +1,6 @@
 {
   "id": "mhrheut",
-  "display_name": "Q9. Rheumatoid arthritis..treated by a doctor",
+  "display_name": "Are you currently being treated for rheumatoid arthritis by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

@@ -1,6 +1,6 @@
 {
   "id": "mhbronct",
-  "display_name": "Q9. Chronic bronchitis..treated by a doctor?",
+  "display_name": "Are you currently being treated for chronic bronchitis by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

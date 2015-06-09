@@ -1,6 +1,6 @@
 {
   "id": "mhsprain",
-  "display_name": "Q7. Which..injury - sprain or a strain?",
+  "display_name": "During the past 12 months, have you had a sprain or a strain?",
   "description": "",
   "type": "choices",
   "domain": "check"

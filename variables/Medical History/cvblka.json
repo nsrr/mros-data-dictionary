@@ -1,6 +1,6 @@
 {
   "id": "cvblka",
-  "display_name": "Q1.Ever had intermittent claudication?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had intermittent claudication of pain in your legs from a blockage of the arteries?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

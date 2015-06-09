@@ -1,6 +1,6 @@
 {
   "id": "cvaplow",
-  "display_name": "Q2.Ever had angioplasty..low extremity?",
+  "display_name": "Have you ever had any medical or surgical procedure in your heart, neck or blood vessels, such as angioplasty of lower extremity arteries, which is a dilation of arteries of the leg with a balloon?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

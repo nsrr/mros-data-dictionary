@@ -1,6 +1,6 @@
 {
   "id": "mhlivert",
-  "display_name": "Q9. Liver disease..treated..by a doctor?",
+  "display_name": "Are you currently being treated for liver disease by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

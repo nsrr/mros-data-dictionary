@@ -1,6 +1,6 @@
 {
   "id": "mhcat",
-  "display_name": "Q9. Have you ever had cataracts?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had cataracts?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

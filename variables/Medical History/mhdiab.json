@@ -1,6 +1,6 @@
 {
   "id": "mhdiab",
-  "display_name": "Q9. Have you ever had diabetes?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had diabetes?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

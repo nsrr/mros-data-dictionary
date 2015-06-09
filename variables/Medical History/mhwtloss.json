@@ -1,6 +1,6 @@
 {
   "id": "mhwtloss",
-  "display_name": "Q10. Past 12 mo, trying to lose weight?",
+  "display_name": "During the past 12 months, have you been trying to lose weight?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

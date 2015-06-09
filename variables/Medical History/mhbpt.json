@@ -1,6 +1,6 @@
 {
   "id": "mhbpt",
-  "display_name": "Q1. Hypertension treated..by a doctor?",
+  "display_name": "Are you currently being treated for hypertension of high blood pressure by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

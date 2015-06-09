@@ -1,6 +1,6 @@
 {
   "id": "mhangin",
-  "display_name": "Q1. Have you ever had angina (chest pain)?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had angina (chest pain)?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

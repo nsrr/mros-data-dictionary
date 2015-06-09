@@ -1,6 +1,6 @@
 {
   "id": "mhdeprt",
-  "display_name": "Q11i. Depression treated.. by a doctor?",
+  "display_name": "Are you currently being treated for depression by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

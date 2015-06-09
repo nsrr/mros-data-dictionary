@@ -1,6 +1,6 @@
 {
   "id": "mhdiabt",
-  "display_name": "Q9. Diabetes being treated..by a doctor",
+  "display_name": "Are you currently being treated for diabetes by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

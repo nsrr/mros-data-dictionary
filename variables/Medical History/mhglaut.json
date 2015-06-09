@@ -1,6 +1,6 @@
 {
   "id": "mhglaut",
-  "display_name": "Q9. Glaucoma..treated..by a doctor?",
+  "display_name": "Are you currently being treated for glaucoma by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

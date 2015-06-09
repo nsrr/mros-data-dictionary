@@ -1,6 +1,6 @@
 {
   "id": "mhprost",
-  "display_name": "Q9. Have you ever had prostatitis?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had prostatitis (inflammation or infection of the prostate)?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

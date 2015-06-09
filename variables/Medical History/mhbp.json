@@ -1,6 +1,6 @@
 {
   "id": "mhbp",
-  "display_name": "Q1. Have you ever had hypertension?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had hypertension of high blood pressure?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

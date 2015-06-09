@@ -1,6 +1,6 @@
 {
   "id": "mhstrk",
-  "display_name": "Q1. Have you ever had a stroke?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had a stroke, blood clot in the brain or bleeding in the brain?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

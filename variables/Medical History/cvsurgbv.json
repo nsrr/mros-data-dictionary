@@ -1,6 +1,6 @@
 {
   "id": "cvsurgbv",
-  "display_name": "Q2.Ever had surgery..blood vessel..neck?",
+  "display_name": "Have you ever had any medical or surgical procedure in your heart, neck or blood vessels, such as carotid endarterectomy, which is surgery on the blood vessels in your neck?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

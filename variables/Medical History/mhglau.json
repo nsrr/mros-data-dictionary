@@ -1,6 +1,6 @@
 {
   "id": "mhglau",
-  "display_name": "Q9. Have you ever had glaucoma?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had glaucoma?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

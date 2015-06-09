@@ -1,6 +1,6 @@
 {
   "id": "mhchft",
-  "display_name": "Q1...heart failure..treated..by a doctor?",
+  "display_name": "Are you currently being treated for congestive heart failure or enlarged heart by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

@@ -1,6 +1,6 @@
 {
   "id": "mhpark",
-  "display_name": "Q9. Have you ever had Parkinson's disease",
+  "display_name": "Has a doctor or other health care provider ever told you that you had Parkinson's disease?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

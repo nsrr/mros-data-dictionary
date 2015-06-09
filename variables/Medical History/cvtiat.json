@@ -1,6 +1,6 @@
 {
   "id": "cvtiat",
-  "display_name": "Q1.TIA..treated by a doctor?",
+  "display_name": "Are you currently being treated for TIA, transient ischemic attack, or mini-stroke by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

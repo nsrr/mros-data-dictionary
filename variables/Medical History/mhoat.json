@@ -1,6 +1,6 @@
 {
   "id": "mhoat",
-  "display_name": "Q9. Osteoarthritis..treated by a doctor?",
+  "display_name": "Are you currently being treated for osteoarthritis or degenerative arthritis by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

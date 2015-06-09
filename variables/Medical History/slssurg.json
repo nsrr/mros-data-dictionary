@@ -1,6 +1,6 @@
 {
   "id": "slssurg",
-  "display_name": "Q3b. Surgery for tx of sleep apnea?",
+  "display_name": "Have you had surgery as treatment for you sleep apnea?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

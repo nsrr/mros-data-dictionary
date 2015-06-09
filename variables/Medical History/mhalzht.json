@@ -1,6 +1,6 @@
 {
   "id": "mhalzht",
-  "display_name": "Q11k. Dementia treated..by a doctor?",
+  "display_name": "Are you currently being treated for dementia or Alzheimer's disease by a doctor?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

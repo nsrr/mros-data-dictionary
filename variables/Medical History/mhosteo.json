@@ -1,6 +1,6 @@
 {
   "id": "mhosteo",
-  "display_name": "Q9. Have you ever had osteoporosis?",
+  "display_name": "Has a doctor or other health care provider ever told you that you had osteoporosis, sometimes called thin or brittle bones?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

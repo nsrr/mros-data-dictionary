@@ -1,6 +1,6 @@
 {
   "id": "mhrenal",
-  "display_name": "Q9. Have you ever had kidney disease/failure",
+  "display_name": "Has a doctor or other health care provider ever told you that you had chronic kidney (renal) disease or kidney (renal) failure?",
   "description": "",
   "type": "choices",
   "domain": "yndk"

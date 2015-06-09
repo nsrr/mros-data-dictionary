@@ -1,6 +1,6 @@
 {
   "id": "mhrenalt",
-  "display_name": "Q9. Kidney disease..treated..by a doctor",
+  "display_name": "Do you currently undergo dialysis?",
   "description": "",
   "type": "choices",
   "domain": "yndk"
