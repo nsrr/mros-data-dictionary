@@ -1,0 +1,11 @@
+{
+  "id": "poxinter",
+  "display_name": "Did this interfere with your sleep last night>",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "poxpipe",
+  "display_name": "How many pipe bowls did you smoke during the 4 hours before you went to sleep last night?",
+  "description": "",
+  "type": "numeric",
+  "units": "pipe bowls",
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}

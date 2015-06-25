@@ -1,7 +1,0 @@
-{
-  "id": "poxstuff",
-  "display_name": "During the past month, how often have you had trouble sleeping because of nasal stuffiness?",
-  "description": "",
-  "type": "choices",
-  "domain": "psqi"
-}

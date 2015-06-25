@@ -1,0 +1,10 @@
+{
+  "id": "poxwin",
+  "display_name": "Last night, were your windows open?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros2_psg_morning_survey_form"
+  ]
+}

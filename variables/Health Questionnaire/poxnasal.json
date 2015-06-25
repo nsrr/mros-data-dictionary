@@ -1,7 +1,0 @@
-{
-  "id": "poxnasal",
-  "display_name": "Did you have nasal stuffiness, obstruction, or discharge last night?",
-  "description": "",
-  "type": "choices",
-  "domain": "yndk"
-}

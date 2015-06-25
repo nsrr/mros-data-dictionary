@@ -1,7 +1,0 @@
-{
-  "id": "poxcig",
-  "display_name": "How many cigarettes did you smoke during the 4 hours before you went to sleep last night?",
-  "description": "",
-  "type": "numeric",
-  "units": "cigarettes"
-}

@@ -1,0 +1,11 @@
+{
+  "id": "poxusual",
+  "display_name": "Compared to your usual night's sleep, how well did you sleep last night?",
+  "description": "",
+  "type": "choices",
+  "domain": "slprate",
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "poxcough",
+  "display_name": "During the past month, how often have you had trouble sleeping because of coughing?",
+  "description": "",
+  "type": "choices",
+  "domain": "psqi",
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}
+
