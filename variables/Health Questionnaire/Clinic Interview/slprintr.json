@@ -1,0 +1,10 @@
+{
+  "id": "slprintr",
+  "display_name": "To what extent do you consider your sleep problem to interfere with your daily functioning (e.g., daytime fatigue, ability to function at work/daily chores, concentration, memory, mood, etc.)?",
+  "description": "",
+  "type": "choices",
+  "domain": "feel3x",
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

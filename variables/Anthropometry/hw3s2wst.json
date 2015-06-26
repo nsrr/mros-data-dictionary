@@ -3,5 +3,8 @@
   "display_name": "Change in average waist circumference, V3 to VS2",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "mros2_anthropometry_form"
+  ]
 }

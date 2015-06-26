@@ -3,5 +3,8 @@
   "display_name": "During the past 12 months, were you trying to lose weight through exercise?",
   "description": "",
   "type": "choices",
-  "domain": "check"
+  "domain": "check",
+  "forms": [
+    "mros2_medical_history_form"
+  ]
 }

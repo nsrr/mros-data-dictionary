@@ -1,0 +1,10 @@
+{
+  "id": "slrloftn",
+  "display_name": "In the past month, how often did you get RLS symptoms?",
+  "description": "",
+  "type": "choices",
+  "domain": "ffq14x",
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

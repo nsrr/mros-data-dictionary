@@ -3,5 +3,8 @@
   "display_name": "Has a doctor or other health care provider ever told you that you had fibromyalgia?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros2_medical_history_form"
+  ]
 }

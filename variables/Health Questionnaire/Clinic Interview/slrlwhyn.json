@@ -1,0 +1,10 @@
+{
+  "id": "slrlwhyn",
+  "display_name": "Why not RLS rating scale administered?",
+  "description": "",
+  "type": "choices",
+  "domain": "whynot9x",
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

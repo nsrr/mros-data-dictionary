@@ -1,0 +1,11 @@
+{
+  "id": "sloxslp",
+  "display_name": "Do you use it during sleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros2_medical_history_form"
+  ]
+
+}

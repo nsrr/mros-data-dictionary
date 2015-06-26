@@ -1,0 +1,10 @@
+{
+  "id": "slrlslpd",
+  "display_name": "In the past month, how severe is your tiredness or sleepiness during the day due to your RLS symptoms?",
+  "description": "",
+  "type": "choices",
+  "domain": "stat26x",
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

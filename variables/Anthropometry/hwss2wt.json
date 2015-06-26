@@ -3,5 +3,8 @@
   "display_name": "Change in average weight, sleep to VS2",
   "description": "",
   "type": "numeric",
-  "units": "kilograms"
+  "units": "kilograms",
+  "forms": [
+    "mros2_anthropometry_form"
+  ]
 }

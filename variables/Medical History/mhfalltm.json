@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "fall12x",
   "forms": [
-    "mros1_medical_history_form"
+    "mros1_medical_history_form",
+    "mros2_medical_history_form"
   ]
 }

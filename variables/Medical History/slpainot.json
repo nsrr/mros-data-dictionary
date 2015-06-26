@@ -1,0 +1,10 @@
+{
+  "id": "slpainot",
+  "display_name": "Where is the pain located? Location: other",
+  "description": "",
+  "type": "choices",
+  "domain": "check",
+  "forms": [
+    "mros2_medical_history_form"
+  ]
+}

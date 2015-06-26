@@ -1,7 +1,0 @@
-{
-  "id": "slpain",
-  "display_name": "Do you awake from sleep at night due to pain?",
-  "description": "",
-  "type": "choices",
-  "domain": "yndk"
-}

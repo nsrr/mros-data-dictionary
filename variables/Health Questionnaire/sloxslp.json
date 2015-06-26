@@ -1,7 +1,0 @@
-{
-  "id": "sloxslp",
-  "display_name": "Do you use it during sleep?",
-  "description": "",
-  "type": "choices",
-  "domain": "yndk"
-}

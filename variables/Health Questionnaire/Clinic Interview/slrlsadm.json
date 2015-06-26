@@ -1,0 +1,10 @@
+{
+  "id": "slrlsadm",
+  "display_name": "RLS rating scale administered?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

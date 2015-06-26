@@ -3,5 +3,8 @@
   "display_name": "Sitting blood pressure measurement 2",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros2_anthropometry_form"
+  ]
 }

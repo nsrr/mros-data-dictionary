@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "",
   "forms": [
-    "mros1_clinic_interview_form"
+    "mros1_clinic_interview_form",
+    "mros2_clinic_interview_form"
   ]
 }

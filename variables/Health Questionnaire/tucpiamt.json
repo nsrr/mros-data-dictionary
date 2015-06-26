@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "pipes/cigars",
   "forms": [
-    "mros1_lifestyle_form"
+    "mros1_lifestyle_form",
+    "mros2_lifestyle_form"
   ]
 }

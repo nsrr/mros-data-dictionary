@@ -1,7 +1,0 @@
-{
-  "id": "sloxwak",
-  "display_name": "Do you use it during wake?",
-  "description": "",
-  "type": "choices",
-  "domain": "yndk"
-}

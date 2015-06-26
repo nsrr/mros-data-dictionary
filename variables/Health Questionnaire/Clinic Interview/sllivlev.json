@@ -1,0 +1,10 @@
+{
+  "id": "sllivlev",
+  "display_name": "During the past month, how lively did you feel?",
+  "description": "",
+  "type": "choices",
+  "domain": "feel5x",
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "slwkerly",
+  "display_name": "Problem waking up too early in the morning in the last month?",
+  "description": "",
+  "type": "choices",
+  "domain": "stat30x",
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

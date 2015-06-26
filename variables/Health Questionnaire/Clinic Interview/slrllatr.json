@@ -1,0 +1,10 @@
+{
+  "id": "slrllatr",
+  "display_name": "Are these symptoms worse later in the day or at night, than in the morning?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

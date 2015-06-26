@@ -1,0 +1,10 @@
+{
+  "id": "sltire",
+  "display_name": "In the past month, on the average, have you been feeling unusually tired during the day?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

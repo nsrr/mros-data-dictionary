@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "forms": [
-    "mros1_anthropometry_form"
+    "mros1_anthropometry_form",
+    "mros2_anthropometry_form"
   ]
 }

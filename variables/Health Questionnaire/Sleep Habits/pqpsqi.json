@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "",
   "forms": [
-    "mros1_sleep_habits_form"
+    "mros1_sleep_habits_form",
+    "mros2_sleep_habits_form"
   ]
 }

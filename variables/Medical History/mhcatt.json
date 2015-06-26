@@ -3,5 +3,8 @@
   "display_name": "Was your cataracts corrected?",
   "description": "",
   "type": "choices",
-  "domain": "eyecor"
+  "domain": "eyecor",
+  "forms": [
+    "mros2_medical_history_form"
+  ]
 }

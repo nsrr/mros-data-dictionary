@@ -1,0 +1,10 @@
+{
+  "id": "slenrlev",
+  "display_name": "Using this card, please choose the category that best describes your usually energy level in the past month on a scale of 0 to 10 where 0 is 'no energy' and 10 is 'the most energy' that you have ever had",
+  "description": "",
+  "type": "choices",
+  "domain": "feel5x",
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

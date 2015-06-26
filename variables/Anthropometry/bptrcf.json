@@ -3,5 +3,8 @@
   "display_name": "Cuff size for BpTru",
   "description": "",
   "type": "choices",
-  "domain": "size8x"
+  "domain": "size8x",
+  "forms": [
+    "mros2_anthropometry_form"
+  ]
 }

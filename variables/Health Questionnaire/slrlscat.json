@@ -1,7 +1,0 @@
-{
-  "id": "slrlscat",
-  "display_name": "IRLS severity categories",
-  "description": "",
-  "type": "choices",
-  "domain": "stat30x"
-}

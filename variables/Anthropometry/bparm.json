@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "lrb1x",
   "forms": [
-    "mros1_anthropometry_form"
+    "mros1_anthropometry_form",
+    "mros2_anthropometry_form"
   ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Body mass index, SL to VS2",
   "description": "",
   "type": "numeric",
-  "units": "kilograms per meter squared"
+  "units": "kilograms per meter squared",
+  "forms": [
+    "mros2_anthropometry_form"
+  ]
 }
