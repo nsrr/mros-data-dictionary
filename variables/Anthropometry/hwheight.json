@@ -3,5 +3,8 @@
   "display_name": "Was height measured",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_anthropometry_form"
+  ]
 }

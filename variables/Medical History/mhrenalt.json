@@ -3,5 +3,8 @@
   "display_name": "Do you currently undergo dialysis?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

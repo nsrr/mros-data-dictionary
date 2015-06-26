@@ -1,0 +1,10 @@
+{
+  "id": "pqbpconf",
+  "display_name": "Please ask your bed partner or roommate how often in the past month you have had episodes of disorientation or confusion during sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "psqi",
+  "forms": [
+    "mros1_sleep_habits_form"
+  ]
+}

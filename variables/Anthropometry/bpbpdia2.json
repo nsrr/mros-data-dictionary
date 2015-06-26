@@ -3,5 +3,8 @@
   "display_name": "Sitting measurement 2: Diastolic",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "forms": [
+    "mros1_anthropometry_form"
+  ]
 }

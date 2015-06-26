@@ -3,5 +3,8 @@
   "display_name": "About how many cigarettes do you smoke per day?",
   "description": "",
   "type": "numeric",
-  "units": "cigarettes"
+  "units": "cigarettes",
+  "forms": [
+    "mros1_lifestyle_form"
+  ]
 }

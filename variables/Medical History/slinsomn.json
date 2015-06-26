@@ -3,5 +3,8 @@
   "display_name": "Has a doctor or health care provider ever told you that you have insomnia?",
   "description": "",
   "type": "choices",
-  "domain": "check"
+  "domain": "check",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

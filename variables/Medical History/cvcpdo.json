@@ -1,0 +1,10 @@
+{
+  "id": "cvcpdo",
+  "display_name": "What do you do if you get it while you are walking?",
+  "description": "",
+  "type": "choices",
+  "domain": "walk2x",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

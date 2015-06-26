@@ -1,7 +1,0 @@
-{
-  "id": "slnaphr",
-  "display_name": "On average, how many hours do you nap each time?",
-  "description": "",
-  "type": "choices",
-  "domain": "timeslpx"
-}

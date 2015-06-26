@@ -3,5 +3,8 @@
   "display_name": "Doctor ever told you that you have problems with your heart rate?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "cvlpstst",
+  "display_name": "What happens id you stand still?",
+  "description": "",
+  "type": "choices",
+  "domain": "lgpain1x",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

@@ -1,7 +1,0 @@
-{
-  "id": "cvrosegr",
-  "display_name": "Grading for Rose angina severity",
-  "description": "",
-  "type": "choices",
-  "domain": "rosegr"
-}

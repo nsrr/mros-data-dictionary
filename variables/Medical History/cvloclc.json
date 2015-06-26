@@ -1,0 +1,10 @@
+{
+  "id": "cvloclc",
+  "display_name": "Where do you get this pain or discomfort? Location left chest",
+  "description": "",
+  "type": "choices",
+  "domain": "check",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

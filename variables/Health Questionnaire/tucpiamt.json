@@ -3,5 +3,8 @@
   "display_name": "How many pipes or cigars do you smoke per week?",
   "description": "",
   "type": "numeric",
-  "units": "pipes/cigars"
+  "units": "pipes/cigars",
+  "forms": [
+    "mros1_lifestyle_form"
+  ]
 }

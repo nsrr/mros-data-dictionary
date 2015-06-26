@@ -1,0 +1,10 @@
+{
+  "id": "pqpbath",
+  "display_name": "During the past month, how often have you had trouble sleeping because you have to get up to use the bathroom?",
+  "description": "",
+  "type": "choices",
+  "domain": "psqi",
+  "forms": [
+    "mros1_sleep_habits_form"
+  ]
+}

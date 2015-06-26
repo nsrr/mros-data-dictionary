@@ -3,5 +3,8 @@
   "display_name": "Do you have difficulty visiting with your family or friends in their home because you become sleepy or tired?",
   "description": "",
   "type": "choices",
-  "domain": "fosq"
+  "domain": "fosq",
+  "forms": [
+    "mros1_functional_outcomes_of_sleep_form"
+  ]
 }

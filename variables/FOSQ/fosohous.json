@@ -3,5 +3,8 @@
   "display_name": "Do you have difficulty doing work around the house (for example, cleaning house, doing laundry, taking out the trash, repair work) because you are sleepy or tired?",
   "description": "",
   "type": "choices",
-  "domain": "fosq"
+  "domain": "fosq",
+  "forms": [
+    "mros1_functional_outcomes_of_sleep_form"
+  ]
 }

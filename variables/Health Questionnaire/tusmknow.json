@@ -3,5 +3,8 @@
   "display_name": "Do you smoke cigarettes now?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_lifestyle_form"
+  ]
 }

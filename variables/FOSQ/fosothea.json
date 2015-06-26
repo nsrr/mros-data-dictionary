@@ -3,5 +3,8 @@
   "display_name": "Do you have difficulty enjoying the theater or a lecture because you become sleepy or tired?",
   "description": "",
   "type": "choices",
-  "domain": "fosq"
+  "domain": "fosq",
+  "forms": [
+    "mros1_functional_outcomes_of_sleep_form"
+  ]
 }

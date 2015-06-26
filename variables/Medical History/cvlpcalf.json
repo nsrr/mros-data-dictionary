@@ -1,0 +1,10 @@
+{
+  "id": "cvlpcalf",
+  "display_name": "Do you get this pain in your calf (or calves)?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

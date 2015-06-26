@@ -3,5 +3,8 @@
   "display_name": "Source of data for mhhr variable",
   "description": "",
   "type": "choices",
-  "domain": "afibs"
+  "domain": "afibs",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

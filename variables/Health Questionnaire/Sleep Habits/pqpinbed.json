@@ -1,0 +1,10 @@
+{
+  "id": "pqpinbed",
+  "display_name": "Number of hours in bed",
+  "description": "",
+  "type": "numeric",
+  "units": "hours",
+  "forms": [
+    "mros1_sleep_habits_form"
+  ]
+}

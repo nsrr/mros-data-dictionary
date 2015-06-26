@@ -3,5 +3,8 @@
   "display_name": "Do you currently smoke a pipe or cigars regularly?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_lifestyle_form"
+  ]
 }

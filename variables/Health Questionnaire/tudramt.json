@@ -3,5 +3,8 @@
   "display_name": "On average, how many alcoholic drinks do you consume per week?",
   "description": "",
   "type": "choices",
-  "domain": "alcoholc"
+  "domain": "alcoholc",
+  "forms": [
+    "mros1_lifestyle_form"
+  ]
 }

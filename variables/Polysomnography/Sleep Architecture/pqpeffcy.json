@@ -3,5 +3,8 @@
   "display_name": "Sleep efficiency (continuous variable)",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "forms": [
+    "mros1_sleep_habits_form"
+  ]
 }

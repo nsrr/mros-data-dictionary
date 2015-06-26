@@ -3,5 +3,8 @@
   "display_name": "Average waist circumference",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "mros1_anthropometry_form"
+  ]
 }

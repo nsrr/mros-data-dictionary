@@ -1,0 +1,10 @@
+{
+  "id": "cvcpdoc",
+  "display_name": "Did you see a doctor because of this pain?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

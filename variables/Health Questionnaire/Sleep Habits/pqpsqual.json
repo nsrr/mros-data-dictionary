@@ -1,0 +1,10 @@
+{
+  "id": "pqpsqual",
+  "display_name": "Subjective sleep quality-psqi component 1",
+  "description": "",
+  "type": "choices",
+  "domain": "slpqual",
+  "forms": [
+    "mros1_sleep_habits_form"
+  ]
+}

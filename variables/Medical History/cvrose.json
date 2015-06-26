@@ -1,0 +1,10 @@
+{
+  "id": "cvrose",
+  "display_name": "Rose Angina Pectoris present",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

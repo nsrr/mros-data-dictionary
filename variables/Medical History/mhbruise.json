@@ -3,5 +3,8 @@
   "display_name": "During the past 12 months, have you had a bruise or bleeding?",
   "description": "",
   "type": "choices",
-  "domain": "check"
+  "domain": "check",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

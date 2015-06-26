@@ -1,0 +1,10 @@
+{
+  "id": "slhburn",
+  "display_name": "During the past month, how often have you had trouble sleeping because you have heartburn?",
+  "description": "",
+  "type": "choices",
+  "domain": "psqi",
+  "forms": [
+    "mros1_sleep_habits_form"
+  ]
+}

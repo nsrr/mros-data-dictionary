@@ -1,0 +1,10 @@
+{
+  "id": "cvlocsum",
+  "display_name": "Where do you get this pain or discomfort? Location upper middle",
+  "description": "",
+  "type": "choices",
+  "domain": "check",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

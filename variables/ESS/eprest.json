@@ -3,5 +3,9 @@
   "display_name": "How likely are you to doze off or fall asleep lying down to rest in the afternoon when circumstances permit?",
   "description": "",
   "type": "choices",
-  "domain": "epwort"
+  "domain": "epwort",
+  "forms": [
+    "mros1_clinic_interview_form"
+  ]
 }
+

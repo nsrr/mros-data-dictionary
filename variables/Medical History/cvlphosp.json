@@ -1,0 +1,10 @@
+{
+  "id": "cvlphosp",
+  "display_name": "Were you hospitalized for this problem in your legs?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

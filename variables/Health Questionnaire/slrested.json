@@ -1,7 +1,0 @@
-{
-  "id": "slrested",
-  "display_name": "Rested based on hours slept",
-  "description": "",
-  "type": "choices",
-  "domain": "yndk"
-}

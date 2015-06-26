@@ -3,5 +3,8 @@
   "display_name": "Use of sleep medication-psqi component 6",
   "description": "",
   "type": "choices",
-  "domain": "psqi"
+  "domain": "psqi",
+  "forms": [
+    "mros1_sleep_habits_form"
+  ]
 }

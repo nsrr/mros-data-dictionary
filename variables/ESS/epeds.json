@@ -3,5 +3,8 @@
   "display_name": "Excessive daytime sleepiness (ESS>10)",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_clinic_interview_form"
+  ]
 }

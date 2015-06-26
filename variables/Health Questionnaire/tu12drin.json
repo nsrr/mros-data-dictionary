@@ -3,5 +3,8 @@
   "display_name": "In the past 12 months, have you had at least 12 drinks of any kind of alcoholic beverage?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_lifestyle_form"
+  ]
 }

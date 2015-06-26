@@ -3,5 +3,8 @@
   "display_name": "Have you ever had any medical or surgical procedure in your heart, neck or blood vessels, such as coronary bypass surgery, heart bypass, or CABG??",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

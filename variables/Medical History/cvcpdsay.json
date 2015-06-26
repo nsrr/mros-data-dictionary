@@ -1,0 +1,10 @@
+{
+  "id": "cvcpdsay",
+  "display_name": "What did your doctor say this was?",
+  "description": "",
+  "type": "choices",
+  "domain": "chestpnb",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

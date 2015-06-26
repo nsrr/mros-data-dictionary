@@ -1,7 +1,0 @@
-{
-  "id": "pqphot",
-  "display_name": "During the past month, how often have you had trouble sleeping because you feel too hot?",
-  "description": "",
-  "type": "choices",
-  "domain": "psqi"
-}

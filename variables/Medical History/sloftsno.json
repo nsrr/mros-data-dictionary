@@ -1,0 +1,10 @@
+{
+  "id": "sloftsno",
+  "display_name": "How often do you snore now?",
+  "description": "",
+  "type": "choices",
+  "domain": "time3x",
+   "forms": [
+    "mros1_medical_history_form"
+  ]
+}

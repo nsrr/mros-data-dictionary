@@ -3,5 +3,8 @@
   "display_name": "How many times have you fallen in the past 12 months?",
   "description": "",
   "type": "choices",
-  "domain": "fall12x"
+  "domain": "fall12x",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

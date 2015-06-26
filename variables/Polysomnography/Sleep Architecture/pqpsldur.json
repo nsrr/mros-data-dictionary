@@ -3,5 +3,8 @@
   "display_name": "Sleep duration 4 cats-psqi component 3",
   "description": "",
   "type": "choices",
-  "domain": "psldurf"
+  "domain": "psldurf",
+  "forms": [
+    "mros1_sleep_habits_form"
+  ]
 }

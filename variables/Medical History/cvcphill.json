@@ -1,0 +1,10 @@
+{
+  "id": "cvcphill",
+  "display_name": "Do you get it when you walk up a hill or hurry?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

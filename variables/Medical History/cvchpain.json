@@ -1,0 +1,10 @@
+{
+  "id": "cvchpain",
+  "display_name": "Have you ever had any pain or discomfort in your chest?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

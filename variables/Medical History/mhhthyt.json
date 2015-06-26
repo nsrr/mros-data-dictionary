@@ -3,5 +3,8 @@
   "display_name": "Are you currently being treated for high thyroid, Graves disease or an overactive thyroid gland by a doctor?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

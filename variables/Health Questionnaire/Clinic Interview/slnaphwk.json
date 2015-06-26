@@ -1,0 +1,10 @@
+{
+  "id": "slnaphwk",
+  "display_name": "Number of hours napping per week",
+  "description": "",
+  "type": "numeric",
+  "units": "hours",
+  "forms": [
+    "mros1_clinic_interview_form"
+  ]
+}

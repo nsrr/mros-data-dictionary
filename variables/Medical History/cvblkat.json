@@ -3,5 +3,8 @@
   "display_name": "Are you currently being treated for intermittent claudication of pain in your legs from a blockage of the arteries by a doctor?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

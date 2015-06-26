@@ -3,5 +3,9 @@
   "display_name": "How likely are you to doze off or fall asleep sitting inactive in a public place (e.g. a theater or a meeting)?",
   "description": "",
   "type": "choices",
-  "domain": "epwort"
+  "domain": "epwort",
+  "forms": [
+    "mros1_clinic_interview_form"
+  ]
 }
+

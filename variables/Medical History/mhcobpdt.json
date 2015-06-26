@@ -3,5 +3,8 @@
   "display_name": "Are you currently being treated for COPD, chronic obstructive lung disease, or emphysema?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

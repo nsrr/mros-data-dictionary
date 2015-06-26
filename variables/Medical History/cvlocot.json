@@ -1,0 +1,10 @@
+{
+  "id": "cvlocot",
+  "display_name": "Where do you get this pain or discomfort? Location other",
+  "description": "",
+  "type": "choices",
+  "domain": "check",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

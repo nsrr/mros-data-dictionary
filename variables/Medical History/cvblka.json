@@ -3,5 +3,8 @@
   "display_name": "Has a doctor or other health care provider ever told you that you had intermittent claudication of pain in your legs from a blockage of the arteries?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
 }

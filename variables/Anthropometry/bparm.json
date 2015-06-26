@@ -3,5 +3,8 @@
   "display_name": "Blood pressure: Arm used",
   "description": "",
   "type": "choices",
-  "domain": "lrb1x"
+  "domain": "lrb1x",
+  "forms": [
+    "mros1_anthropometry_form"
+  ]
 }

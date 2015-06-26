@@ -1,0 +1,10 @@
+{
+  "id": "pqptrbsa",
+  "display_name": "During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",
+  "description": "",
+  "type": "choices",
+  "domain": "psqi",
+  "forms": [
+    "mros1_sleep_habits_form"
+  ]
+}

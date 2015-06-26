@@ -1,0 +1,10 @@
+{
+  "id": "cvcpwalk",
+  "display_name": "Do you get it when you walk at an ordinary pace on a level surface?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}

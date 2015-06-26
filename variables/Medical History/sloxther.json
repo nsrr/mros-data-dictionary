@@ -1,0 +1,10 @@
+{
+  "id": "sloxther",
+  "display_name": "QDo you usually use oxygen therapy (oxygen delivered by a tube or face mask)?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "forms": [
+    "mros1_medical_history_form"
+  ]
+}
