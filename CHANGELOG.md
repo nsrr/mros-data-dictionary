@@ -1,4 +1,4 @@
-## 0.1.0
+## 0.1.0 (July 10, 2015)
 
 ### Changes
 - The CSV datasets generated from the SAS export is located here:
