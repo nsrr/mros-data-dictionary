@@ -1,0 +1,42 @@
+[
+  {
+    "value": "1",
+    "display_name": "Some elementary school",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Elementary school",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Some high school",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "High school",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Some college",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "College",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Some graduate school",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Graduate school",
+    "description": ""
+  }
+]

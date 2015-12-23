@@ -1,14 +1,22 @@
-libname mros "\\rfa01\bwh-sleepepi-mros\nsrr-prep\_source\from_mros_cc\datasets";
+*create mros dataset for NSRR;
+libname mros "\\rfa01\bwh-sleepepi-mros\nsrr-prep\_source";
 libname obf "\\rfa01\bwh-sleepepi-mros\nsrr-prep\_ids";
 options nofmterr fmtsearch=(mros);
 
 *set version macro variable;
-%let version = 0.1.0;
+%let version = 0.2.0.beta1;
 
 *import dataset sent by MrOS Coordinating Center;
+data mrosbase;
+  length nsrrid $6.;
+  set mros.base;
+
+run;
+
 data mros1;
   length nsrrid $6. visit 8.;
-  set mros.vs1;
+  merge mrosbase mros.vs1;
+  by nsrrid;
 
   visit = 1;
   gender = 2;
@@ -17,7 +25,8 @@ run;
 
 data mros2;
   length nsrrid $6. visit 8.;
-  set mros.vs2;
+  merge mrosbase mros.vs2;
+  by nsrrid;
 
   visit = 2;
   gender = 2;

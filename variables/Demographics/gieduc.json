@@ -1,0 +1,7 @@
+{
+  "id": "gieduc",
+  "display_name": "Baseline Education Level",
+  "description": "",
+  "type": "choices",
+  "domain": "education"
+}
