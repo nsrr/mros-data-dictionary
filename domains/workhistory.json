@@ -1,0 +1,117 @@
+[
+  {
+    "value": "11",
+    "display_name": "Management Occupations",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "Business and Financial Occupations",
+    "description": ""
+  },
+  {
+    "value": "15",
+    "display_name": "Computer and Mathematical Occupations",
+    "description": ""
+  },
+  {
+    "value": "17",
+    "display_name": "Architecture and Engineering Occupations",
+    "description": ""
+  },
+  {
+    "value": "19",
+    "display_name": "Life, Physical, and Social Science Occupations",
+    "description": ""
+  },
+  {
+    "value": "21",
+    "display_name": "Community and Social Service Occupations",
+    "description": ""
+  },
+  {
+    "value": "23",
+    "display_name": "Legal Occupations",
+    "description": ""
+  },
+  {
+    "value": "25",
+    "display_name": "Education, Training, and Library Occupations",
+    "description": ""
+  },
+  {
+    "value": "27",
+    "display_name": "Arts, Design, Entertainment, Sports, and Media Occupations",
+    "description": ""
+  },
+  {
+    "value": "29",
+    "display_name": "Healthcare Practitioners and Technical Occupations",
+    "description": ""
+  },
+  {
+    "value": "31",
+    "display_name": "Healthcare Support Occupations",
+    "description": ""
+  },
+  {
+    "value": "33",
+    "display_name": "Protective Services Occupations",
+    "description": ""
+  },
+  {
+    "value": "35",
+    "display_name": "Food Preparation and Serving Related Occupations",
+    "description": ""
+  },
+  {
+    "value": "37",
+    "display_name": "Building and Grounds Cleaning and Maintenance Occupations",
+    "description": ""
+  },
+  {
+    "value": "39",
+    "display_name": "Personal Care and Service Occupations",
+    "description": ""
+  },
+  {
+    "value": "41",
+    "display_name": "Sales and Related Occupations",
+    "description": ""
+  },
+  {
+    "value": "43",
+    "display_name": "Office and Administrative Support Occupations",
+    "description": ""
+  },
+  {
+    "value": "45",
+    "display_name": "Farming, Fishing, and Forestry Occupations",
+    "description": ""
+  },
+  {
+    "value": "47",
+    "display_name": "Construction and Extraction Occupations",
+    "description": ""
+  },
+  {
+    "value": "49",
+    "display_name": "Installation, Maintenance, and Repair Occupations",
+    "description": ""
+  },
+  {
+    "value": "51",
+    "display_name": "Production Occupations",
+    "description": ""
+  },
+  {
+    "value": "53",
+    "display_name": "Transportation and Material Moving Occupations",
+    "description": ""
+  },
+  {
+    "value": "55",
+    "display_name": "Military Specific Occupations",
+    "description": ""
+  }
+]

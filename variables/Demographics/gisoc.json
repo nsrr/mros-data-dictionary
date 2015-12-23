@@ -1,0 +1,7 @@
+{
+  "id": "gisoc",
+  "display_name": "Baseline Work History",
+  "description": "",
+  "type": "choices",
+  "domain": "workhistory"
+}
