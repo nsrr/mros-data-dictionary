@@ -1,3 +1,8 @@
+## 0.2.0
+
+- Add key demographic variables from BASELINE visit
+
+
 ## 0.1.0 (July 10, 2015)
 
 ### Changes
