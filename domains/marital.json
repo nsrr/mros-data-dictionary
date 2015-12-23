@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Married",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Widowed",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Separated",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Divorced",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Single, never married",
+    "description": ""
+  }
+]

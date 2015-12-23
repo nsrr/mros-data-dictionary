@@ -15,6 +15,11 @@
     "description": ""
   },
   {
+    "value": "0",
+    "display_name": "No drinks per week (non-drinker)",
+    "description": ""
+  },
+  {
     "value": "1",
     "display_name": "Less than one drink per week",
     "description": ""

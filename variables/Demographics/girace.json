@@ -1,0 +1,7 @@
+{
+  "id": "girace",
+  "display_name": "Race Category",
+  "description": "",
+  "type": "choices",
+  "domain": "racecat"
+}

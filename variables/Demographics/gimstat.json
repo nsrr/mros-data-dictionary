@@ -1,0 +1,7 @@
+{
+  "id": "gimstat",
+  "display_name": "Baseline Marital Status",
+  "description": "Note: The baseline visit occurred before the sleep visits (VS1 and VS2). Marital status may have changed between visits.",
+  "type": "choices",
+  "domain": "marital"
+}

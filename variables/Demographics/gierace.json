@@ -1,0 +1,7 @@
+{
+  "id": "gierace",
+  "display_name": "Race/Ethnic Category",
+  "description": "",
+  "type": "choices",
+  "domain": "raceethniccat"
+}

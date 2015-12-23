@@ -1,0 +1,7 @@
+{
+  "id": "vsage1",
+  "display_name": "Age at Sleep Visit 1",
+  "description": "",
+  "type": "integer",
+  "units": "years"
+}
