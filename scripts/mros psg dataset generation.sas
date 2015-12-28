@@ -4,7 +4,7 @@ libname obf "\\rfa01\bwh-sleepepi-mros\nsrr-prep\_ids";
 options nofmterr fmtsearch=(mros);
 
 *set version macro variable;
-%let version = 0.2.0.beta1;
+%let version = 0.2.0.beta2;
 
 *import dataset sent by MrOS Coordinating Center;
 data mrosbase;
@@ -36,14 +36,14 @@ run;
 *export dataset;
 proc export
 	data = mros1
-	outfile="\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros1-dataset-&version..csv"
+	outfile="\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros-visit1-dataset-&version..csv"
 	dbms = csv
 	replace;
 run;
 
 proc export
 	data = mros2
-	outfile="\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros2-dataset-&version..csv"
+	outfile="\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros-visit2-dataset-&version..csv"
 	dbms = csv
 	replace;
 run;

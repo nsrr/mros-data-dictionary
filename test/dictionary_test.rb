@@ -8,7 +8,7 @@ class DictionaryTest < Minitest::Test
   # iterators that can be used to write custom tests
   include Spout::Helpers::Iterators
 
-   VALID_UNITS = ["millimeters of mercury", "limb movements per hour", "limb movements", "desaturation events", "events", "events per hour", "percentage of oxygen saturation", "years", "hours", "beers", "cigarettes", "cigars", "cups", "drinks", "pipe bowls", "seconds", "kilograms", "", "millimeters", "centimeters", "kilograms per meter squared", "percent", "beats per minute", "minutes", "days", "pipes/cigars"] # Add your own valid units to this array
+   VALID_UNITS = ["hertz", "microvolts squared per hertz", "millimeters of mercury", "limb movements per hour", "limb movements", "desaturation events", "events", "events per hour", "percentage of oxygen saturation", "years", "hours", "beers", "cigarettes", "cigars", "cups", "drinks", "pipe bowls", "seconds", "kilograms", "", "millimeters", "centimeters", "kilograms per meter squared", "percent", "beats per minute", "minutes", "days", "pipes/cigars"] # Add your own valid units to this array
   @variables.select{|v| v.type == 'numeric' or v.type == 'integer'}.each do |variable|
     define_method("test_units: "+variable.path) do
       message = "\"#{variable.units}\"".colorize( :red ) + " invalid units.\n" +
