@@ -4,7 +4,7 @@ libname obf "\\rfa01\bwh-sleepepi-mros\nsrr-prep\_ids";
 options nofmterr fmtsearch=(mros);
 
 *set version macro variable;
-%let version = 0.2.0.beta2;
+%let version = 0.2.0.beta3;
 
 *import dataset sent by MrOS Coordinating Center;
 data mrosbase;

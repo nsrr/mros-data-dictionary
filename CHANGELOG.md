@@ -2,6 +2,7 @@
 
 ### Changes
 - Add key demographic variables from BASELINE visit
+- Remove `tudrinwk` variable
 - The CSV datasets generated from the SAS export is located here:
   - `\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\0.2.0.beta1\`
     - `mros1-dataset-0.2.0.beta1.csv`
