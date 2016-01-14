@@ -2,12 +2,12 @@
 slug: mros
 visit: visit
 charts:
-# - chart: age
-#   title: Age
+- chart: vsage1
+  title: Age
 - chart: gender
   title: Gender
-# - chart: race
-#   title: Race
+- chart: girace
+  title: Race
 webservers:
   - name: production
     url: https://sleepdata.org
