@@ -1,4 +1,4 @@
-## 0.2.1
+## 0.2.1 (January 19, 2016)
 
 - **Gem Changes**
   - Updated to spout 0.11.0
