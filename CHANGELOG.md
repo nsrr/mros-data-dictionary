@@ -1,5 +1,7 @@
 ## 0.3.0
 
+- Update `nsrrid` to better reflect it as primary identifier
+
 ## 0.2.1 (January 19, 2016)
 
 - **Gem Changes**

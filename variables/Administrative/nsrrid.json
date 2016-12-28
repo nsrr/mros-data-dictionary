@@ -1,7 +1,12 @@
 {
   "id": "nsrrid",
-  "display_name": "NSRR ID",
-  "description": "",
-  "type": "string",
-  "units": ""
+  "display_name": "NSRR MrOS Participant Identifier",
+  "description": "Obfuscated participant identifier provided for the NSRR by the MrOS Coordinating Center.",
+  "type": "identifier",
+  "units": "",
+  "labels": [
+    "obf_pptid",
+    "pptid",
+    "identifier"
+  ]
 }
