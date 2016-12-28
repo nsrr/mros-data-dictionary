@@ -1,16 +1,15 @@
-*create mros dataset for NSRR;
-libname mros "\\rfa01\bwh-sleepepi-mros\nsrr-prep\_source";
-libname obf "\\rfa01\bwh-sleepepi-mros\nsrr-prep\_ids";
+*create mros dataset for nsrr;
+libname mros "\\rfawin\bwh-sleepepi-mros\nsrr-prep\_source";
+libname obf "\\rfawin\bwh-sleepepi-mros\nsrr-prep\_ids";
 options nofmterr fmtsearch=(mros);
 
 *set version macro variable;
 %let version = 0.3.0.pre;
 
-*import dataset sent by MrOS Coordinating Center;
+*process datasets sent by mros coordinating center;
 data mrosbase;
   length nsrrid $6.;
   set mros.base;
-
 run;
 
 data mros1;
@@ -20,7 +19,24 @@ data mros1;
 
   visit = 1;
   gender = 2;
+run;
 
+data mros1_hrv;
+  length nsrrid $6. visit 8.;
+  merge mrosbase mros.hvsfeb15_deid (in=a);
+  by nsrrid;
+
+  *only keep those in hvs dataset;
+  if a;
+
+  visit = 1;
+  gender = 2;
+
+  *remove extraneous sas formats;
+  format HVNUMEPOCH--HVDFALPHA2;
+
+  *remove variables;
+  drop SITE; /* identifier */
 run;
 
 data mros2;
@@ -30,20 +46,26 @@ data mros2;
 
   visit = 2;
   gender = 2;
-
 run;
 
 *export dataset;
 proc export
-	data = mros1
-	outfile="\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros-visit1-dataset-&version..csv"
-	dbms = csv
-	replace;
+  data = mros1
+  outfile="\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros-visit1-dataset-&version..csv"
+  dbms = csv
+  replace;
 run;
 
 proc export
-	data = mros2
-	outfile="\\rfa01\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros-visit2-dataset-&version..csv"
-	dbms = csv
-	replace;
+  data = mros1_hrv
+  outfile="\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\hrv-analysis\mros-visit1-hrv-summary-&version..csv"
+  dbms = csv
+  replace;
+run;
+
+proc export
+  data = mros2
+  outfile="\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros-visit2-dataset-&version..csv"
+  dbms = csv
+  replace;
 run;
