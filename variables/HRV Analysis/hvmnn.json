@@ -1,0 +1,7 @@
+{
+  "id": "hvmnn",
+  "display_name": "Mean of normal to normal heart beats",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

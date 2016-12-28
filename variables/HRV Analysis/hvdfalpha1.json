@@ -1,0 +1,7 @@
+{
+  "id": "hvdfalpha1",
+  "display_name": "Detrended fluctuation analysis, short term",
+  "description": "For short term correlations in short time scales corresponding to log of 10 < t < 40 beats",
+  "type": "numeric",
+  "units": ""
+}

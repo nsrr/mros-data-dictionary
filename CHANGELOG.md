@@ -1,6 +1,7 @@
 ## 0.3.0
 
 - Update `nsrrid` to better reflect it as primary identifier
+- Incorporate Heart Rate Variability data for Visit 1
 
 ## 0.2.1 (January 19, 2016)
 
