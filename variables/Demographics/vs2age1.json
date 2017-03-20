@@ -1,7 +1,7 @@
 {
   "id": "vs2age1",
   "display_name": "Age at Sleep Visit 2",
-  "description": "",
+  "description": "All ages greater than 89 have been recoded to 90",
   "type": "integer",
   "units": "years"
 }

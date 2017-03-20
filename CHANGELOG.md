@@ -2,6 +2,7 @@
 
 - Update `nsrrid` to better reflect it as primary identifier
 - Incorporate Heart Rate Variability data for Visit 1
+- Recode ages greater than 89 to 90 (deidentification)
 
 ## 0.2.1 (January 19, 2016)
 
