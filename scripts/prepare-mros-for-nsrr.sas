@@ -6,7 +6,7 @@ libname obf "\\rfawin\bwh-sleepepi-mros\nsrr-prep\_ids";
 options nofmterr fmtsearch=(mros);
 
 *set version macro variable;
-%let version = 0.3.0.pre;
+%let version = 0.3.0.rc;
 
 *process datasets sent by mros coordinating center;
 data mrosbase;
@@ -51,6 +51,9 @@ data mros2;
 
   visit = 2;
   gender = 2;
+
+  *recode ages 90 or above to 90;
+  if vs2age1 > 89 then vs2age1 = 90;
 run;
 
 *export dataset;

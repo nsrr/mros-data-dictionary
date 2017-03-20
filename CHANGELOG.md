@@ -2,7 +2,9 @@
 
 - Update `nsrrid` to better reflect it as primary identifier
 - Incorporate Heart Rate Variability data for Visit 1
-- Recode ages greater than 89 to 90 (deidentification)
+- Recode ages greater than 89 to 90 (deidentification)\
+- The CSV datasets generated from the SAS export is located here:
+  - `\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\0.3.0.rc\`
 
 ## 0.2.1 (January 19, 2016)
 
