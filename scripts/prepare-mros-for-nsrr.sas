@@ -6,7 +6,7 @@ libname obf "\\rfawin\bwh-sleepepi-mros\nsrr-prep\_ids";
 options nofmterr fmtsearch=(mros);
 
 *set version macro variable;
-%let version = 0.3.0.rc;
+%let version = 0.3.0;
 
 *process datasets sent by mros coordinating center;
 data mrosbase;
@@ -55,6 +55,26 @@ data mros2;
   *recode ages 90 or above to 90;
   if vs2age1 > 89 then vs2age1 = 90;
 run;
+
+*make all variable names lowercase (macro source: maryland population research center);
+options mprint; 
+%macro lowcase(dsn); 
+     %let dsid=%sysfunc(open(&dsn)); 
+     %let num=%sysfunc(attrn(&dsid,nvars)); 
+     %put &num;
+     data &dsn; 
+           set &dsn(rename=( 
+        %do i = 1 %to &num; 
+        %let var&i=%sysfunc(varname(&dsid,&i));    /*function of varname returns the name of a SAS data set variable*/
+        &&var&i=%sysfunc(lowcase(&&var&i))         /*rename all variables*/ 
+        %end;)); 
+        %let close=%sysfunc(close(&dsid)); 
+  run; 
+%mend lowcase; 
+
+%lowcase(mros1);
+%lowcase(mros1_hrv);
+%lowcase(mros2);
 
 *export dataset;
 proc export
