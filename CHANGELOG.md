@@ -1,6 +1,8 @@
-## 0.4.0
+## 0.4.0 (November 18, 2019)
 
 - Remove EEG spectral summary variables
+- The CSV datasets generated from the SAS export is located here:
+  - `\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\0.4.0\`
 - **Gem Changes**
   - Updated to spout 1.0.0
   - Updated to Ruby 2.6.1
