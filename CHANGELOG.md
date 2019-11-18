@@ -1,5 +1,9 @@
 ## 0.4.0
 
+- **Gem Changes**
+  - Updated to spout 1.0.0
+  - Updated to Ruby 2.6.1
+
 ## 0.3.0 (March 21, 2017)
 
 - Update `nsrrid` to better reflect it as primary identifier

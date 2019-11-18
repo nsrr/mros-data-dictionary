@@ -1,5 +1,5 @@
 sudo: false
 language: ruby
-rvm:
-  - 2.2.4
-  - 2.3.0
+rvm: 2.6.1
+gemfile: "gems.rb"
+script: spout test
