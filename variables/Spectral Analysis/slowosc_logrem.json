@@ -1,7 +1,0 @@
-{
-  "id": "slowosc_logrem",
-  "display_name": "Log transformed slow oscillation power density in REM sleep",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

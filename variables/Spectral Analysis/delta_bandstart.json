@@ -1,7 +1,0 @@
-{
-  "id": "delta_bandstart",
-  "display_name": "Delta band start",
-  "description": "",
-  "type": "numeric",
-  "units": "hertz"
-}

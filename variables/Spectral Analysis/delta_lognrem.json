@@ -1,7 +1,0 @@
-{
-  "id": "delta_lognrem",
-  "display_name": "Log transformed delta power density in NREM sleep",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

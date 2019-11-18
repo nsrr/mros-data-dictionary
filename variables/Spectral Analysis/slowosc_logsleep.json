@@ -1,7 +1,0 @@
-{
-  "id": "slowosc_logsleep",
-  "display_name": "Log transformed slow oscillation power density in sleep",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

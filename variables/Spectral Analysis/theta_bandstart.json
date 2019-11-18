@@ -1,7 +1,0 @@
-{
-  "id": "theta_bandstart",
-  "display_name": "Theta band start",
-  "description": "",
-  "type": "numeric",
-  "units": "hertz"
-}

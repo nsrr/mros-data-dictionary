@@ -1,7 +1,0 @@
-{
-  "id": "fastsigma_logsleep",
-  "display_name": "Log transformed fast sigma power density in sleep",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

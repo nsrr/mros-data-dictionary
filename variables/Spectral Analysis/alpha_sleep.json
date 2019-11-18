@@ -1,7 +1,0 @@
-{
-  "id": "alpha_sleep",
-  "display_name": "Alpha power density in sleep",
-  "description": "",
-  "type": "numeric",
-  "units": "microvolts squared per hertz"
-}

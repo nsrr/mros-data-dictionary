@@ -1,7 +1,0 @@
-{
-  "id": "beta_bandstart",
-  "display_name": "Beta band start",
-  "description": "",
-  "type": "numeric",
-  "units": "hertz"
-}

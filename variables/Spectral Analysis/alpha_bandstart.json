@@ -1,7 +1,0 @@
-{
-  "id": "alpha_bandstart",
-  "display_name": "Alpha band start",
-  "description": "",
-  "type": "numeric",
-  "units": "hertz"
-}
