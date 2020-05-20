@@ -6,7 +6,7 @@ libname obf "\\rfawin\bwh-sleepepi-mros\nsrr-prep\_ids";
 options nofmterr fmtsearch=(mros);
 
 *set version macro variable;
-%let version = 0.4.0;
+%let version = 0.5.0.pre;
 
 *process datasets sent by mros coordinating center;
 data mrosbase;

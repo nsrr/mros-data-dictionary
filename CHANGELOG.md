@@ -1,3 +1,5 @@
+## 0.5.0
+
 ## 0.4.0 (November 18, 2019)
 
 - Remove EEG spectral summary variables
