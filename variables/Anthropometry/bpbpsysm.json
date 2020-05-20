@@ -6,5 +6,6 @@
   "units": "millimeters of mercury",
   "forms": [
     "mros1_anthropometry_form"
-  ]
+  ],
+  "commonly_used": true
 }

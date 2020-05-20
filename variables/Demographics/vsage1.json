@@ -3,5 +3,6 @@
   "display_name": "Age at Sleep Visit 1",
   "description": "All ages greater than 89 have been recoded to 90",
   "type": "integer",
-  "units": "years"
+  "units": "years",
+  "commonly_used": true
 }

@@ -3,5 +3,6 @@
   "display_name": "Race Category",
   "description": "",
   "type": "choices",
-  "domain": "racecat"
+  "domain": "racecat",
+  "commonly_used": true
 }

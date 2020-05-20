@@ -6,5 +6,6 @@
   "units": "kilograms per meter squared",
   "forms": [
     "mros1_anthropometry_form"
-  ]
+  ],
+  "commonly_used": true
 }

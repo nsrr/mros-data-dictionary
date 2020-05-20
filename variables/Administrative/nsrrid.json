@@ -8,5 +8,6 @@
     "obf_pptid",
     "pptid",
     "identifier"
-  ]
+  ],
+  "commonly_used": true
 }

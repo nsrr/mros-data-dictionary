@@ -3,5 +3,6 @@
   "display_name": "Race/Ethnic Category",
   "description": "",
   "type": "choices",
-  "domain": "raceethniccat"
+  "domain": "raceethniccat",
+  "commonly_used": true
 }

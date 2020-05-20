@@ -7,5 +7,6 @@
   "forms": [
     "mros1_clinic_interview_form",
     "mros2_clinic_interview_form"
-  ]
+  ],
+  "commonly_used": true
 }
