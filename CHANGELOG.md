@@ -1,9 +1,9 @@
-## 0.5.0
+## 0.5.0 (December 16, 2020)
 
 - Set some varibles as commonly used
 - Remove identifier variable
 - The CSV datasets generated from the SAS export is located here:
-  - `\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\0.5.0.pre\`
+  - `\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\0.5.0\`
 
 ## 0.4.0 (November 18, 2019)
 
