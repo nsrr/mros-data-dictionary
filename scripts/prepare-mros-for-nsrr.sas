@@ -24,6 +24,11 @@ data mros1;
 
   *recode ages 90 or above to 90;
   if vsage1 > 89 then vsage1 = 90;
+
+  *drop variables;
+  drop 
+    postdydt /* identifier */
+    ;
 run;
 
 data mros1_hrv;
@@ -41,7 +46,8 @@ data mros1_hrv;
   format HVNUMEPOCH--HVDFALPHA2;
 
   *remove variables;
-  drop SITE; /* identifier */
+  drop 
+    SITE; /* identifier */
 run;
 
 data mros2;
@@ -54,6 +60,11 @@ data mros2;
 
   *recode ages 90 or above to 90;
   if vs2age1 > 89 then vs2age1 = 90;
+
+  *drop variables;
+  drop 
+    postdydt /* identifier */
+    ;
 run;
 
 *make all variable names lowercase (macro source: maryland population research center);
