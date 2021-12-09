@@ -1,3 +1,5 @@
+## 0.6.0 (December, 2021)
+
 ## 0.5.0 (December 16, 2020)
 
 - Set some varibles as commonly used
