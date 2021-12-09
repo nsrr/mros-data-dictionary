@@ -17,7 +17,7 @@ class DictionaryTest < Minitest::Test
     "events per hour", "percentage of oxygen saturation", "years", "hours", "beers",
     "cigarettes", "cigars", "cups", "drinks", "pipe bowls", "seconds", "kilograms",
     "", "millimeters", "centimeters", "kilograms per meter squared", "percent",
-    "beats per minute", "minutes", "days", "pipes/cigars"] # Add your own valid units to this array
+    "beats per minute", "minutes", "days", "pipes/cigars", "kilograms per square meter"] # Add your own valid units to this array
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
     define_method("test_units: #{variable.path}") do
       message = "\"#{variable.units}\"".red + " invalid units.\n" +
