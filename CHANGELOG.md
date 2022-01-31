@@ -1,4 +1,8 @@
-## 0.6.0 (December, 2021)
+## 0.6.0
+
+- Add initial set of harmonized terms (nsrr_*)
+- The CSV datasets generated from the SAS export is located here:
+  - `\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\0.6.0.pre\`
 
 ## 0.5.0 (December 16, 2020)
 
