@@ -1,6 +1,7 @@
 ## 0.6.0
 
 - Add initial set of harmonized terms (nsrr_*)
+- Add additional AHI variables
 - The CSV datasets generated from the SAS export is located here:
   - `\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\0.6.0.pre\`
 

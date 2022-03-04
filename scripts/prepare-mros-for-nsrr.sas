@@ -16,7 +16,11 @@ run;
 
 data mros1;
   length nsrrid $6. visit 8.;
-  merge mrosbase mros.vs1;
+  merge 
+    mrosbase 
+    mros.vs1 
+    mros.posaug20
+    ;
   by nsrrid;
 
   visit = 1;
@@ -33,7 +37,10 @@ run;
 
 data mros1_hrv;
   length nsrrid $6. visit 8.;
-  merge mrosbase mros.hvsfeb15_deid (in=a);
+  merge 
+    mrosbase 
+    mros.hvsfeb15_deid (in=a)
+    ;
   by nsrrid;
 
   *only keep those in hvs dataset;
@@ -52,7 +59,11 @@ run;
 
 data mros2;
   length nsrrid $6. visit 8.;
-  merge mrosbase mros.vs2;
+  merge 
+    mrosbase 
+    mros.vs2
+    mros.pos2aug20
+    ;
   by nsrrid;
 
   visit = 2;
@@ -71,26 +82,26 @@ run;
 * create harmonized datasets ;
 *******************************************************************************;
 data mros1_harmonized;
-	set mros1;
+  set mros1;
 
 *demographics
 *age;
 *use vsage1;
-	format nsrr_age 8.2;
- 	nsrr_age = vsage1;
+  format nsrr_age 8.2;
+  nsrr_age = vsage1;
 
 *age_gt89;
 *use vsage1;
-	format nsrr_age_gt89 $100.; 
-	if vsage1 gt 89 then nsrr_age_gt89='yes';
-	else if vsage1 le 89 then nsrr_age_gt89='no';
+  format nsrr_age_gt89 $100.; 
+  if vsage1 gt 89 then nsrr_age_gt89='yes';
+  else if vsage1 le 89 then nsrr_age_gt89='no';
 
 *sex;
 *use gender;
-	format nsrr_sex $100.;
-	if gender = '02' then nsrr_sex = 'male';
-	else if gender = '01' then nsrr_sex = 'female';
-	else if gender = '.' then nsrr_sex = 'not reported';
+  format nsrr_sex $100.;
+  if gender = '02' then nsrr_sex = 'male';
+  else if gender = '01' then nsrr_sex = 'female';
+  else if gender = '.' then nsrr_sex = 'not reported';
 
 *race;
 *use gierace;
@@ -98,71 +109,71 @@ data mros1_harmonized;
     if gierace = 1 then nsrr_race = 'white';
     else if gierace = 2 then nsrr_race = 'black or african american';
     else if gierace = 3 then nsrr_race = 'asian';
-  	else if gierace = 4 then nsrr_race = 'hispanic';
-	else if gierace = 5 then nsrr_race = 'other';
-	else  nsrr_race = 'not reported';
+    else if gierace = 4 then nsrr_race = 'hispanic';
+  else if gierace = 5 then nsrr_race = 'other';
+  else  nsrr_race = 'not reported';
 
 *ethnicity;
 *use gierace;
-	format nsrr_ethnicity $100.;
+  format nsrr_ethnicity $100.;
     if gierace = 4 then nsrr_ethnicity = 'hispanic or latino';
     else if gierace = 1 then nsrr_ethnicity = 'not hispanic or latino';
-	else if gierace = 2  then nsrr_ethnicity = 'not hispanic or latino';
-	else if gierace = 3   then nsrr_ethnicity = 'not hispanic or latino';
-	else if gierace = 5  then nsrr_ethnicity = 'not hispanic or latino';
-	else if gierace = '.' then nsrr_ethnicity = 'not reported';
+  else if gierace = 2  then nsrr_ethnicity = 'not hispanic or latino';
+  else if gierace = 3   then nsrr_ethnicity = 'not hispanic or latino';
+  else if gierace = 5  then nsrr_ethnicity = 'not hispanic or latino';
+  else if gierace = '.' then nsrr_ethnicity = 'not reported';
 
 *anthropometry
 *bmi;
 *use hwbmi;
-	format nsrr_bmi 10.9;
- 	nsrr_bmi = hwbmi;
+  format nsrr_bmi 10.9;
+  nsrr_bmi = hwbmi;
 
 *clinical data/vital signs
 *bp_systolic;
 *use bpbpsysm;
-	format nsrr_bp_systolic 8.2;
-	nsrr_bp_systolic = bpbpsysm;
+  format nsrr_bp_systolic 8.2;
+  nsrr_bp_systolic = bpbpsysm;
 
 *bp_diastolic;
 *use bpbpdiam;
-	format nsrr_bp_diastolic 8.2;
- 	nsrr_bp_diastolic = bpbpdiam;
+  format nsrr_bp_diastolic 8.2;
+  nsrr_bp_diastolic = bpbpdiam;
 
 *lifestyle and behavioral health
 *current_smoker;
 *use tusmknow;
-	format nsrr_current_smoker $100.;
+  format nsrr_current_smoker $100.;
     if tusmknow = '1' then nsrr_current_smoker = 'yes';
     else if tusmknow = '0' then nsrr_current_smoker = 'no';
     else if tusmknow = 'A'  then nsrr_current_smoker = 'not reported';
     else if tusmknow = 'D'  then nsrr_current_smoker = 'not reported';
-	else if tusmknow = 'K'  then nsrr_current_smoker = 'not reported';
-	else if tusmknow = 'M'  then nsrr_current_smoker = 'not reported';
+  else if tusmknow = 'K'  then nsrr_current_smoker = 'not reported';
+  else if tusmknow = 'M'  then nsrr_current_smoker = 'not reported';
 
 *ever_smoker;
 *use tursmoke;
-	format nsrr_ever_smoker $100.;
+  format nsrr_ever_smoker $100.;
     if tursmoke = '1' then nsrr_ever_smoker = 'yes';
     else if tursmoke = '2' then nsrr_ever_smoker = 'yes';
     else if tursmoke = '0'  then nsrr_ever_smoker = 'no';
     else if tursmoke = 'A'  then nsrr_ever_smoker = 'not reported';
-	else nsrr_ever_smoker = 'not reported';
+  else nsrr_ever_smoker = 'not reported';
 
-	keep 
-		nsrrid
-		visit
-		nsrr_age
-		nsrr_age_gt89
-		nsrr_sex
-		nsrr_race
-		nsrr_ethnicity
-		nsrr_bmi
-		nsrr_bp_systolic
-		nsrr_bp_diastolic
-		nsrr_current_smoker
-		nsrr_ever_smoker
-		;
+  keep 
+    nsrrid
+    visit
+    nsrr_age
+    nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic
+    nsrr_current_smoker
+    nsrr_ever_smoker
+    ;
 run;
 
 *******************************************************************************;
@@ -172,21 +183,21 @@ run;
 /* Checking for extreme values for continuous variables */
 
 proc means data=mros1_harmonized;
-VAR 	nsrr_age
-		nsrr_bmi
-		nsrr_bp_systolic
-		nsrr_bp_diastolic;
+VAR   nsrr_age
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic;
 run;
 
 /* Checking categorical variables */
 
 proc freq data=mros1_harmonized;
-table 	nsrr_age_gt89
-		nsrr_sex
-		nsrr_race
-		nsrr_ethnicity
-		nsrr_current_smoker
-		nsrr_ever_smoker;
+table   nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_current_smoker
+    nsrr_ever_smoker;
 run;
 
 *******************************************************************************;
