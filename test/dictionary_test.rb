@@ -4,7 +4,21 @@ require "test_helper"
 
 class DictionaryTest < Minitest::Test
   # This line includes all default Spout Dictionary tests.
-  include Spout::Tests
+	include Spout::Tests::JsonValidation
+	include Spout::Tests::DomainExistenceValidation
+	include Spout::Tests::DomainFormat
+	include Spout::Tests::DomainNameFormat
+	include Spout::Tests::DomainNameUniqueness
+	include Spout::Tests::DomainSpecified
+	include Spout::Tests::FormExistenceValidation
+	include Spout::Tests::FormNameFormat
+	include Spout::Tests::FormNameMatch
+	include Spout::Tests::FormNameUniqueness
+	# include Spout::Tests::VariableDisplayNameLength
+	include Spout::Tests::VariableNameFormat
+	include Spout::Tests::VariableNameMatch
+	include Spout::Tests::VariableNameUniqueness
+	include Spout::Tests::VariableTypeValidation
 
   # This line provides access to @variables, @forms, and @domains iterators
   # iterators that can be used to write custom tests.
@@ -12,7 +26,7 @@ class DictionaryTest < Minitest::Test
 
   # Example 1: Create custom tests to show that `integer` and `numeric`
   # variables have a valid unit type.
-   VALID_UNITS = ["hertz", "microvolts squared per hertz", "millimeters of mercury",
+   VALID_UNITS = [nil, "","hertz", "microvolts squared per hertz", "millimeters of mercury",
     "limb movements per hour", "limb movements", "desaturation events", "events",
     "events per hour", "percentage of oxygen saturation", "years", "hours", "beers",
     "cigarettes", "cigars", "cups", "drinks", "pipe bowls", "seconds", "kilograms",
