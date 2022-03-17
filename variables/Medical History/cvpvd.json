@@ -3,5 +3,8 @@
   "display_name": "Had previous history of peripheral arterial?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "labels": [
+    "mros_medical_history_form"
+  ]
 }

@@ -1,0 +1,14 @@
+{
+  "id": "slrldisc",
+  "display_name": "In the past month, overall, how would you rate the RLS discomfort in your legs or arms?",
+  "description": "",
+  "type": "choices",
+  "domain": "stat26x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "rls_plms"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

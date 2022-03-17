@@ -1,0 +1,14 @@
+{
+  "id": "slrldes",
+  "display_name": "Do you ever experience a desire to more your legs or arms because of discomfort or disagreeable sensations in your legs of arms?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_clinical_interview_form",
+    "rls_plms"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "podssa90",
+  "display_name": "Total number of oxygen desaturation with oxygen saturation < 90% in sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumds_su_salt90_f1t2"
+  ]
+}

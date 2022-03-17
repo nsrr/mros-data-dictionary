@@ -1,0 +1,14 @@
+{
+  "id": "fosofam1",
+  "display_name": "Functional Outcomes of Sleep: Relationships with family or friends affected",
+  "description": "Item from Functional Outcomes of Sleep Questionnaire. [Weaver et. al, 1997 (Pubmed ID: 9415942)](https://www.ncbi.nlm.nih.gov/pubmed/9415942)<br><br> [Search for all Functional Outcomes of Sleep variables within this dataset](https://sleepdata.org/datasets/mros/variables?search=fosq)<br><br>Original question: Has your relationship with family, friends or work colleagues been affected because you are sleepy or tired?",
+  "type": "choices",
+  "domain": "fosq2x",
+  "labels": [
+    "fosq",
+    "fosq_15relate"
+  ],
+  "forms": [
+    "mros1_functional_outcomes_of_sleep_form"
+  ]
+}

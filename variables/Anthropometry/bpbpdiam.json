@@ -4,8 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
+  "commonly_used": true,
   "forms": [
     "mros1_anthropometry_form"
-  ],
-  "commonly_used": true
+  ]
 }

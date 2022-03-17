@@ -1,0 +1,15 @@
+{
+  "id": "slslalc",
+  "display_name": "Do you ever drink alcohol to help you sleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_medical_history_form",
+    "sleep_hygiene"
+  ],
+  "forms": [
+    "mros1_medical_history_form",
+    "mros2_medical_history_form"
+  ]
+}

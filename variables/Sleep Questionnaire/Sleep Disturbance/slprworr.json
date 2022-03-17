@@ -1,0 +1,15 @@
+{
+  "id": "slprworr",
+  "display_name": "How worried/distressed are you about your sleep problem?",
+  "description": "",
+  "type": "choices",
+  "domain": "rate17x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "sleep_satisfaction",
+    "sleep_quality"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

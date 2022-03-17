@@ -1,0 +1,10 @@
+{
+  "id": "poplmdlt",
+  "display_name": "Total number of periodic limb movements in stage 3/4 sleep from type II polysomnography",
+  "description": "Number of PLMs in delta sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpl_s3_f1t2"
+  ]
+}

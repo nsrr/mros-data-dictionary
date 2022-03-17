@@ -1,0 +1,14 @@
+{
+  "id": "slfalslp",
+  "display_name": "Difficulty falling asleep in the last month?",
+  "description": "",
+  "type": "choices",
+  "domain": "stat30x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "insomnia"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

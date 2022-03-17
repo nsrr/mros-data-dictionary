@@ -1,0 +1,10 @@
+{
+  "id": "popcsa85",
+  "display_name": "Percentage duration of sleep with oxygen saturation < 85% from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_salt85_f1t2"
+  ]
+}

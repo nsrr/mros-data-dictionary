@@ -1,0 +1,13 @@
+{
+  "id": "slrlscor",
+  "display_name": "International restless legs scale (0-40)",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "mros_clinical_interview_form",
+    "rls_plms"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

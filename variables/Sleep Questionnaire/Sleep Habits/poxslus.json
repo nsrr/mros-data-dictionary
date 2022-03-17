@@ -1,0 +1,15 @@
+{
+  "id": "poxslus",
+  "display_name": "What is your usual sleeping arrangement?",
+  "description": "",
+  "type": "choices",
+  "domain": "bptypex",
+  "labels": [
+    "mros_clinical_interview_form",
+    "sleep_hygiene"
+  ],
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}

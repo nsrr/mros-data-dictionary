@@ -1,0 +1,14 @@
+{
+  "id": "fosohob",
+  "display_name": "Functional Outcomes of Sleep: Difficulty with hobbies",
+  "description": "Item from Functional Outcomes of Sleep Questionnaire. [Weaver et. al, 1997 (Pubmed ID: 9415942)](https://www.ncbi.nlm.nih.gov/pubmed/9415942)<br><br> [Search for all Functional Outcomes of Sleep variables within this dataset](https://sleepdata.org/datasets/mros/variables?search=fosq)<br><br>Original question: Do you have difficulty working on a hobby (for example, sewing, collecting, gardening) because you are sleepy or tired?",
+  "type": "choices",
+  "domain": "fosq",
+  "labels": [
+    "fosq",
+    "fosq_04hobby"
+  ],
+  "forms": [
+    "mros1_functional_outcomes_of_sleep_form"
+  ]
+}

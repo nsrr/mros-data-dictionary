@@ -1,0 +1,13 @@
+{
+  "id": "mhwtloss",
+  "display_name": "During the past 12 months, have you been trying to lose weight?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_medical_history_form"
+  ],
+  "forms": [
+    "mros2_medical_history_form"
+  ]
+}

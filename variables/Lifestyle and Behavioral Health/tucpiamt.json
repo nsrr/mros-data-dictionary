@@ -1,0 +1,14 @@
+{
+  "id": "tucpiamt",
+  "display_name": "How many pipes or cigars do you smoke per week?",
+  "description": "",
+  "type": "numeric",
+  "units": "pipes/cigars",
+  "labels": [
+    "mros_clinical_interview_form"
+  ],
+  "forms": [
+    "mros1_lifestyle_form",
+    "mros2_lifestyle_form"
+  ]
+}

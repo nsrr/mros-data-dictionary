@@ -1,0 +1,15 @@
+{
+  "id": "slscap",
+  "display_name": "Do you sleep with either a pressure mask ('CPAP') or a mouthpiece as treatment for your sleep apnea?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_medical_history_form",
+    "sleep_treatment"
+  ],
+  "forms": [
+    "mros1_medical_history_form",
+    "mros2_medical_history_form"
+  ]
+}

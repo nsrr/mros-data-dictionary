@@ -1,0 +1,14 @@
+{
+  "id": "sloxslpo",
+  "display_name": "How often do you use it during sleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "time3x",
+  "labels": [
+    "mros_medical_history_form",
+    "sleep_treatment"
+  ],
+  "forms": [
+    "mros2_medical_history_form"
+  ]
+}

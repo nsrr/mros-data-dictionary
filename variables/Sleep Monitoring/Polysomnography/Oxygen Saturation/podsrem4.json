@@ -1,0 +1,10 @@
+{
+  "id": "podsrem4",
+  "display_name": "Number of oxygen desaturation per hour in REM sleep with oxygen desaturation >= 4% from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumds_sr_dsge4_f1t2"
+  ]
+}

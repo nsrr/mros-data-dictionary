@@ -1,7 +1,0 @@
-{
-  "id": "podsnr3",
-  "display_name": "Number of desaturations per hour (NREM, >= 3%)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

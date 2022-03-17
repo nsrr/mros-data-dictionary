@@ -1,0 +1,14 @@
+{
+  "id": "poxwktm",
+  "display_name": "What time did you wake up today?",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "mros_clinical_interview_form",
+    "sleep_timing"
+  ],
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}

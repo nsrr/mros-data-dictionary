@@ -1,7 +1,0 @@
-{
-  "id": "podes4ph",
-  "display_name": "Number of desaturations with >= 4% desaturation",
-  "description": "",
-  "type": "numeric",
-  "units": "desaturation events"
-}

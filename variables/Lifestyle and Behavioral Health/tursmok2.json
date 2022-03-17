@@ -1,0 +1,10 @@
+{
+  "id": "tursmok2",
+  "display_name": "Cigarette smoking status version 2",
+  "description": "",
+  "type": "choices",
+  "domain": "smkf",
+  "labels": [
+    "mros_clinical_interview_form"
+  ]
+}

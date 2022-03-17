@@ -1,0 +1,9 @@
+{
+  "id": "tupacky2",
+  "display_name": "Smoke: Cigarette packs per year",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "mros_clinical_interview_form"
+  ]
+}

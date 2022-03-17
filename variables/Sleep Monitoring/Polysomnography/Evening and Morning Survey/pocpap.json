@@ -1,0 +1,12 @@
+{
+  "id": "pocpap",
+  "display_name": "Did the participant use CPAP or BiPAP the night of the psg study?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_clinical_interview_form",
+    "sleep_treatment"
+  ],
+  "commonly_used": true
+}

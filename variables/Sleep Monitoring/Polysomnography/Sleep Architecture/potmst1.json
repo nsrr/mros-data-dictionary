@@ -1,0 +1,10 @@
+{
+  "id": "potmst1",
+  "display_name": "Total duration of Stage 1 sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_s1_f1t2"
+  ]
+}

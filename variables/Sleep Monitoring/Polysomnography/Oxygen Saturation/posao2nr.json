@@ -1,0 +1,10 @@
+{
+  "id": "posao2nr",
+  "display_name": "Average oxygen saturation in NREM sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation",
+  "labels": [
+    "avglvlsa_sn_f1t2"
+  ]
+}

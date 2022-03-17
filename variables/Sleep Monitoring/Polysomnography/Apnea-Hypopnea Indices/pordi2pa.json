@@ -1,0 +1,10 @@
+{
+  "id": "pordi2pa",
+  "display_name": "Apnea-Hypopnea Index: Apneas with >=2% oxygen desaturation or with arousal+ hypopneas with > 30% flow reduction and >=2% oxygen desaturation or with arousal / hour of sleep from type II polysomnography",
+  "description": "Overall RDI at 2% desaturation or arousal",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_ap2rhp3x2r_f1t2"
+  ]
+}

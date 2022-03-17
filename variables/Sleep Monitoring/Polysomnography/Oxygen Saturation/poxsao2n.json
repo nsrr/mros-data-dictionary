@@ -1,0 +1,9 @@
+{
+  "id": "poxsao2n",
+  "display_name": "Maximum oxygen saturation in NREM sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "maxlvlsa_sn_f1t2"
+  ]
+}

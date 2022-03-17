@@ -1,0 +1,14 @@
+{
+  "id": "slrlscat",
+  "display_name": "IRLS severity categories",
+  "description": "",
+  "type": "choices",
+  "domain": "stat30x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "rls_plms"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

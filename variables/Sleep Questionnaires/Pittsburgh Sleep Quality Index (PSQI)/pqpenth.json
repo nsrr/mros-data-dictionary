@@ -1,0 +1,17 @@
+{
+  "id": "pqpenth",
+  "display_name": "Pittsburgh Sleep Quality Index: Problem to keep up enthusiasm to get things done",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mros/variables?search=psqi)<br><br>Original question: During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",
+  "type": "choices",
+  "domain": "psqi2x",
+  "labels": [
+    "mros_sleep_habits_form",
+    "sleep_related_impairment",
+    "psqi",
+    "psqi_18enthuse"
+  ],
+  "forms": [
+    "mros1_sleep_habits_form",
+    "mros2_sleep_habits_form"
+  ]
+}

@@ -1,7 +1,0 @@
-{
-  "id": "poplmcre",
-  "display_name": "Number of PLMs clusters in REM",
-  "description": "",
-  "type": "numeric",
-  "units": "limb movements"
-}

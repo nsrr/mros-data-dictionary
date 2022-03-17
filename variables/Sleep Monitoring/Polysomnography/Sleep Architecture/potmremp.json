@@ -1,0 +1,10 @@
+{
+  "id": "potmremp",
+  "display_name": "Percentage of total sleep duration in REM from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_sr_f1t2"
+  ]
+}

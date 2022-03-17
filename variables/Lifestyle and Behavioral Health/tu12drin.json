@@ -1,0 +1,14 @@
+{
+  "id": "tu12drin",
+  "display_name": "In the past 12 months, have you had at least 12 drinks of any kind of alcoholic beverage?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_clinical_interview_form"
+  ],
+  "forms": [
+    "mros1_lifestyle_form",
+    "mros2_lifestyle_form"
+  ]
+}

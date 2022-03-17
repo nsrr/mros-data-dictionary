@@ -1,0 +1,13 @@
+{
+  "id": "poxuritm",
+  "display_name": "What time did you collect your urine?",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "mros_clinical_interview_form"
+  ],
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}

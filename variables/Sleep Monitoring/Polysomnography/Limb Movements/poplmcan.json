@@ -1,0 +1,10 @@
+{
+  "id": "poplmcan",
+  "display_name": "Total number of periodic limb movement clusters in NREM sleep with arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpc_snso_f1t2"
+  ]
+}

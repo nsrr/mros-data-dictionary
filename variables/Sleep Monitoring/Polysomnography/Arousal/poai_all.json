@@ -1,0 +1,9 @@
+{
+  "id": "poai_all",
+  "display_name": "Arousal Index: Number of arousals per hour of sleep from type II polysomnography",
+  "description": "Arousal Index - total arousals per hour of sleep  [(Total number of arousals) / (hours of sleep)]",
+  "type": "numeric",
+  "labels": [
+    "phrnumar_f1t2"
+  ]
+}

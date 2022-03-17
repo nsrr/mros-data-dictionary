@@ -1,7 +1,0 @@
-{
-  "id": "poplmcde",
-  "display_name": "Number of PLMs clusters in delta sleep",
-  "description": "",
-  "type": "numeric",
-  "units": "limb movements"
-}

@@ -1,0 +1,14 @@
+{
+  "id": "tupipec",
+  "display_name": "Do you currently smoke a pipe or cigars regularly?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_clinical_interview_form"
+  ],
+  "forms": [
+    "mros1_lifestyle_form",
+    "mros2_lifestyle_form"
+  ]
+}

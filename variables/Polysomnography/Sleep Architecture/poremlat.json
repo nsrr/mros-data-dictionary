@@ -1,7 +1,0 @@
-{
-  "id": "poremlat",
-  "display_name": "REM latency I in minutes sleep onset to first REM",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

@@ -1,0 +1,15 @@
+{
+  "id": "pqbptype",
+  "display_name": "Please describe your bed partner or roommate",
+  "description": "",
+  "type": "choices",
+  "domain": "bptype",
+  "labels": [
+    "mros_sleep_habits_form",
+    "psqi"
+  ],
+  "forms": [
+    "mros1_sleep_habits_form",
+    "mros2_sleep_habits_form"
+  ]
+}

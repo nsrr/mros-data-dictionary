@@ -1,0 +1,9 @@
+{
+  "id": "polsao2r",
+  "display_name": "Minimum oxygen saturation in REM sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "minlvlsa_sr_f1t2"
+  ]
+}

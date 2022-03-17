@@ -1,0 +1,15 @@
+{
+  "id": "slsdoth",
+  "display_name": "Has a doctor or health care provider ever told you that you have an other sleeping disorder?",
+  "description": "",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "mros_medical_history_form",
+    "sleep_disorder"
+  ],
+  "forms": [
+    "mros1_medical_history_form",
+    "mros2_medical_history_form"
+  ]
+}

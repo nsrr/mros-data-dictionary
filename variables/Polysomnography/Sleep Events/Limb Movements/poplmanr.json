@@ -1,7 +1,0 @@
-{
-  "id": "poplmanr",
-  "display_name": "Number of PLMs with arousal in NREM",
-  "description": "",
-  "type": "numeric",
-  "units": "limb movements"
-}

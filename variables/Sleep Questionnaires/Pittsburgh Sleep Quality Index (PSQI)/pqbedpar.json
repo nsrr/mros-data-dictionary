@@ -1,0 +1,15 @@
+{
+  "id": "pqbedpar",
+  "display_name": "Do you have a bed partner or roommate",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_sleep_habits_form",
+    "psqi"
+  ],
+  "forms": [
+    "mros1_sleep_habits_form",
+    "mros2_sleep_habits_form"
+  ]
+}

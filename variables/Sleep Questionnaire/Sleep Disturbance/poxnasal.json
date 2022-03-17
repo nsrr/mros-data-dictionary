@@ -1,0 +1,14 @@
+{
+  "id": "poxnasal",
+  "display_name": "Did you have nasal stuffiness, obstruction, or discharge last night?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_clinical_interview_form"
+  ],
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}

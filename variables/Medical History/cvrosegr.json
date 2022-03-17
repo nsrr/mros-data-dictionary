@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "rosegr",
+  "labels": [
+    "mros_medical_history_form"
+  ],
   "forms": [
     "mros1_medical_history_form"
   ]

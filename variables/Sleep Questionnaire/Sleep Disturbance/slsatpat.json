@@ -1,0 +1,14 @@
+{
+  "id": "slsatpat",
+  "display_name": "How satisfied/dissatisfied are you with your current sleep pattern?",
+  "description": "",
+  "type": "choices",
+  "domain": "feel6x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "sleep_satisfaction"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

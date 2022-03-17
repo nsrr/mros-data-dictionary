@@ -1,0 +1,9 @@
+{
+  "id": "tupacky3",
+  "display_name": "Smoke: Cigarette pack per year, with time quit smoking removed",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "mros_clinical_interview_form"
+  ]
+}

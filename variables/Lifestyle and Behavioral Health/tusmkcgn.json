@@ -1,0 +1,13 @@
+{
+  "id": "tusmkcgn",
+  "display_name": "About how many cigarettes do you smoke per day?",
+  "description": "",
+  "type": "numeric",
+  "units": "cigarettes",
+  "labels": [
+    "mros_clinical_interview_form"
+  ],
+  "forms": [
+    "mros1_lifestyle_form"
+  ]
+}

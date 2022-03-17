@@ -1,7 +1,0 @@
-{
-  "id": "poai_all",
-  "display_name": "Overall arousal index",
-  "description": "Arousal Index - total arousals per hour of sleep  [(Total number of arousals) / (hours of sleep)]",
-  "type": "numeric",
-  "units": ""
-}

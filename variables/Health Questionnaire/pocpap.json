@@ -1,8 +1,0 @@
-{
-  "id": "pocpap",
-  "display_name": "Did the participant use CPAP or BiPAP the night of the psg study?",
-  "description": "",
-  "type": "choices",
-  "domain": "yndk",
-  "commonly_used": true
-}

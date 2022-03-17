@@ -1,0 +1,15 @@
+{
+  "id": "sltirlev",
+  "display_name": "During the past month, how tired did you feel?",
+  "description": "",
+  "type": "choices",
+  "domain": "feel5x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "sleep_related_impairment",
+    "subjective_sleepiness"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

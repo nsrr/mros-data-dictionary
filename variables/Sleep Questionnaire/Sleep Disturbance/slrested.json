@@ -1,0 +1,15 @@
+{
+  "id": "slrested",
+  "display_name": "Rested based on hours slept",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_clinical_interview_form",
+    "sleep_satisfaction",
+    "sleep_quality"
+  ],
+  "forms": [
+    "mros1_clinic_interview_form"
+  ]
+}

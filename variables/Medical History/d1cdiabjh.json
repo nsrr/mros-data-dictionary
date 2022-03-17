@@ -3,5 +3,8 @@
   "display_name": "Categorical calculated variable for diabetes",
   "description": "",
   "type": "choices",
-  "domain": "cat"
+  "domain": "cat",
+  "labels": [
+    "mros_medical_history_form"
+  ]
 }

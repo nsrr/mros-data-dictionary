@@ -1,0 +1,14 @@
+{
+  "id": "slwkerly",
+  "display_name": "Problem waking up too early in the morning in the last month?",
+  "description": "",
+  "type": "choices",
+  "domain": "stat30x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "insomnia"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

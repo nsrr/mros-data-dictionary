@@ -1,0 +1,10 @@
+{
+  "id": "podes4ph",
+  "display_name": "Total number of oxygen desaturation in sleep with oxygen desaturation >= 4% from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "desaturation events",
+  "labels": [
+    "ttlnumds_dsge4_f1t2"
+  ]
+}

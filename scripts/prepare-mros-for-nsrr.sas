@@ -88,7 +88,8 @@ data mros1_harmonized;
 *age;
 *use vsage1;
   format nsrr_age 8.2;
-  nsrr_age = vsage1;
+  if vsage1 gt 89 then nsrr_age = 90;
+  else if vsage1 le 89 then nsrr_age = vsage1;
 
 *age_gt89;
 *use vsage1;
@@ -160,6 +161,46 @@ data mros1_harmonized;
     else if tursmoke = 'A'  then nsrr_ever_smoker = 'not reported';
   else nsrr_ever_smoker = 'not reported';
 
+*polysomnography;
+*nsrr_ahi_hp3u;
+*use poahi3;
+  format nsrr_ahi_hp3u 8.2;
+  nsrr_ahi_hp3u = poahi3;
+
+*nsrr_ahi_hp3r_aasm15;
+*use poahi3a;
+  format nsrr_ahi_hp3r_aasm15 8.2;
+  nsrr_ahi_hp3r_aasm15 = poahi3a;
+ 
+*nsrr_ahi_hp4u_aasm15;
+*use poahi4;
+  format nsrr_ahi_hp4u_aasm15 8.2;
+  nsrr_ahi_hp4u_aasm15 = poahi4;
+  
+*nsrr_ahi_hp4r;
+*use poahi4a;
+  format nsrr_ahi_hp4r 8.2;
+  nsrr_ahi_hp4r = poahi4a;
+ 
+*nsrr_ttldursp_f1;
+*use poslprdp;
+  format nsrr_ttldursp_f1 8.2;
+  nsrr_ttldursp_f1 = poslprdp;
+  
+*nsrr_phrnumar_f1;
+*use poai_all;
+  format nsrr_phrnumar_f1 8.2;
+  nsrr_phrnumar_f1 = poai_all;  
+
+*nsrr_flag_spsw;
+*use poprstag;
+  format nsrr_flag_spsw $100.;
+    if poprstag = 1 then nsrr_flag_spsw = 'sleep/wake only';
+    else if poprstag = 0 then nsrr_flag_spsw = 'full scoring';
+    else if poprstag = 8 then nsrr_flag_spsw = 'unknown';
+  else if poprstag = . then nsrr_flag_spsw = 'unknown';  
+  
+  
   keep 
     nsrrid
     visit
@@ -173,6 +214,13 @@ data mros1_harmonized;
     nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp4u_aasm15
+	nsrr_ahi_hp4r
+	nsrr_ttldursp_f1
+	nsrr_phrnumar_f1
+	nsrr_flag_spsw
     ;
 run;
 
@@ -186,7 +234,13 @@ proc means data=mros1_harmonized;
 VAR   nsrr_age
     nsrr_bmi
     nsrr_bp_systolic
-    nsrr_bp_diastolic;
+    nsrr_bp_diastolic
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp4u_aasm15
+	nsrr_ahi_hp4r
+	nsrr_ttldursp_f1
+	nsrr_phrnumar_f1;
 run;
 
 /* Checking categorical variables */
@@ -197,7 +251,8 @@ table   nsrr_age_gt89
     nsrr_race
     nsrr_ethnicity
     nsrr_current_smoker
-    nsrr_ever_smoker;
+    nsrr_ever_smoker
+	nsrr_flag_spsw;
 run;
 
 *******************************************************************************;

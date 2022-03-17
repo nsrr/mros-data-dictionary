@@ -1,0 +1,16 @@
+{
+  "id": "poxsnort",
+  "display_name": "During the past month, how often have you had trouble sleeping because of snorting or gasping?",
+  "description": "",
+  "type": "choices",
+  "domain": "psqi",
+  "labels": [
+    "mros_clinical_interview_form",
+    "snore",
+    "sdb"
+  ],
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}

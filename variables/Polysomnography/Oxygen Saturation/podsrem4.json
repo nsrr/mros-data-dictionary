@@ -1,7 +1,0 @@
-{
-  "id": "podsrem4",
-  "display_name": "Number of desaturations per hour (REM, >= 4%)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

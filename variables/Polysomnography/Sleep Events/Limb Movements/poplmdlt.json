@@ -1,7 +1,0 @@
-{
-  "id": "poplmdlt",
-  "display_name": "Number of PLMs in delta sleep",
-  "description": "",
-  "type": "numeric",
-  "units": "limb movements"
-}

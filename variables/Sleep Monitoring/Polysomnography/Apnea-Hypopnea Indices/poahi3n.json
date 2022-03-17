@@ -1,0 +1,10 @@
+{
+  "id": "poahi3n",
+  "display_name": "Apnea-Hypopnea Index (NREM): (All apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation and with or without arousal)  / hour of NREM sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_sn_ap0uhp3x3u_f1t2"
+  ]
+}

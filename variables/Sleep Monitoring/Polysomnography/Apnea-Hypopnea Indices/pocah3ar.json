@@ -1,0 +1,9 @@
+{
+  "id": "pocah3ar",
+  "display_name": "Central Apnea-Hypopnea Index (REM): (Central apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with > 3% desaturation or with arousal) / hour of REM sleep from type II polysomnography",
+  "description": "",
+  "type": null,
+  "labels": [
+    "cahi_sr_ca0uhp3x3r_f1t2"
+  ]
+}

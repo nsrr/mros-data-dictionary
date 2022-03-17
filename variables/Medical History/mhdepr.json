@@ -3,5 +3,8 @@
   "display_name": "Has a doctor or other health care provider ever told you that you had depression?",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "labels": [
+    "mros_medical_history_form"
+  ]
 }

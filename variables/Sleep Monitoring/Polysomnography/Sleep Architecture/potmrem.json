@@ -1,0 +1,10 @@
+{
+  "id": "potmrem",
+  "display_name": "Total duration of REM sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_sr_f1t2"
+  ]
+}

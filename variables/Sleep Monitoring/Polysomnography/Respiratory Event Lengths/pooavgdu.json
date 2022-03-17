@@ -1,0 +1,10 @@
+{
+  "id": "pooavgdu",
+  "display_name": "Average duration of obstructive apnea: all obstructive apneas with no oxygen desaturation threshold used and with or without arousal in sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgduroa_oa0u_f1t2"
+  ]
+}

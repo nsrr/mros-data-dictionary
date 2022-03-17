@@ -1,0 +1,13 @@
+{
+  "id": "mhwpill",
+  "display_name": "During the past 12 months, were you trying to lose weight through diet pills?",
+  "description": "",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "mros_medical_history_form"
+  ],
+  "forms": [
+    "mros2_medical_history_form"
+  ]
+}

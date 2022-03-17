@@ -1,0 +1,10 @@
+{
+  "id": "pohs2t1p",
+  "display_name": "Number of shift (sleep stages shift) from stage 2 to stage 1 sleep per hour of sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumsf_s2s1_f1t2"
+  ]
+}

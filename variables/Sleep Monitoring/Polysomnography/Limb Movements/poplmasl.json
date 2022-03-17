@@ -1,0 +1,10 @@
+{
+  "id": "poplmasl",
+  "display_name": "Total number of periodic limb movements (PLM) with arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpl_suso_f1t2"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "powaso",
+  "display_name": "Wake after Sleep Onset: the total duration between sleep onset and sleep offset time while being awake from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldurws_f1t2"
+  ],
+  "commonly_used": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": "slstopbr",
+  "display_name": "Are there times when you stop breathing during your sleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "yndk",
+  "labels": [
+    "mros_medical_history_form",
+    "sdb"
+  ],
+  "forms": [
+    "mros1_medical_history_form",
+    "mros2_medical_history_form"
+  ]
+}

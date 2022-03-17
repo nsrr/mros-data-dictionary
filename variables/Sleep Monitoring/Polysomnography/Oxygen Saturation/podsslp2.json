@@ -1,0 +1,10 @@
+{
+  "id": "podsslp2",
+  "display_name": "Number of oxygen desaturation per hour in sleep with oxygen desaturation >= 2% from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumds_dsge2_f1t2"
+  ]
+}

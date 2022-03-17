@@ -1,0 +1,16 @@
+{
+  "id": "slrlmood",
+  "display_name": "In the past month, how severe was your mood disturbance due to your RLS symptoms- for example angry, depressed, sad, anxious, or irritable?",
+  "description": "",
+  "type": "choices",
+  "domain": "stat26x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "rls_plms",
+    "sleep_satisfaction",
+    "sleep_related_impairment"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

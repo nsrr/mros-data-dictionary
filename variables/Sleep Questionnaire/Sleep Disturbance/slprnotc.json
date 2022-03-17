@@ -1,0 +1,14 @@
+{
+  "id": "slprnotc",
+  "display_name": "How noticeable to others do you think your sleeping problem is in terms of impairing the quality of your life?",
+  "description": "",
+  "type": "choices",
+  "domain": "feel3x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "sleep_related_impairment"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pocavgdu",
+  "display_name": "Average duration of central apnea: all central apneas with no oxygen desaturation threshold used and with or without arousal in sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurca_ca0u_f1t2"
+  ]
+}

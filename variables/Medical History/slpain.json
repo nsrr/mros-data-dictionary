@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "yndk",
+  "labels": [
+    "mros_medical_history_form",
+    "insomnia"
+  ],
   "forms": [
     "mros2_medical_history_form"
   ]

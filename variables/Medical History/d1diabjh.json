@@ -3,5 +3,8 @@
   "display_name": "Binary calculated variable for diabetes",
   "description": "",
   "type": "choices",
-  "domain": "yndk"
+  "domain": "yndk",
+  "labels": [
+    "mros_medical_history_form"
+  ]
 }

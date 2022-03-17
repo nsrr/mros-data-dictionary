@@ -1,0 +1,15 @@
+{
+  "id": "sljerk",
+  "display_name": "During the past month, how often have you had trouble sleeping because you have leg jerks or leg cramps?",
+  "description": "",
+  "type": "choices",
+  "domain": "psqi",
+  "labels": [
+    "mros_sleep_habits_form",
+    "rls_plms"
+  ],
+  "forms": [
+    "mros1_sleep_habits_form",
+    "mros2_sleep_habits_form"
+  ]
+}

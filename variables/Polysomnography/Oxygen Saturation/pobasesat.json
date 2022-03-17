@@ -1,7 +1,0 @@
-{
-  "id": "pobasesat",
-  "display_name": "Baseline oxygen saturation per tech per observation",
-  "description": "",
-  "type": "numeric",
-  "units": "percent"
-}

@@ -1,0 +1,15 @@
+{
+  "id": "poxlegk",
+  "display_name": "During the past month, how often have you had trouble sleeping because of leg jerks or kicks?",
+  "description": "",
+  "type": "choices",
+  "domain": "psqi",
+  "labels": [
+    "mros_clinical_interview_form",
+    "rls_plms"
+  ],
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}

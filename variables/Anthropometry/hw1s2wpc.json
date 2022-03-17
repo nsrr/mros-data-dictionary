@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "percent",
   "forms": [
-  "mros2_anthropometry_form"
-]
+    "mros2_anthropometry_form"
+  ]
 }

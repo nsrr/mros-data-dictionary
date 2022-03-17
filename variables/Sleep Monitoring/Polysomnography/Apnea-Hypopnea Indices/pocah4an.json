@@ -1,0 +1,10 @@
+{
+  "id": "pocah4an",
+  "display_name": "Central Apnea-Hypopnea Index (NREM): (Central apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with > 4% desaturation or with arousal) / hour of NREM sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "cahi_sn_ca0uhp3x4r_f1t2"
+  ]
+}

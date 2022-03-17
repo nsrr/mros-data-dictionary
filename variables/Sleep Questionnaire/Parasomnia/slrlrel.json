@@ -1,0 +1,14 @@
+{
+  "id": "slrlrel",
+  "display_name": "In the past month, overall, how much relief of your RLS arm or leg discomfort did you get from moving around?",
+  "description": "",
+  "type": "choices",
+  "domain": "stat27x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "rls_plms"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

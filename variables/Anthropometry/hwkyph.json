@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "yndk",
- "forms": [
+  "forms": [
     "mros1_anthropometry_form",
     "mros2_anthropometry_form"
   ]

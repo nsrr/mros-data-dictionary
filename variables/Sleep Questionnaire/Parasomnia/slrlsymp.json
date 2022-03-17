@@ -1,0 +1,14 @@
+{
+  "id": "slrlsymp",
+  "display_name": "In the past month, how severe was your RLS as a whole?",
+  "description": "",
+  "type": "choices",
+  "domain": "stat26x",
+  "labels": [
+    "mros_clinical_interview_form",
+    "rls_plms"
+  ],
+  "forms": [
+    "mros2_clinic_interview_form"
+  ]
+}

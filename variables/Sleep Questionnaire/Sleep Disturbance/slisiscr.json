@@ -1,0 +1,12 @@
+{
+  "id": "slisiscr",
+  "display_name": "Insomnia Severity Index: Total Score (0-28)",
+  "description": "Summary score for the Insomnia Severity Index. (Morin CM, Insomnia, psychological assessment and management. Guilford Press, New York, 1993)[https://pubmed.ncbi.nlm.nih.gov/21532953/] Each item is scored from 0 to 4. Total score is the sum of all seven items (0 to 28), and catergorized as: absence of insomnia (07), sub-threshold insomnia (814), moderate insomnia (1521), and severe insomnia (2228).<br><br> [Search for all ISI variables within this dataset](https://sleepdata.org/datasets/mros/variables?search=isi)",
+  "type": "numeric",
+  "labels": [
+    "mros_clinical_interview_form",
+    "insomnia",
+    "isi",
+    "isi_total"
+  ]
+}

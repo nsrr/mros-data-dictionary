@@ -1,0 +1,10 @@
+{
+  "id": "poavgplm",
+  "display_name": "Number of periodic limb movements (PLM) per hour of sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements per hour",
+  "labels": [
+    "phrnumpl_sp_f1t2"
+  ]
+}

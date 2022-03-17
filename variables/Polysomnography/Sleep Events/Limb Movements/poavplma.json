@@ -1,7 +1,0 @@
-{
-  "id": "poavplma",
-  "display_name": "Number of PLMs with arousal per hour of sleep",
-  "description": "",
-  "type": "numeric",
-  "units": "limb movements per hour"
-}

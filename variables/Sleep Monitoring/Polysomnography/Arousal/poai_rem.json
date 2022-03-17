@@ -1,0 +1,9 @@
+{
+  "id": "poai_rem",
+  "display_name": "Arousal Index (REM): number of arousals per hour of REM sleep from type II polysomnography",
+  "description": "REM Arousal Index - total arousals in REM sleep per hours of REM sleep(Total number of arousals in REM sleep) / (hours of REM sleep)",
+  "type": "numeric",
+  "labels": [
+    "phrnumar_sr_f1t2"
+  ]
+}

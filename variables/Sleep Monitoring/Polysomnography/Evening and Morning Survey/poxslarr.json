@@ -1,0 +1,14 @@
+{
+  "id": "poxslarr",
+  "display_name": "What was your sleeping arrangement last night?",
+  "description": "",
+  "type": "choices",
+  "domain": "bptypex",
+  "labels": [
+    "mros_clinical_interview_form"
+  ],
+  "forms": [
+    "mros1_psg_morning_survey_form",
+    "mros2_psg_morning_survey_form"
+  ]
+}

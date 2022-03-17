@@ -1,7 +1,0 @@
-{
-  "id": "poplmcan",
-  "display_name": "Number of PLMs clusters with arousal in NREM",
-  "description": "",
-  "type": "numeric",
-  "units": "limb movements"
-}

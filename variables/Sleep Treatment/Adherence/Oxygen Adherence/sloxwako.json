@@ -1,0 +1,14 @@
+{
+  "id": "sloxwako",
+  "display_name": "How often do you use it during wake?",
+  "description": "",
+  "type": "choices",
+  "domain": "time3x",
+  "labels": [
+    "mros_medical_history_form",
+    "sleep_treatment"
+  ],
+  "forms": [
+    "mros2_medical_history_form"
+  ]
+}

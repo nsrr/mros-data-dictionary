@@ -1,7 +1,0 @@
-{
-  "id": "podsslp2",
-  "display_name": "Number of desaturations per hours (total sleep >= 2%)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

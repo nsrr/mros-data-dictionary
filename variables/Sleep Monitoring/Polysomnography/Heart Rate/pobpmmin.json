@@ -1,0 +1,10 @@
+{
+  "id": "pobpmmin",
+  "display_name": "Minimum heart rate in sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "minlvlhr_f1t2"
+  ]
+}

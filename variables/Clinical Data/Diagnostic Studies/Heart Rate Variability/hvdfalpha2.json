@@ -1,0 +1,6 @@
+{
+  "id": "hvdfalpha2",
+  "display_name": "Detrended fluctuation analysis, long term",
+  "description": "For long term correlations in long time scales corresponding to log of 70 < t < 300 beats",
+  "type": "numeric"
+}
