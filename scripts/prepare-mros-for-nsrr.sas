@@ -31,6 +31,7 @@ data mros1;
 
   *drop variables;
   drop 
+    poremli /*redundant variable (keep poremlat)*/
     postdydt /* identifier */
     ;
 run;
@@ -74,6 +75,8 @@ data mros2;
 
   *drop variables;
   drop 
+    poremli /*redundant variable (keep poremlat)*/
+	remlaip /*redundant variable (keep poremlat)*/
     postdydt /* identifier */
     ;
 run;
