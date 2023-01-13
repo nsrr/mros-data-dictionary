@@ -1,10 +1,11 @@
 {
   "id": "tursmok1",
-  "display_name": "Cigarette smoking now?",
+  "display_name": "Cigarette smoking now? (visit 2)",
   "description": "",
   "type": "choices",
   "domain": "yndk",
   "labels": [
-    "mros_clinical_interview_form"
+    "mros_clinical_interview_form",
+    "smoking"
   ]
 }

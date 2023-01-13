@@ -1,11 +1,12 @@
 {
   "id": "tusmknow",
-  "display_name": "Do you smoke cigarettes now?",
+  "display_name": "Do you smoke cigarettes now? (visit 1)",
   "description": "",
   "type": "choices",
   "domain": "yndk",
   "labels": [
-    "mros_clinical_interview_form"
+    "mros_clinical_interview_form",
+    "smoking"
   ],
   "forms": [
     "mros1_lifestyle_form"

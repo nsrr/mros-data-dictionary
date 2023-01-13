@@ -1,3 +1,10 @@
+## 0.7.0 
+
+- Add harmonized sleep architecture variables
+- Add annotated QS form for polysomnography data (not done yet)
+- The CSV datasets generated from the SAS export is located here:
+  - `\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\0.7.0\`
+
 ## 0.6.0 (April 5, 2022)
 
 - Add initial set of harmonized terms (nsrr_*)
