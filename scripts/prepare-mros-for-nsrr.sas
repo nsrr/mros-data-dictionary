@@ -29,12 +29,46 @@ data mros1;
   *recode ages 90 or above to 90;
   if vsage1 > 89 then vsage1 = 90;
 
+  *create lights-on time;
+  format postlont time8.;
+  postlont = postlotp + (potimebd * 60);
+  if postlont >= 86400 then postlont = postlont - 86400;
+
+  *create decimal hours variables for PSG lights/onset;
+  format postlotp_dec postontp_dec postlont_dec 8.2;
+  if postlotp < 43200 then postlotp_dec = postlotp/3600 + 24;
+  else postlotp_dec = postlotp/3600;
+  if postontp < 43200 then postontp_dec = postontp/3600 + 24;
+  else postontp_dec = postontp/3600;
+  if postlont < 43200 then postlont_dec = postlont/3600 + 24;
+  else postlont_dec = postlont/3600;
+
   *drop variables;
   drop 
     poremli /*redundant variable (keep poremlat)*/
     postdydt /* identifier */
     ;
 run;
+
+/*
+
+data mros1test;
+  set mros1;
+
+  time_diff = postlont_dec - postlotp_dec;
+run;
+
+proc freq data=mros1test;
+  table postlotp_dec postontp_dec postlont_dec time_diff;
+run;
+
+proc sql;
+  select nsrrid, postlotp, postontp, postlont, postlotp_dec, postontp_dec, postlont_dec, time_diff
+  from mros1test
+  where time_diff > 15;
+quit;
+
+*/
 
 data mros1_hrv;
   length nsrrid $6. visit 8.;
@@ -73,13 +107,56 @@ data mros2;
   *recode ages 90 or above to 90;
   if vs2age1 > 89 then vs2age1 = 90;
 
+  *create lights-on time;
+  format postlont time8.;
+  postlont = postlotp + (potimebd * 60);
+  if postlont >= 86400 then postlont = postlont - 86400;
+
+  *create decimal hours variables for PSG lights/onset;
+  format postlotp_dec postontp_dec postlont_dec 8.2;
+  if postlotp < 43200 then postlotp_dec = postlotp/3600 + 24;
+  else postlotp_dec = postlotp/3600;
+  if postontp < 43200 then postontp_dec = postontp/3600 + 24;
+  else postontp_dec = postontp/3600;
+  if postlont < 43200 then postlont_dec = postlont/3600 + 24;
+  else postlont_dec = postlont/3600;
+
   *drop variables;
   drop 
     poremli /*redundant variable (keep poremlat)*/
-	remlaip /*redundant variable (keep poremlat)*/
+    remlaip /*redundant variable (keep poremlat)*/
     postdydt /* identifier */
     ;
 run;
+
+/*
+
+data mros2test;
+  set mros2;
+
+  time_diff = postlont_dec - postlotp_dec;
+run;
+
+proc freq data=mros2test;
+  table postlotp_dec postontp_dec postlont_dec time_diff;
+run;
+
+proc sql;
+  select nsrrid, postlotp, postontp, postlont, postlotp_dec, postontp_dec, postlont_dec, time_diff
+  from mros2test
+  where time_diff > 15;
+quit;
+
+proc freq data=mros2test;
+  table poslpmef;
+run;
+
+proc means data=mros2test;
+  var potimebd poslpeff ;
+run;
+
+*/
+
 
 *******************************************************************************;
 * create harmonized datasets ;
@@ -267,23 +344,23 @@ data mros1_harmonized;
     nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm15
-	nsrr_ahi_hp4u_aasm15
-	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
-	nsrr_phrnumar_f1
-	nsrr_flag_spsw
-	nsrr_ttleffsp_f1
-	nsrr_ttllatsp_f1
-	nsrr_ttlprdsp_s1sr
-	nsrr_ttldursp_s1sr
-	nsrr_ttldurws_f1
-	nsrr_pctdursp_s1
-	nsrr_pctdursp_s2
-	nsrr_pctdursp_s3
-	nsrr_pctdursp_sr
-	nsrr_ttlprdbd_f1
+  nsrr_ahi_hp3u
+  nsrr_ahi_hp3r_aasm15
+  nsrr_ahi_hp4u_aasm15
+  nsrr_ahi_hp4r
+  nsrr_ttldursp_f1
+  nsrr_phrnumar_f1
+  nsrr_flag_spsw
+  nsrr_ttleffsp_f1
+  nsrr_ttllatsp_f1
+  nsrr_ttlprdsp_s1sr
+  nsrr_ttldursp_s1sr
+  nsrr_ttldurws_f1
+  nsrr_pctdursp_s1
+  nsrr_pctdursp_s2
+  nsrr_pctdursp_s3
+  nsrr_pctdursp_sr
+  nsrr_ttlprdbd_f1
     ;
 run;
 
@@ -464,27 +541,27 @@ data mros2_harmonized;
     nsrr_race
     nsrr_ethnicity
     nsrr_bmi
-	nsrr_bp_systolic
+  nsrr_bp_systolic
     nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm15
-	nsrr_ahi_hp4u_aasm15
-	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
-	nsrr_phrnumar_f1
-	nsrr_flag_spsw
-	nsrr_ttleffsp_f1
-	nsrr_ttllatsp_f1
-	nsrr_ttlprdsp_s1sr
-	nsrr_ttldursp_s1sr
-	nsrr_ttldurws_f1
-	nsrr_pctdursp_s1
-	nsrr_pctdursp_s2
-	nsrr_pctdursp_s3
-	nsrr_pctdursp_sr
-	nsrr_ttlprdbd_f1
+  nsrr_ahi_hp3u
+  nsrr_ahi_hp3r_aasm15
+  nsrr_ahi_hp4u_aasm15
+  nsrr_ahi_hp4r
+  nsrr_ttldursp_f1
+  nsrr_phrnumar_f1
+  nsrr_flag_spsw
+  nsrr_ttleffsp_f1
+  nsrr_ttllatsp_f1
+  nsrr_ttlprdsp_s1sr
+  nsrr_ttldursp_s1sr
+  nsrr_ttldurws_f1
+  nsrr_pctdursp_s1
+  nsrr_pctdursp_s2
+  nsrr_pctdursp_s3
+  nsrr_pctdursp_sr
+  nsrr_ttlprdbd_f1
     ;
 run;
 
@@ -501,24 +578,24 @@ run;
 proc means data=mros_harmonized;
 VAR   nsrr_age
     nsrr_bmi
-	nsrr_bp_systolic
+  nsrr_bp_systolic
     nsrr_bp_diastolic
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm15
-	nsrr_ahi_hp4u_aasm15
-	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
-	nsrr_phrnumar_f1
-	nsrr_ttleffsp_f1
-	nsrr_ttllatsp_f1
-	nsrr_ttlprdsp_s1sr
-	nsrr_ttldursp_s1sr
-	nsrr_ttldurws_f1
-	nsrr_pctdursp_s1
-	nsrr_pctdursp_s2
-	nsrr_pctdursp_s3
-	nsrr_pctdursp_sr
-	nsrr_ttlprdbd_f1;
+  nsrr_ahi_hp3u
+  nsrr_ahi_hp3r_aasm15
+  nsrr_ahi_hp4u_aasm15
+  nsrr_ahi_hp4r
+  nsrr_ttldursp_f1
+  nsrr_phrnumar_f1
+  nsrr_ttleffsp_f1
+  nsrr_ttllatsp_f1
+  nsrr_ttlprdsp_s1sr
+  nsrr_ttldursp_s1sr
+  nsrr_ttldurws_f1
+  nsrr_pctdursp_s1
+  nsrr_pctdursp_s2
+  nsrr_pctdursp_s3
+  nsrr_pctdursp_sr
+  nsrr_ttlprdbd_f1;
 run;
 
 /* Checking categorical variables */
@@ -530,7 +607,7 @@ table   nsrr_age_gt89
     nsrr_ethnicity
     nsrr_current_smoker
     nsrr_ever_smoker
-	nsrr_flag_spsw;
+  nsrr_flag_spsw;
 run;
 
 *******************************************************************************;

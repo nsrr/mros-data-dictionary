@@ -1,6 +1,6 @@
 {
   "id": "postlotp",
-  "display_name": "Beginning(start) point time for bed (in-bed) from type II polysomnography",
+  "display_name": "Beginning (start) point time for bed (in-bed) from type II polysomnography",
   "description": "Lights out time",
   "type": "time",
   "labels": [
