@@ -569,6 +569,11 @@ run;
 data mros_harmonized;
    set mros1_harmonized mros2_harmonized;
 run;
+
+proc sort data=mros_harmonized;
+  by nsrrid visit;
+run;
+
 *******************************************************************************;
 * checking harmonized datasets ;
 *******************************************************************************;
@@ -658,7 +663,7 @@ run;
 
 proc export
   data = mros_harmonized
-  outfile="\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros-harmonized-&version..csv"
+  outfile="\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\&version.\mros-harmonized-dataset-&version..csv"
   dbms = csv
   replace;
 run;

@@ -1,0 +1,10 @@
+{
+  "id": "postontp_dec",
+  "display_name": "Sleep onset time (hours of the day) from type II polysomnography",
+  "description": "24 hours were added to the original values that occurred after midnight",
+  "type": "numeric",
+  "units": "hours",
+  "labels": [
+    "begtimsp_f1t2"
+  ]
+}
