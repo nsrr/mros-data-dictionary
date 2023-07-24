@@ -1,0 +1,10 @@
+{
+  "id": "nsrr_begtimbd_f1",
+  "display_name": "Lights-out or In-bed clock time from polysomnography",
+  "description": "Conventionally, this variable would be called the start of time in bed (TIB).<br><br>Harmonized by the NSRR team. Source: :postlotp:",
+  "type": "time",
+  "labels": [
+    "begtimbd_f1t1"
+  ],
+  "commonly_used": true
+}

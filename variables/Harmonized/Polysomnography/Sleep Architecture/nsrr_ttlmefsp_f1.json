@@ -1,0 +1,11 @@
+{
+  "id": "nsrr_ttlmefsp_f1",
+  "display_name": "Sleep Maintenance Efficiency: the proportion of total sleep duration (i.e., total sleep time) in sleep period (i.e., interval between sleep onset and offset including wake) from polysomnography",
+  "description": "Harmonized by the NSRR team. Source: :poslpeff:",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "ttlmefsp_f1t2"
+  ],
+  "commonly_used": true
+}

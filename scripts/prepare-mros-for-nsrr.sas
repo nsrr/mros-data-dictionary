@@ -263,10 +263,10 @@ data mros1_harmonized;
   format nsrr_ahi_hp4r 8.2;
   nsrr_ahi_hp4r = poahi4a;
  
-*nsrr_ttldursp_f1;
+*nsrr_tst_f1;
 *use poslprdp;
-  format nsrr_ttldursp_f1 8.2;
-  nsrr_ttldursp_f1 = poslprdp;
+  format nsrr_tst_f1 8.2;
+  nsrr_tst_f1 = poslprdp;
   
 *nsrr_phrnumar_f1;
 *use poai_all;
@@ -281,10 +281,10 @@ data mros1_harmonized;
     else if poprstag = 8 then nsrr_flag_spsw = 'unknown';
   else if poprstag = . then nsrr_flag_spsw = 'unknown';  
   
-*nsrr_ttleffsp_f1;
+*nsrr_ttlmefsp_f1;
 *use poslpeff;
-  format nsrr_ttleffsp_f1 8.2;
-  nsrr_ttleffsp_f1 = poslpeff;  
+  format nsrr_ttlmefsp_f1 8.2;
+  nsrr_ttlmefsp_f1 = poslpeff;  
 
 *nsrr_ttllatsp_f1;
 *use posllatp;
@@ -301,10 +301,10 @@ data mros1_harmonized;
   format nsrr_ttldursp_s1sr 8.2;
   nsrr_ttldursp_s1sr = poremlii; 
 
-*nsrr_ttldurws_f1;
+*nsrr_waso_f1;
 *use powaso;
-  format nsrr_ttldurws_f1 8.2;
-  nsrr_ttldurws_f1 = powaso;
+  format nsrr_waso_f1 8.2;
+  nsrr_waso_f1 = powaso;
   
 *nsrr_pctdursp_s1;
 *use potmst1p;
@@ -326,10 +326,25 @@ data mros1_harmonized;
   format nsrr_pctdursp_sr 8.2;
   nsrr_pctdursp_sr = potmremp;
 
-*nsrr_ttlprdbd_f1;
+*nsrr_tib_f1;
 *use potimebd;
-  format nsrr_ttlprdbd_f1 8.2;
-  nsrr_ttlprdbd_f1 = potimebd;  
+  format nsrr_tib_f1 8.2;
+  nsrr_tib_f1 = potimebd;  
+
+*nsrr_begtimbd_f1;
+*use postlotp;
+  format nsrr_begtimbd_f1 time8.;
+  nsrr_begtimbd_f1 = postlotp;
+
+*nsrr_begtimsp_f1;
+*use postontp;
+  format nsrr_begtimsp_f1 time8.;
+  nsrr_begtimsp_f1 = postontp;
+
+*nsrr_endtimbd_f1;
+*use postlont;
+  format nsrr_endtimbd_f1 time8.;
+  nsrr_endtimbd_f1 = postlont;
   
   keep 
     nsrrid
@@ -348,20 +363,22 @@ data mros1_harmonized;
   nsrr_ahi_hp3r_aasm15
   nsrr_ahi_hp4u_aasm15
   nsrr_ahi_hp4r
-  nsrr_ttldursp_f1
+  nsrr_tst_f1
   nsrr_phrnumar_f1
   nsrr_flag_spsw
-  nsrr_ttleffsp_f1
+  nsrr_ttlmefsp_f1
   nsrr_ttllatsp_f1
   nsrr_ttlprdsp_s1sr
   nsrr_ttldursp_s1sr
-  nsrr_ttldurws_f1
+  nsrr_waso_f1
   nsrr_pctdursp_s1
   nsrr_pctdursp_s2
   nsrr_pctdursp_s3
   nsrr_pctdursp_sr
-  nsrr_ttlprdbd_f1
-    ;
+  nsrr_tib_f1
+  nsrr_begtimbd_f1
+  nsrr_begtimsp_f1
+  nsrr_endtimbd_f1;
 run;
 
 * create harmonized data for visit 2;
@@ -464,10 +481,10 @@ data mros2_harmonized;
   format nsrr_ahi_hp4r 8.2;
   nsrr_ahi_hp4r = poahi4a;
  
-*nsrr_ttldursp_f1;
+*nsrr_tst_f1;
 *use poslprdp;
-  format nsrr_ttldursp_f1 8.2;
-  nsrr_ttldursp_f1 = poslprdp;
+  format nsrr_tst_f1 8.2;
+  nsrr_tst_f1 = poslprdp;
   
 *nsrr_phrnumar_f1;
 *use poai_all;
@@ -482,10 +499,10 @@ data mros2_harmonized;
     else if poprstag = 8 then nsrr_flag_spsw = 'unknown';
   else if poprstag = . then nsrr_flag_spsw = 'unknown';  
   
-*nsrr_ttleffsp_f1;
+*nsrr_ttlmefsp_f1;
 *use poslpeff;
-  format nsrr_ttleffsp_f1 8.2;
-  nsrr_ttleffsp_f1 = poslpeff;  
+  format nsrr_ttlmefsp_f1 8.2;
+  nsrr_ttlmefsp_f1 = poslpeff;  
 
 *nsrr_ttllatsp_f1;
 *use posllatp;
@@ -502,10 +519,10 @@ data mros2_harmonized;
   format nsrr_ttldursp_s1sr 8.2;
   nsrr_ttldursp_s1sr = poremlii; 
 
-*nsrr_ttldurws_f1;
+*nsrr_waso_f1;
 *use powaso;
-  format nsrr_ttldurws_f1 8.2;
-  nsrr_ttldurws_f1 = powaso;
+  format nsrr_waso_f1 8.2;
+  nsrr_waso_f1 = powaso;
   
 *nsrr_pctdursp_s1;
 *use potmst1p;
@@ -527,10 +544,25 @@ data mros2_harmonized;
   format nsrr_pctdursp_sr 8.2;
   nsrr_pctdursp_sr = potmremp;
 
-*nsrr_ttlprdbd_f1;
+*nsrr_tid_f1;
 *use potimebd;
-  format nsrr_ttlprdbd_f1 8.2;
-  nsrr_ttlprdbd_f1 = potimebd;  
+  format nsrr_tid_f1 8.2;
+  nsrr_tid_f1 = potimebd;  
+  
+*nsrr_begtimbd_f1;
+*use postlotp;
+  format nsrr_begtimbd_f1 time8.;
+  nsrr_begtimbd_f1 = postlotp;
+
+*nsrr_begtimsp_f1;
+*use postontp;
+  format nsrr_begtimsp_f1 time8.;
+  nsrr_begtimsp_f1 = postontp;
+
+*nsrr_endtimbd_f1;
+*use postlont;
+  format nsrr_endtimbd_f1 time8.;
+  nsrr_endtimbd_f1 = postlont;  
   
   keep 
     nsrrid
@@ -549,19 +581,22 @@ data mros2_harmonized;
   nsrr_ahi_hp3r_aasm15
   nsrr_ahi_hp4u_aasm15
   nsrr_ahi_hp4r
-  nsrr_ttldursp_f1
+  nsrr_tst_f1
   nsrr_phrnumar_f1
   nsrr_flag_spsw
-  nsrr_ttleffsp_f1
+  nsrr_ttlmefsp_f1
   nsrr_ttllatsp_f1
   nsrr_ttlprdsp_s1sr
   nsrr_ttldursp_s1sr
-  nsrr_ttldurws_f1
+  nsrr_waso_f1
   nsrr_pctdursp_s1
   nsrr_pctdursp_s2
   nsrr_pctdursp_s3
   nsrr_pctdursp_sr
-  nsrr_ttlprdbd_f1
+  nsrr_tib_f1
+  nsrr_begtimbd_f1
+  nsrr_begtimsp_f1
+  nsrr_endtimbd_f1
     ;
 run;
 
@@ -589,18 +624,21 @@ VAR   nsrr_age
   nsrr_ahi_hp3r_aasm15
   nsrr_ahi_hp4u_aasm15
   nsrr_ahi_hp4r
-  nsrr_ttldursp_f1
+  nsrr_tst_f1
   nsrr_phrnumar_f1
   nsrr_ttleffsp_f1
   nsrr_ttllatsp_f1
   nsrr_ttlprdsp_s1sr
   nsrr_ttldursp_s1sr
-  nsrr_ttldurws_f1
+  nsrr_waso_f1
   nsrr_pctdursp_s1
   nsrr_pctdursp_s2
   nsrr_pctdursp_s3
   nsrr_pctdursp_sr
-  nsrr_ttlprdbd_f1;
+  nsrr_tib_f1
+  nsrr_begtimbd_f1
+  nsrr_begtimsp_f1
+  nsrr_endtimbd_f1;
 run;
 
 /* Checking categorical variables */

@@ -6,7 +6,8 @@
   "units": "pipe bowls",
   "labels": [
     "mros_clinical_interview_form",
-    "sleep_hygiene"
+    "sleep_hygiene",
+    "smoking"
   ],
   "forms": [
     "mros1_psg_morning_survey_form",

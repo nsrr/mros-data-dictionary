@@ -1,7 +1,7 @@
 ## 0.7.0 
 
 - Add harmonized sleep architecture variables
-- Add annotated QS form for polysomnography data (not done yet)
+- Add annotated QS form for polysomnography data 
 - Rename PSG folders (Administrative and Arousals)
 - The CSV datasets generated from the SAS export is located here:
   - `\\rfawin\bwh-sleepepi-mros\nsrr-prep\_releases\0.7.0\`
