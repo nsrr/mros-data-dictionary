@@ -546,8 +546,8 @@ data mros2_harmonized;
 
 *nsrr_tid_f1;
 *use potimebd;
-  format nsrr_tid_f1 8.2;
-  nsrr_tid_f1 = potimebd;  
+  format nsrr_tib_f1 8.2;
+  nsrr_tib_f1 = potimebd;  
   
 *nsrr_begtimbd_f1;
 *use postlotp;

@@ -4,6 +4,7 @@
   "description": "Harmonized by the NSRR team. Source: :potmst1p:",
   "type": "numeric",
   "units": "percent (%)",
+  "domain": "numeric_missing_m",
   "labels": [
     "pctdursp_s1_f1t2"
   ],
