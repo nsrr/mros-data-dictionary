@@ -3,7 +3,8 @@
   "display_name": "Sitting measurement 2: Systolic",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "domain": "numeric_missing",
+  "units": "millimeters of mercury (mmHg)",
   "forms": [
     "mros1_anthropometry_form",
     "mros2_anthropometry_form"

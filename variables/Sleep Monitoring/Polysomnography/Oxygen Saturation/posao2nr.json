@@ -3,7 +3,8 @@
   "display_name": "Average oxygen saturation in NREM sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "domain": "numeric_missing",
+  "units": "percent (%)",
   "labels": [
     "avglvlsa_sn_f1t2"
   ]

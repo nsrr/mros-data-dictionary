@@ -3,6 +3,7 @@
   "display_name": "Beginning (start) point time for bed (in-bed) from type II polysomnography",
   "description": "Lights out time",
   "type": "time",
+  "units": "hh:mm:ss",
   "labels": [
     "begtimbd_f1t2"
   ]

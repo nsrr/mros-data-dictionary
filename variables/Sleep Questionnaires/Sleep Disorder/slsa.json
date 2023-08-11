@@ -6,7 +6,8 @@
   "domain": "yndk",
   "labels": [
     "mros_medical_history_form",
-    "sdb"
+    "sdb",
+    "SleepHealth_sleep_apnea"
   ],
   "forms": [
     "mros1_medical_history_form",

@@ -3,7 +3,7 @@
   "display_name": "Total number of oxygen desaturation in sleep with oxygen desaturation >= 3% from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "desaturation events",
+  "units": "number of events",
   "labels": [
     "ttlumds_dsge3_f1t2"
   ]

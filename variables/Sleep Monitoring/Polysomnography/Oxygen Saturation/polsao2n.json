@@ -3,6 +3,7 @@
   "display_name": "Minimum oxygen saturation in NREM sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "labels": [
     "minlvlsa_sn_f1t2"
   ]

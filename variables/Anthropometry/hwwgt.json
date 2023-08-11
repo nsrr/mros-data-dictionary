@@ -3,7 +3,8 @@
   "display_name": "Weight",
   "description": "",
   "type": "numeric",
-  "units": "kilograms",
+  "domain": "numeric_missing",
+  "units": "kilograms (kg)",
   "forms": [
     "mros1_anthropometry_form",
     "mros2_anthropometry_form"

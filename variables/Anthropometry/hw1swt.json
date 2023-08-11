@@ -3,7 +3,8 @@
   "display_name": "Change in average weight, V1 to sleep",
   "description": "",
   "type": "numeric",
-  "units": "kilograms",
+  "domain": "numeric_missing",
+  "units": "kilograms (kg)",
   "forms": [
     "mros1_anthropometry_form"
   ]

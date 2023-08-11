@@ -3,7 +3,7 @@
   "display_name": "On most nights, how many hours do you sleep each night?",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "mros_clinical_interview_form",
     "sleep_duration"

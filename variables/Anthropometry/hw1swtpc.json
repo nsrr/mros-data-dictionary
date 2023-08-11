@@ -3,7 +3,8 @@
   "display_name": "Percent change in average weight, V1 to sleep",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "domain": "numeric_missing",
+  "units": "percent (%)",
   "forms": [
     "mros1_anthropometry_form"
   ]

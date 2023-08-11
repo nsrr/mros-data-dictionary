@@ -7,7 +7,8 @@
   "labels": [
     "mros_sleep_habits_form",
     "psqi",
-    "psqi_slpmed"
+    "psqi_slpmed",
+    "SleepHealth_medication"
   ],
   "forms": [
     "mros1_sleep_habits_form",

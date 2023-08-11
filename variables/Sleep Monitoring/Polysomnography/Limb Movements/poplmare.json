@@ -3,7 +3,8 @@
   "display_name": "Total number of periodic limb movements (PLM) in REM sleep with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "limb movements",
+  "domain": "numeric_missing",
+  "units": "number of events",
   "labels": [
     "ttlnumpl_srso_f1t2"
   ]

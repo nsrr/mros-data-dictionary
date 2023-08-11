@@ -3,7 +3,8 @@
   "display_name": "Average diastolic blood pressure",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "domain": "numeric_missing",
+  "units": "millimeters of mercury (mmHg)",
   "commonly_used": true,
   "forms": [
     "mros1_anthropometry_form"

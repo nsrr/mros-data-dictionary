@@ -3,7 +3,8 @@
   "display_name": "Change in average height, VD to sleep",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
+  "domain": "numeric_missing",
+  "units": "centimeters (cm)",
   "forms": [
     "mros1_anthropometry_form"
   ]

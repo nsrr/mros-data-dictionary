@@ -3,7 +3,8 @@
   "display_name": "Maximum duration of apnea: all apneas with no oxygen desaturation threshold used and with or without arousal in sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "seconds",
+  "domain": "numeric_missing",
+  "units": "seconds (s)",
   "labels": [
     "maxdurap_ap0u_f1t2"
   ]

@@ -3,7 +3,8 @@
   "display_name": "How many glasses of wine did you have during the 4 hours before you went to sleep last night?",
   "description": "",
   "type": "numeric",
-  "units": "drinks",
+  "domain": "numeric_missing",
+  "units": "number of servings",
   "labels": [
     "mros_clinical_interview_form",
     "sleep_hygiene"

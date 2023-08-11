@@ -8,7 +8,8 @@
     "mros_sleep_habits_form",
     "sdb",
     "psqi",
-    "psqi_21breathpause"
+    "psqi_21breathpause",
+    "SleepHealth_sleep_apnea"
   ],
   "forms": [
     "mros1_sleep_habits_form",

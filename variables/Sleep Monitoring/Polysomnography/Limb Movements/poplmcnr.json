@@ -3,7 +3,7 @@
   "display_name": "Total number of periodic limb movement clusters in NREM sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumpc_sn_f1t2"
   ]

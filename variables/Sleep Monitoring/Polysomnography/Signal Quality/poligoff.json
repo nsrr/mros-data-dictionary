@@ -2,5 +2,6 @@
   "id": "poligoff",
   "display_name": "Reported time to bed by participant",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm"
 }

@@ -3,6 +3,7 @@
   "display_name": "Functional Outcomes of Sleep: Vigilance Score (1-4)",
   "description": "Subscore based on 7 items from Functional Outcomes of Sleep Questionnaire. A lower score suggests greater difficulty in vigilance. [Weaver et. al, 1997 (Pubmed ID: 9415942)](https://www.ncbi.nlm.nih.gov/pubmed/9415942)<br><br> [Search for all Functional Outcomes of Sleep variables within this dataset](https://sleepdata.org/datasets/mros/variables?search=fosq)",
   "type": "numeric",
+  "domain": "numeric_missing",
   "labels": [
     "fosq",
     "fosq_vigilancescore"

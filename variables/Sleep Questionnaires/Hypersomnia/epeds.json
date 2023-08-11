@@ -6,7 +6,8 @@
   "domain": "yndk",
   "labels": [
     "epworth",
-    "subjective_sleepiness"
+    "subjective_sleepiness",
+    "SleepHealth_alterness"
   ],
   "forms": [
     "mros1_clinic_interview_form",

@@ -3,6 +3,7 @@
   "display_name": "Maximum oxygen saturation in REM sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "labels": [
     "maxlvlsa_sr_f1t2"
   ]

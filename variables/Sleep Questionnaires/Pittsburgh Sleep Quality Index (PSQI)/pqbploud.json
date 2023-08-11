@@ -9,7 +9,8 @@
     "snore",
     "sdb",
     "psqi",
-    "psqi_20snore"
+    "psqi_20snore",
+    "SleepHealth_sleep_apnea"
   ],
   "forms": [
     "mros1_sleep_habits_form",

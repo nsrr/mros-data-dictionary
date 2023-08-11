@@ -3,7 +3,8 @@
   "display_name": "Number of periodic limb movements (PLM) with arousal per hour of sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "limb movements per hour",
+  "domain": "numeric_missing",
+  "units": "number of events per hour",
   "labels": [
     "phrnumpl_suso_f1t2"
   ]

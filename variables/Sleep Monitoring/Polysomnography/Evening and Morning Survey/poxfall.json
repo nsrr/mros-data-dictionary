@@ -3,7 +3,8 @@
   "display_name": "How long did it take you to fall asleep at bedtime last night?",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "domain": "numeric_missing",
+  "units": "minutes (min)",
   "labels": [
     "mros_clinical_interview_form",
     "sleep_latency"

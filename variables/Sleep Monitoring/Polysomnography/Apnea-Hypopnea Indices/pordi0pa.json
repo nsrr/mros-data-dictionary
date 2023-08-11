@@ -3,7 +3,8 @@
   "display_name": "Apnea-Hypopnea Index: Apneas with no oxygen desaturation threshold used or with arousal+ hypopneas with > 30% flow reduction and with no oxygen desaturation used or with arousal / hour of sleep from type II polysomnography",
   "description": "Overall RDI at 0% desaturation or arousal",
   "type": "numeric",
-  "units": "events per hour",
+  "domain": "numeric_missing",
+  "units": "number of events per hour",
   "labels": [
     "ahi_ap0rhp3x0r_f1t2"
   ]

@@ -3,7 +3,8 @@
   "display_name": "Total number of periodic limb movement clusters in stage 3/4 sleep with arousal from type II polysomnography",
   "description": "Number of PLM clusters with arousal in delta sleep",
   "type": "numeric",
-  "units": "limb movements",
+  "domain": "numeric_missing",
+  "units": "number of events",
   "labels": [
     "ttlnumpc_s3so_f1t2"
   ]

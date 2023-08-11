@@ -3,7 +3,8 @@
   "display_name": "REM Sleep Latency: the interval between the first sleep epoch and REM sleep excluding wake from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "domain": "numeric_missing",
+  "units": "minutes (min)",
   "labels": [
     "ttldursp_s1sr_f1t2"
   ]

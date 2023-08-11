@@ -8,7 +8,8 @@
     "mros_sleep_habits_form",
     "insomnia",
     "psqi",
-    "psqi_07wakeearly"
+    "psqi_07wakeearly",
+    "SleepHealth_insomnia"
   ],
   "forms": [
     "mros1_sleep_habits_form",

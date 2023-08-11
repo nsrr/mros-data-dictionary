@@ -3,7 +3,8 @@
   "display_name": "How many pipe bowls did you smoke during the 4 hours before you went to sleep last night?",
   "description": "",
   "type": "numeric",
-  "units": "pipe bowls",
+  "domain": "numeric_missing",
+  "units": "number of servings",
   "labels": [
     "mros_clinical_interview_form",
     "sleep_hygiene",

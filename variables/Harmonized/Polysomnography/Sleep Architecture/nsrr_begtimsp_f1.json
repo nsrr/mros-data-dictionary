@@ -3,6 +3,7 @@
   "display_name": "Sleep onset time from polysomnography",
   "description": "Harmonized by the NSRR team. Source: :postontp:",
   "type": "time",
+  "units": "hh:mm:ss",
   "labels": [
     "begtimsp_f1t1"
   ],

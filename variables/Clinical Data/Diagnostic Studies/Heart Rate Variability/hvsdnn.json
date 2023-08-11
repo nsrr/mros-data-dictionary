@@ -3,5 +3,5 @@
   "display_name": "Standard deviation of normal to normal heart beats",
   "description": "",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds (s)"
 }

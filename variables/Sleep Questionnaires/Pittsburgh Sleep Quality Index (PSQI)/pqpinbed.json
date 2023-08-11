@@ -3,12 +3,15 @@
   "display_name": "Pittsburgh Sleep Quality Index: Hours in bed",
   "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/mros/variables?search=psqi)",
   "type": "numeric",
-  "units": "hours",
+  "domain": "numeric_missing",
+  "units": "hours (hr)",
   "labels": [
     "mros_sleep_habits_form",
     "sleep_duration",
     "psqi",
-    "psqi_05timeinbed"
+    "psqi_05timeinbed",
+    "SleepHealth_duration",
+    "SleepHealth_efficiency"
   ],
   "forms": [
     "mros1_sleep_habits_form",

@@ -3,6 +3,7 @@
   "display_name": "Functional Outcomes of Sleep: Global Score (5-20)",
   "description": "Summary score based on the sum of the subscale scores of the Functional Outcomes of Sleep Questionnaire, with potential range of 5 to 20. A lower score suggests greater function impairment. [Weaver et. al, 1997 (Pubmed ID: 9415942)](https://www.ncbi.nlm.nih.gov/pubmed/9415942)<br><br> [Search for all Functional Outcomes of Sleep variables within this dataset](https://sleepdata.org/datasets/mros/variables?search=fosq)",
   "type": "numeric",
+  "domain": "numeric_missing",
   "labels": [
     "fosq",
     "fosq_globalscore"

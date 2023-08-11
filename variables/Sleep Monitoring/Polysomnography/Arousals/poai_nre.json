@@ -3,6 +3,7 @@
   "display_name": "Arousal Index (NREM): number of arousals per hour of NREM sleep from type II polysomnography",
   "description": "Non-REM Arousal Index - total arousals in non-REM sleep per hours of non-REM sleep  [(Total number of arousals in non-REM sleep) / (hours of non-REM sleep)]",
   "type": "numeric",
+  "domain": "numeric_missing",
   "labels": [
     "phrnumar_sn_f1t2"
   ]

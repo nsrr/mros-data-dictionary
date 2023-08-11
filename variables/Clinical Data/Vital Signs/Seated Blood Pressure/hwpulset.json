@@ -3,7 +3,7 @@
   "display_name": "Pulse 1 + pulse 2",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "forms": [
     "mros2_anthropometry_form"
   ]

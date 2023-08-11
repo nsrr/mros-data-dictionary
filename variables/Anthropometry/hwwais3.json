@@ -3,7 +3,8 @@
   "display_name": "Waist, measurement 3",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
+  "domain": "numeric_missing",
+  "units": "centimeters (cm)",
   "forms": [
     "mros1_anthropometry_form",
     "mros2_anthropometry_form"

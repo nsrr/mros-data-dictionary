@@ -3,7 +3,8 @@
   "display_name": "Body mass index, V1 to sleep",
   "description": "",
   "type": "numeric",
-  "units": "kilograms per meter squared",
+  "domain": "numeric_missing",
+  "units": "kilograms per meters squared (kg/m2)",
   "forms": [
     "mros1_anthropometry_form"
   ]

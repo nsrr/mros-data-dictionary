@@ -3,7 +3,7 @@
   "display_name": "Change in average weight, VD to VS2",
   "description": "",
   "type": "numeric",
-  "units": "kilograms",
+  "units": "kilograms (kg)",
   "forms": [
     "mros2_anthropometry_form"
   ]

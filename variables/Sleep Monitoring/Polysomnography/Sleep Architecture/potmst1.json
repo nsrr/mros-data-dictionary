@@ -3,7 +3,8 @@
   "display_name": "Total duration of Stage 1 sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "domain": "numeric_missing",
+  "units": "minutes (min)",
   "labels": [
     "ttldursp_s1_f1t2"
   ]

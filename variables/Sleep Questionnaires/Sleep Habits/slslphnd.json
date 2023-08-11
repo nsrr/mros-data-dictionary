@@ -3,7 +3,8 @@
   "display_name": "How many hours of sleep do you need each night to feel rested?",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "domain": "numeric_missing",
+  "units": "hours (hr)",
   "labels": [
     "mros_clinical_interview_form",
     "sleep_duration",

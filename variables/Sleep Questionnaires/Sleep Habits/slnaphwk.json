@@ -3,7 +3,8 @@
   "display_name": "Number of hours napping per week",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "domain": "numeric_missing",
+  "units": "hours (hr)",
   "labels": [
     "mros_clinical_interview_form",
     "sleep_hygiene"
