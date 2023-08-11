@@ -3,6 +3,7 @@
   "display_name": "Percent change in average weight, V1 to VS2",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "units": "percent (%)",
   "forms": [
     "mros2_anthropometry_form"

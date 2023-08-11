@@ -3,6 +3,7 @@
   "display_name": "Change in average hip circumference, V3 to VS2",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "units": "centimeters (cm)",
   "forms": [
     "mros2_anthropometry_form"

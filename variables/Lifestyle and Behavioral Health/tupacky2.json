@@ -3,6 +3,7 @@
   "display_name": "Smoke: Cigarette packs per year",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "labels": [
     "mros_clinical_interview_form",
     "smoking"

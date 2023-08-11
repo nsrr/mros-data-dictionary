@@ -1,0 +1,32 @@
+[
+  {
+    "value": "A",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "M",
+    "display_name": "Not applicable",
+    "description": ""
+  },
+  {
+    "value": "K",
+    "display_name": "DK/UN",
+    "description": ""
+  },
+  {
+    "value": "W",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": "D",
+    "display_name": "Dont know",
+    "description": ""
+  },
+  {
+    "value": "N",
+    "display_name": "Missing",
+    "description": ""
+  }
+]

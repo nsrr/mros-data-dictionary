@@ -3,6 +3,7 @@
   "display_name": "Body mass index, V2 to VS2",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "units": "kilograms per meters squared (kg/m2)",
   "forms": [
     "mros2_anthropometry_form"

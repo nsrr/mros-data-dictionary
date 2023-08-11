@@ -3,6 +3,7 @@
   "display_name": "Weight change: Now - age 25",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "units": "kilograms (kg)",
   "forms": [
     "mros2_anthropometry_form"

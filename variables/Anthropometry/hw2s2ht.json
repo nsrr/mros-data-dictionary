@@ -3,5 +3,6 @@
   "display_name": "Change in average height, V2 to VS2",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "units": "centimeters (cm)"
 }

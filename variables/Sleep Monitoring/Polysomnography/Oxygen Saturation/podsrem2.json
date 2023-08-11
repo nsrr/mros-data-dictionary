@@ -3,6 +3,7 @@
   "display_name": "Number of oxygen desaturation per hour in REM sleep with oxygen desaturation >= 2% from type II polysomnography",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "units": "number of events per hour",
   "labels": [
     "phrnumds_sr_dsge2_f1t2"

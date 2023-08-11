@@ -3,6 +3,7 @@
   "display_name": "Sleep Latency: the interval between lights-out/in-bed time and sleep onset from polysomnography",
   "description": "Harmonized by the NSRR team. Source: :posllatp:",
   "type": "integer",
+  "domain": "numeric_missing",
   "units": "minutes (min)",
   "labels": [
     "ttllatsp_f1t2"

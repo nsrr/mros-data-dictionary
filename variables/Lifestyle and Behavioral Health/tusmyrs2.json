@@ -3,6 +3,7 @@
   "display_name": "Number of years stopped smoking cigarettes (visit 2)",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "units": "years",
   "labels": [
     "mros_clinical_interview_form",

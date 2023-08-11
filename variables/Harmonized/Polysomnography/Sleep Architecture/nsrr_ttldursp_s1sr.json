@@ -3,6 +3,7 @@
   "display_name": "REM Sleep Latency: the interval between the first sleep epoch and REM sleep excluding wake",
   "description": "Harmonized by the NSRR team. Source: :poremlii:",
   "type": "numeric",
+  "domain": "numeric_missing",
   "units": "minutes (min)",
   "labels": [
     "ttldursp_s1sr_f1t2"
