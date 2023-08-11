@@ -2,5 +2,6 @@
   "id": "ponobrc",
   "display_name": "Number of bradycardia related to central apnea",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "count"
 }

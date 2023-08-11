@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "domain": "numeric_missing",
+  "units": "percent (%)",
   "labels": [
     "maxlvlsa_sr_f1t2"
   ]

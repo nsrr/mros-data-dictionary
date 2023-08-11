@@ -7,7 +7,7 @@
   "labels": [
     "epworth",
     "subjective_sleepiness",
-    "SleepHealth_alterness"
+    "SleepHealth_alertness"
   ],
   "forms": [
     "mros1_clinic_interview_form",
