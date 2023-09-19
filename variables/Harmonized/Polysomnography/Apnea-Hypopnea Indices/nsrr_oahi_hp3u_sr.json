@@ -1,0 +1,11 @@
+{
+  "id": "nsrr_oahi_hp3u_sr",
+  "display_name": "Obstructive Apnea-Hypopnea Index for REM sleep: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of REM sleep ",
+  "description": "Harmonized by the NSRR team. Source: :pooahi3r:",
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "oahi_sr_oa0uhp3x3u_f1t2"
+  ],
+  "commonly_used": true
+}

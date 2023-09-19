@@ -1,0 +1,11 @@
+{
+  "id": "minsat",
+  "display_name": "Minimum oxygen saturation from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "calculation": "min(polsao2n,polsao2r)",
+  "labels": [
+    "minlvlsa_f1t2"
+  ]
+}

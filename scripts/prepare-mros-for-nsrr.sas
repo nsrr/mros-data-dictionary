@@ -43,6 +43,11 @@ data mros1;
   if postlont < 43200 then postlont_dec = postlont/3600 + 24;
   else postlont_dec = postlont/3600;
 
+  *create average and minimum oxygen saturation;
+  format avgsat minsat 8.2;
+  avgsat=(posao2nr*potmremp+posao2re*(potmst1p+potmst2p+potms34p))/100;
+  minsat=min(polsao2n,polsao2r);
+
   *drop variables;
   drop 
     poremli /*redundant variable (keep poremlat)*/
@@ -120,6 +125,11 @@ data mros2;
   else postontp_dec = postontp/3600;
   if postlont < 43200 then postlont_dec = postlont/3600 + 24;
   else postlont_dec = postlont/3600;
+
+  *create average and minimum oxygen saturation;
+  format avgsat minsat 8.2;
+  avgsat=(posao2nr*potmremp+posao2re*(potmst1p+potmst2p+potms34p))/100;
+  minsat=min(polsao2n,polsao2r);
 
   *drop variables;
   drop 
@@ -345,6 +355,56 @@ data mros1_harmonized;
 *use postlont;
   format nsrr_endtimbd_f1 time8.;
   nsrr_endtimbd_f1 = postlont;
+
+*nsrr_avglvlsa;
+*use avgsat;
+  format nsrr_avglvlsa 8.2;
+  nsrr_avglvlsa = avgsat;
+
+*nsrr_minlvlsa;
+*use minsat;
+  format nsrr_minlvlsa 8.2;
+  nsrr_minlvlsa = minsat;  
+
+*nsrr_cai;
+*use pocai0p;
+  format nsrr_cai 8.2;
+  nsrr_cai = pocai0p; 
+
+*nsrr_oai;
+*use pooai0p;
+  format nsrr_oai 8.2;
+  nsrr_oai = pooai0p;
+
+*nsrr_oahi_hp3u;
+*use pooahi3;
+  format nsrr_oahi_hp3u 8.2;
+  nsrr_oahi_hp3u = pooahi3;
+  
+*nsrr_oahi_hp3u_sr;
+*use pooahi3r;
+  format nsrr_oahi_hp3u_sr 8.2;
+  nsrr_oahi_hp3u_sr = pooahi3r;
+  
+*nsrr_oahi_hp3u_sn;
+*use pooahi3n;
+  format nsrr_oahi_hp3u_sn 8.2;
+  nsrr_oahi_hp3u_sn = pooahi3n;
+  
+*nsrr_oahi_hp4u;
+*use pooahi4;
+  format nsrr_oahi_hp4u 8.2;
+  nsrr_oahi_hp4u = pooahi4;
+  
+*nsrr_oahi_hp4u_sr;
+*use pooahi4r;
+  format nsrr_oahi_hp4u_sr 8.2;
+  nsrr_oahi_hp4u_sr = pooahi4r;
+  
+*nsrr_oahi_hp4u_sn;
+*use pooahi4n;
+  format nsrr_oahi_hp4u_sn 8.2;
+  nsrr_oahi_hp4u_sn = pooahi4n;
   
   keep 
     nsrrid
@@ -359,26 +419,37 @@ data mros1_harmonized;
     nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
-  nsrr_ahi_hp3u
-  nsrr_ahi_hp3r_aasm15
-  nsrr_ahi_hp4u_aasm15
-  nsrr_ahi_hp4r
-  nsrr_tst_f1
-  nsrr_phrnumar_f1
-  nsrr_flag_spsw
-  nsrr_ttlmefsp_f1
-  nsrr_ttllatsp_f1
-  nsrr_ttlprdsp_s1sr
-  nsrr_ttldursp_s1sr
-  nsrr_waso_f1
-  nsrr_pctdursp_s1
-  nsrr_pctdursp_s2
-  nsrr_pctdursp_s3
-  nsrr_pctdursp_sr
-  nsrr_tib_f1
-  nsrr_begtimbd_f1
-  nsrr_begtimsp_f1
-  nsrr_endtimbd_f1;
+    nsrr_ahi_hp3u
+    nsrr_ahi_hp3r_aasm15
+    nsrr_ahi_hp4u_aasm15
+    nsrr_ahi_hp4r
+    nsrr_tst_f1
+    nsrr_phrnumar_f1
+    nsrr_flag_spsw
+    nsrr_ttlmefsp_f1
+    nsrr_ttllatsp_f1
+    nsrr_ttlprdsp_s1sr
+    nsrr_ttldursp_s1sr
+    nsrr_waso_f1
+    nsrr_pctdursp_s1
+    nsrr_pctdursp_s2
+    nsrr_pctdursp_s3
+    nsrr_pctdursp_sr
+    nsrr_tib_f1
+    nsrr_begtimbd_f1
+    nsrr_begtimsp_f1
+    nsrr_endtimbd_f1
+    nsrr_avglvlsa 
+    nsrr_minlvlsa
+    nsrr_cai
+	nsrr_oai
+	nsrr_oahi_hp3u
+	nsrr_oahi_hp3u_sr
+	nsrr_oahi_hp3u_sn
+	nsrr_oahi_hp4u
+	nsrr_oahi_hp4u_sr
+	nsrr_oahi_hp4u_sn
+	;
 run;
 
 * create harmonized data for visit 2;
@@ -564,6 +635,56 @@ data mros2_harmonized;
   format nsrr_endtimbd_f1 time8.;
   nsrr_endtimbd_f1 = postlont;  
   
+*nsrr_avglvlsa;
+*use avgsat;
+  format nsrr_avglvlsa 8.2;
+  nsrr_avglvlsa = avgsat;
+
+*nsrr_minlvlsa;
+*use minsat;
+  format nsrr_minlvlsa 8.2;
+  nsrr_minlvlsa = minsat;  
+
+*nsrr_cai;
+*use pocai0p;
+  format nsrr_cai 8.2;
+  nsrr_cai = pocai0p; 
+
+*nsrr_oai;
+*use pooai0p;
+  format nsrr_oai 8.2;
+  nsrr_oai = pooai0p;
+
+*nsrr_oahi_hp3u;
+*use pooahi3;
+  format nsrr_oahi_hp3u 8.2;
+  nsrr_oahi_hp3u = pooahi3;
+  
+*nsrr_oahi_hp3u_sr;
+*use pooahi3r;
+  format nsrr_oahi_hp3u_sr 8.2;
+  nsrr_oahi_hp3u_sr = pooahi3r;
+  
+*nsrr_oahi_hp3u_sn;
+*use pooahi3n;
+  format nsrr_oahi_hp3u_sn 8.2;
+  nsrr_oahi_hp3u_sn = pooahi3n;
+  
+*nsrr_oahi_hp4u;
+*use pooahi4;
+  format nsrr_oahi_hp4u 8.2;
+  nsrr_oahi_hp4u = pooahi4;
+  
+*nsrr_oahi_hp4u_sr;
+*use pooahi4r;
+  format nsrr_oahi_hp4u_sr 8.2;
+  nsrr_oahi_hp4u_sr = pooahi4r;
+  
+*nsrr_oahi_hp4u_sn;
+*use pooahi4n;
+  format nsrr_oahi_hp4u_sn 8.2;
+  nsrr_oahi_hp4u_sn = pooahi4n;
+  
   keep 
     nsrrid
     visit
@@ -573,31 +694,41 @@ data mros2_harmonized;
     nsrr_race
     nsrr_ethnicity
     nsrr_bmi
-  nsrr_bp_systolic
+    nsrr_bp_systolic
     nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
-  nsrr_ahi_hp3u
-  nsrr_ahi_hp3r_aasm15
-  nsrr_ahi_hp4u_aasm15
-  nsrr_ahi_hp4r
-  nsrr_tst_f1
-  nsrr_phrnumar_f1
-  nsrr_flag_spsw
-  nsrr_ttlmefsp_f1
-  nsrr_ttllatsp_f1
-  nsrr_ttlprdsp_s1sr
-  nsrr_ttldursp_s1sr
-  nsrr_waso_f1
-  nsrr_pctdursp_s1
-  nsrr_pctdursp_s2
-  nsrr_pctdursp_s3
-  nsrr_pctdursp_sr
-  nsrr_tib_f1
-  nsrr_begtimbd_f1
-  nsrr_begtimsp_f1
-  nsrr_endtimbd_f1
-    ;
+    nsrr_ahi_hp3u
+    nsrr_ahi_hp3r_aasm15
+    nsrr_ahi_hp4u_aasm15
+    nsrr_ahi_hp4r
+    nsrr_tst_f1
+    nsrr_phrnumar_f1
+    nsrr_flag_spsw
+    nsrr_ttlmefsp_f1
+    nsrr_ttllatsp_f1
+    nsrr_ttlprdsp_s1sr
+    nsrr_ttldursp_s1sr
+    nsrr_waso_f1
+    nsrr_pctdursp_s1
+    nsrr_pctdursp_s2
+    nsrr_pctdursp_s3
+    nsrr_pctdursp_sr
+    nsrr_tib_f1
+    nsrr_begtimbd_f1
+    nsrr_begtimsp_f1
+    nsrr_endtimbd_f1
+    nsrr_avglvlsa 
+    nsrr_minlvlsa
+    nsrr_cai
+	nsrr_oai
+	nsrr_oahi_hp3u
+	nsrr_oahi_hp3u_sr
+	nsrr_oahi_hp3u_sn
+	nsrr_oahi_hp4u
+	nsrr_oahi_hp4u_sr
+	nsrr_oahi_hp4u_sn
+	;
 run;
 
 * concatenate mros1, and mros2 harmonized datasets;
@@ -638,7 +769,17 @@ VAR   nsrr_age
   nsrr_tib_f1
   nsrr_begtimbd_f1
   nsrr_begtimsp_f1
-  nsrr_endtimbd_f1;
+  nsrr_endtimbd_f1
+    nsrr_avglvlsa 
+    nsrr_minlvlsa
+    nsrr_cai
+	nsrr_oai
+	nsrr_oahi_hp3u
+	nsrr_oahi_hp3u_sr
+	nsrr_oahi_hp3u_sn
+	nsrr_oahi_hp4u
+	nsrr_oahi_hp4u_sr
+	nsrr_oahi_hp4u_sn;
 run;
 
 /* Checking categorical variables */

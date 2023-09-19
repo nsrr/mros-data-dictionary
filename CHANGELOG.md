@@ -1,6 +1,6 @@
 ## 0.7.0 
 
-- Add harmonized sleep architecture variables
+- Add harmonized sleep architecture, AHI and oxygen saturation variables
 - Add annotated QS form for polysomnography data 
 - Rename PSG folders (Administrative and Arousals)
 - Add SleepHealth_* tags
