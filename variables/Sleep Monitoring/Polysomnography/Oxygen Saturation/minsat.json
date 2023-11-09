@@ -6,6 +6,6 @@
   "units": "percent (%)",
   "calculation": "min(polsao2n,polsao2r)",
   "labels": [
-    "minlvlsa_f1t2"
+    "minlvlsa_sp_f1t2"
   ]
 }

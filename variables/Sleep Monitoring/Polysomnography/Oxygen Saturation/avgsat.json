@@ -6,6 +6,6 @@
   "units": "percent (%)",
   "calculation": "(posao2nr*potmremp+posao2re*(potmst1p+potmst2p+potms34p))/100",
   "labels": [
-    "avglvlsa_f1t2"
+    "avglvlsa_sp_f1t2"
   ]
 }

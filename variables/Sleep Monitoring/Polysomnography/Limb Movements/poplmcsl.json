@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
-    "ttlnumpc_f1t2"
+    "ttlnumpc_sp_f1t2"
   ]
 }

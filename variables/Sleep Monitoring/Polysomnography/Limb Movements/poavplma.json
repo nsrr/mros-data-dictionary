@@ -6,6 +6,6 @@
   "domain": "numeric_missing",
   "units": "number of events per hour",
   "labels": [
-    "phrnumpl_suso_f1t2"
+    "phrnumpl_so_f1t2"
   ]
 }

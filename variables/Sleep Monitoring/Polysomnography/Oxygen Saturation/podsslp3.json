@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [
-    "phrnumds_dsge3_f1t2"
+    "phrnumds_sp_dsge3_f1t2"
   ]
 }
